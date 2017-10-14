@@ -17,6 +17,13 @@ training set | 训练集 | 訓練集 | xùnliàn jí
 validation set | 验证集 | 驗證集 | yànzhèng jí
 test set | 测试集 | 測試集 | cèshì jí
 gradient descent (method) | 梯度下降(法) | 梯度下降(法) | tīdù xiàjiàng fǎ
+step size | 步长 | 步長 | bùcháng 
+epoch | 轮 | 輪 | lún
+sgd | 随机梯度下降 | 隨機梯度下降 | suíjī tīdù xiàjiàng
+batch size | 批量样本数 | 批量樣本數 | pīliàng yàngběn shù
+learning rate | 学习率 | 學習率 | xuéxí lǜ 
+overfitting | 过拟合 | 過擬合 | guò nǐhé 
+under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé 
 
 
 [1] Literally, "to make excellent"
@@ -31,11 +38,16 @@ deep... (e.g., neural network) | 深度(神经网络) | 深度(神經網絡) | s
 backpropagation | 反向传播 | 反向傳播 | fǎn xiàng chuánbò
 feedforward (neural) network | 前馈(神经)网络 | 前饋(神經)網絡 | qián kuì (shénjīng) wǎngluò
 convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | juàn jī (shénjīng) wǎngluò
-recurrent (neural) network | 递归(神经)网络 | 遞歸(神經)網絡 | dìguī (shénjīng) wǎngluò
+recursive (neural) network | 递归(神经)网络 | 遞歸(神經)網絡 | dìguī (shénjīng) wǎngluò
+recurrent (neural) network | 循环(神经)网络 | 循環(神經)網絡 | xúnhuán (shénjīng) wǎngluò
 (bidirectional) LSTM | (双向)LSTM网络 | (双向)LSTM網絡 | (shuāngxiàng) LSTM wǎngluò
 (bidirectional) LSTM | (双向)长短时记忆循环神经网络 [1] | (雙向)長短時記憶循環神經網絡 [1] | (shuāngxiàng) chángduǎn shí jìyì xúnhuán shénjīng wǎngluò
+tree-LSTM | 树形长短时记忆递归神经网络 | 樹形長短時記憶遞歸神經網網絡 |shùxíng chángduǎn shí jìyì dìguī shénjīng wǎngluò
 fully-connected (layer) | 全连接(层) | 全連接(層) | quán liánjiē (céng)
 autoencoder | 自编码器 | 自編碼器 | zì biānmǎ qì
+transfer learning | 迁移学习 | 遷移學習 | qiānyí xuéxí
+multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
+reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí 
 
 [1] More precisely, bidirectional long-short term memory recurrent neural network
 
