@@ -2,7 +2,7 @@
 
 ## General Machine Learning
 
-English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
@@ -30,7 +30,7 @@ under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé
 
 ## Deep Learning
 
-English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 deep learing | 深度学习 | 深度學習 | shēndù xuéxí
 neural network | 神经网络 | 神經網絡 | shénjīng wǎngluò
@@ -53,7 +53,7 @@ reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
 
 ## Databases, Big Data, etc.
 
-English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 big data | 大数据 | 大數據 | dà shùjù
 data science | 数据科学 | 數據科學 | shùjù kēxué
