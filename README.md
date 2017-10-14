@@ -2,17 +2,19 @@
 
 ## General Machine Learning
 
-English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
 regression | 回归 | 回歸 | huíguī
-classification | 与分类 | 與分類 | yǔ fēnlèi
+classification | 分类 | 分類 | fēnlèi
+logistic regression | 逻辑回归 | 邏輯回歸 | luójí huíguī
 sample (noun) | 样本 | 樣本 | yàngběn
+sample (verb) | 采样| 採樣 | cǎiyàng
 train | 训练 | 訓練 | xùnliàn
 test | 测试 | 測試 | cèshì
-fit model parameters | 确定模型参数 | 確定模型參數 | quèdìng móxíng cānshù
+fit model parameters | 拟合模型参数 | 擬合模型參數 | nǐhé móxíng cānshù
 training set | 训练集 | 訓練集 | xùnliàn jí
 validation set | 验证集 | 驗證集 | yànzhèng jí
 test set | 测试集 | 測試集 | cèshì jí
@@ -23,9 +25,9 @@ gradient descent (method) | 梯度下降(法) | 梯度下降(法) | tīdù xiàj
 
 ## Deep Learning
 
-English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
-deep learing | 深度学习 | 深度學習 | shēndù xuéxí
+deep learning | 深度学习 | 深度學習 | shēndù xuéxí
 neural network | 神经网络 | 神經網絡 | shénjīng wǎngluò
 deep... (e.g., neural network) | 深度(神经网络) | 深度(神經網絡) | shēndù (shénjīng wǎngluò)
 backpropagation | 反向传播 | 反向傳播 | fǎn xiàng chuánbò
