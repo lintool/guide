@@ -8,7 +8,7 @@ linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
 regression | 回归 | 回歸 | huíguī
-classification | 与分类 | 與分類 | yǔ fēnlèi
+classification | 分类 | 分類 | fēnlèi
 sample (noun) | 样本 | 樣本 | yàngběn
 train | 训练 | 訓練 | xùnliàn
 test | 测试 | 測試 | cèshì
@@ -63,10 +63,10 @@ scale out | 平面扩容 | 平面擴容 | píngmiàn kuòróng
 platform | 平台 | 平台 | píngtái
 relational database | 关系数据库 | 關係數據庫 | guānxì shùjùkù
 NoSQL database | 非关系数据库 [1] | 非關係數據庫 [1] | fēi guānxì shùjùkù
-key-value store | 键值存储系统 (or 库)? | 
-document store | 文档存储系统 (or 库)?
-column store | 基于列存储系统 (or 库)?
-graph store | 图形数据存储系统 (or 库)?
+key-value store | 键值(数据)库 | 鍵值(數據)庫 | jiàn zhí (shùjù) kù
+document store | 文档数据库 | 文檔數據庫 | wéndàng shùjùkù
+column store | 列(式)数据库 | 列(式)數據庫 | liè (shì) shùjùkù
+graph store | 图数据库 | 圖數據庫 | tú shùjùkù
 API |
 cluster |
 node |
