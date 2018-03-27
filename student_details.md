@@ -17,3 +17,6 @@ time of writing, use the following legends to remind you of to-dos
 Use \blue{} to remind yourself of the changes that you would have to make
 Jimmy will use \red{} to notify you if he wants you to add anything to the paper
 
+By:
+Royal Sequeira
+Master's Student
