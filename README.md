@@ -6,6 +6,7 @@ English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 browser | 浏览器 | 瀏覽器 | liúlǎn qì
 search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
+recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
 
 
 ## General Machine Learning
