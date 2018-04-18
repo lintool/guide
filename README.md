@@ -1,5 +1,13 @@
 # Chinese Technical Terms
 
+## General Technical Terms
+
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
+--------|:--|:--|:--
+browser | 浏览器 | 瀏覽器 | liúlǎn qì
+search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
+
+
 ## General Machine Learning
 
 English | Chinese (simplified) | Chinese (traditional) | Pinyin
