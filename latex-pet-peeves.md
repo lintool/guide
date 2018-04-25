@@ -1,0 +1,17 @@
+# Latex Pet Peeves
+
++ Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html).
+
++ It's `key--value` as in `key--value` store, not `key-value`. 
+
++ Footnotes go after the punctation, as in `End of sentence.\footnote{...}`. Note, there is _no_ space between punctation and the footnote.
+
++ There is a difference between end-of-sentence spacing and intra-sentence spacing after a period. For example, `cat vs.\ dog` but `I like cats. She likes dogs.`
+
++ Cite a reference as `Lin et al.~\cite{Lin}`. Note `~` prevents ugly breaks.
+
++ **NEVER** *ever* begin a sentence with a citation. e.g., "[5] explored the use of..."
+
++ A citation is not a noun phrase, e.g., "is shown in [5]" is bad; should be "is shown by Smith et al. [5]". (Although I break this rule myself sometimes.)
+
++ Name your proceeding volumes consistently in the biblography.
