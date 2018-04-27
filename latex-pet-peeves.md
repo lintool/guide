@@ -2,7 +2,9 @@
 
 + Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html).
 
-+ It's `key--value` as in `key--value` store, not `key-value`. 
+  + It's `key--value` as in `key--value` store, not `key-value`.
+
+  + It's `human--computer interaction`. Note that the [Wikipedia article](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) gets it right and [this incorrect URL](https://en.wikipedia.org/wiki/Human-computer_interaction) redirects to the correct article.
 
 + Footnotes go after the punctation, as in `End of sentence.\footnote{...}`. Note, there is _no_ space between punctation and the footnote.
 
