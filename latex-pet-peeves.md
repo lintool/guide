@@ -1,4 +1,16 @@
-# Latex Pet Peeves
+# Writing Pet Peeves
+
+## Grammar and Style
+
++ Stay in the same tense! Some authors like to describe experiments in the past tense, e.g., "The user received a push notification and clicked on it." Others like to describe experiments in the present tense, e.g., "The user receives a push notification and clicks on it." Both are fine, but stay consistent in the same tense. Don't write, "The user receives a push notification and clicks on it. The click was then recorded by the server."
+
++ "Related work", **not** "related works". "Work" is a collective noun, like "sand". You don't say "sands".
+
++ Common noun-verb (note that in Latext this would be an en-dash) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
+
+## Latex Pet Peeves
+
+### Finer Points of Punctuation
 
 + Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html).
 
@@ -10,9 +22,7 @@
 
 + There is a difference between end-of-sentence spacing and intra-sentence spacing after a period. For example, `cat vs.\ dog` but `I like cats. She likes dogs.`
 
-+ "Related work", **not** "related works". "Work" is a collective noun, like "sand". You don't say "sands".
-
-+ Common noun-verb (note that in Latext this would be an en-dash) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
+### Citations
 
 + Cite a reference as `Lin et al.~\cite{Lin}`. Note `~` prevents ugly breaks.
 
