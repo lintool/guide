@@ -10,6 +10,10 @@
 
 + There is a difference between end-of-sentence spacing and intra-sentence spacing after a period. For example, `cat vs.\ dog` but `I like cats. She likes dogs.`
 
++ "Related work", **not** "related works". "Work" is a collective noun, like "sand". You don't say "sands".
+
++ Common noun-verb (note that in Latext this would be an en-dash) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
+
 + Cite a reference as `Lin et al.~\cite{Lin}`. Note `~` prevents ugly breaks.
 
 + **NEVER** *ever* begin a sentence with a citation. e.g., "[5] explored the use of..."
