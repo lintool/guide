@@ -4,7 +4,7 @@
 
 + Stay in the same tense! Some authors like to describe experiments in the past tense, e.g., "The user received a push notification and clicked on it." Others like to describe experiments in the present tense, e.g., "The user receives a push notification and clicks on it." Both are fine, but stay consistent in the same tense. Don't write, "The user receives a push notification and clicks on it. The click was then recorded by the server."
 
-+ "Related work", **not** "related works". "Work" is a collective noun, like "sand". You don't say "sands".
++ "Related work", **not** "related works". "Work" is a collective noun, like "staff". You don't say "research staffs".
 
 + Common noun-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
