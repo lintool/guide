@@ -2,9 +2,11 @@
 
 Every time I come across a media mention of the burgeoning tech scene in Waterloo, the GTA ([Greater Toronto Area](https://en.wikipedia.org/wiki/Greater_Toronto_Area)), or Canada in general, I make note of it here.
 
-I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with a big grain of NaCl.
+I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with a big grain of [NaCl](https://en.wikipedia.org/wiki/Salt).
 
 ---
+
+May 15, 2018: [To increase Canadian innovation, take a lesson from our AI successes](https://www.theglobeandmail.com/business/commentary/article-to-increase-canadian-innovation-take-a-lesson-from-our-ai-successes/)
 
 May 4, 2018: [Canada’s brain gain – the reverse migration of tech talent is happening](https://www.theglobeandmail.com/business/commentary/article-canadas-brain-gain-the-reverse-migration-of-tech-talent-is/)
 
