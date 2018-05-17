@@ -1,5 +1,5 @@
 
-## Writing a research paper with me
+## Writing a Research Paper With Me
 
 I can't stress this enough. Start early.
 
@@ -35,13 +35,24 @@ and Related Work", directly following the introduction.
 
 Save the introduction for last.
 
+### The Story
+
+The introduction is
+where you "tell the story" and attempt to convince the reviewer why
+they should care, relating the work to the broader context of what
+people in the field consider important. 
+
+At the end of the introduction, I typically include an explicit contributions paragraph, e.g., "We believe this work makes the following contributions..."
+Writing the contributions is difficult, but a necessary part of academic writing.
+It is absolutely essential that claimed contributions are supported (empirically or otherwise) in the paper.
+Typically, these claims evolve with the rest of the paper: for example, initially, we expect our experimental results to support one assertion, but then the results are a bit unexpected, so we need to tweak our claim.
+Or, alternatively, we would like to strengthen our claim or make a slightly different assertion, so this leads running slightly different experiments as support.
+It is not unusual for these changes to happen in a few rounds before we finally converge on a set of claims we're happy with and the evidence that supports those claims.
+
 ### My Input
 
 If you're a junior student, I will usually write the introduction for
-you, because that's the hardest part to write. The introduction is
-where you "tell the story" and attempt to convince the reviewer why
-they should care, relating the work to the broader context of what
-people in the field consider important. As you gain experience, I
+you, because that's the hardest part to write. As you gain experience, I
 expect you to be able to start telling your own story. This is the
 hardest skill to master.
 
