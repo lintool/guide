@@ -5,11 +5,11 @@ Over the years, I've become increasingly convinced that the graduate school expe
 This [intensively personal](http://phdcomics.com/comics.php?f=1296) relationship is difficult to scale, but I've discovered that I give the same advice over and over again.
 So, it makes sense to write things down.
 This repo is the result of those efforts.
-Everytime I say something to a student that I've repeated before, I write it down here.
+Every time I say something to a student that I've repeated before, I write it down here.
 
 The result is a student's guide to @lintool.
 
-Of course, every advisor is idiosyncratic (putting it midly), and I only claim that this advice is what I give to _my_ students.
+Of course, every advisor is idiosyncratic (putting it mildly), and I only claim that this advice is what I give to _my_ students.
 However, I suspect that at least some of what I do can be characterized as "research best practices", and hence more broadly applicable to others, which is why I'm publicly sharing these documents.
 Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.wikipedia.org/wiki/Sodium_chloride).
 
