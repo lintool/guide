@@ -99,7 +99,7 @@ with no "hands-on-keyboard" work. For postdocs, I might not even be a
 co-author.
 
 If you are unclear what type of help you are going to get from me,
-**ask**! I will be clear and upfront to you and say things like, "I'll
+**ask**! I will be clear and up front to you and say things like, "I'll
 have all of Thursday morning to devote to your paper" or "I have too
 many other deadlines. I'll write your introduction but otherwise you
 are on your own."
