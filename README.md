@@ -15,3 +15,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 
 + [Writing a Research Paper With Me](writing-a-research-paper-with-me.md): this describes specifically how I work with my students, but may contain general advice on writing research papers that are broadly applicable.
 + [Writing Pet Peeves](writing-pet-peeves.md): If you want to stay on my good side.
+
+## Other Resources
+
++ [Jinfeng Rao's job hunt experience](https://zhuanlan.zhihu.com/p/35435776) (in Chinese)
