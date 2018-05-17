@@ -28,6 +28,14 @@
 
 + Common noun-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
+### Citations
+
++ **NEVER** *ever* begin a sentence with a citation. e.g., "[5] explored the use of..." The worst is related work that's simply a collection of such sentences, e.g. "[1] did this... [2] did that... [3] did other".
+
++ A citation is not a noun phrase, e.g., "is shown in [5]" is bad; should be "is shown by Smith et al. [5]". (Although I break this rule myself sometimes, especially if I'm trying to save a bit of space.)
+
++ Name your proceedings volumes consistently in the bibliography. I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. The fact that NAACL can't even consistently name their conferences from year to year drives me nuts: its [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a hyphen); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash to begin with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/). So I'm torn between inconsistency vs. citing a proceedings volume that technically never existed.
+
 ## Latex
 
 ### Finer Points of Punctuation
@@ -42,15 +50,7 @@
 
 + There is a difference between end-of-sentence spacing and intra-sentence spacing after a period. For example, `cat vs.\ dog` but `I like cats. She likes dogs.`
 
-### Citations
-
 + Cite a reference as `Lin et al.~\cite{Lin}`. Note `~` prevents ugly breaks.
-
-+ **NEVER** *ever* begin a sentence with a citation. e.g., "[5] explored the use of..."
-
-+ A citation is not a noun phrase, e.g., "is shown in [5]" is bad; should be "is shown by Smith et al. [5]". (Although I break this rule myself sometimes.)
-
-+ Name your proceeding volumes consistently in the bibliography.
 
 ### Misc
 
