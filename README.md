@@ -3,6 +3,8 @@
 
 I can't stress this enough. Start early.
 
+### Writing Order
+
 Start writing your paper from the results section. In fact, start with
 the results figures or tables. Usually, we would have discussed the
 contribution claims of the paper well in advance. Make sure the
@@ -32,6 +34,8 @@ standards. In the latter case I usually call the section "Background
 and Related Work", directly following the introduction.
 
 Save the introduction for last.
+
+### My Input
 
 If you're a junior student, I will usually write the introduction for
 you, because that's the hardest part to write. The introduction is
@@ -88,6 +92,8 @@ If you are unclear what type of help you are going to get from me,
 have all of Thursday morning to devote to your paper" or "I have too
 many other deadlines. I'll write your introduction but otherwise you
 are on your own."
+
+### Comparing Before and After
 
 For any part of your paper that I have rewritten, it is important that
 you compare "before" and "after" (look at the `git` commit), for three
