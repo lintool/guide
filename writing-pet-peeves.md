@@ -10,7 +10,7 @@
 
 ## Grammar and Style
 
-+ Use superlatives and "hype phrases" sparingly - things like "drammatically improves the user experience" - unless it's actually warranted. If you improve precision from 0.4 to 0.8, calling the improvements _dramatic_ might be warranted. A 5% improvement is not. I would let the results speak from themselves. Overuse of superlatives potentially turns off reviewers.
++ Use superlatives and "hype phrases" sparingly - things like "dramatically improves the user experience" - unless it's actually warranted. If you improve precision from 0.4 to 0.8, calling the improvements _dramatic_ might be warranted. A 5% improvement is not. I would let the results speak from themselves. Overuse of superlatives potentially turns off reviewers.
 
 + Related, use the term _significant_ only in the technical sense of statistically significant.
 
