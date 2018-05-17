@@ -10,6 +10,8 @@
 
 ## Grammar and Style
 
++ Use of the term "performance". Treatments across different sub-disciplines of computer science differ, but "performance" generally refer to measures like latency, throughput, etc. NLP researchers, however, often use "performance" to refer to "output quality", which sometimes throws me off. I like to be as precise as possible. For IR papers, I always use "effectiveness" to refer to output quality; otherwise, I like to explictly say "accuracy" or "perplexity" if warranted. In IR papers, I typically use "efficiency" to refer to what other fields call "performance" (since IR folks routinely talk about effective/efficiency tradeoffs; it's well-established parlance), but where ever possible I like to be precise (e.g., lower query latency, higher query throughout, etc.). As a corollary I tend to avoid phrases like "performs well".
+
 + Use superlatives and "hype phrases" sparingly - things like "dramatically improves the user experience" - unless it's actually warranted. If you improve precision from 0.4 to 0.8, calling the improvements _dramatic_ might be warranted. A 5% improvement is not. I would let the results speak from themselves. Overuse of superlatives potentially turns off reviewers.
 
 + Related, use the term _significant_ only in the technical sense of statistically significant.
