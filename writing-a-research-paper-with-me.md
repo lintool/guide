@@ -35,7 +35,15 @@ and Related Work", directly following the introduction.
 
 Save the introduction for last.
 
-## The Story
+## Different Sections of the Paper
+
+### Results
+
+Walk your reader through the results.
+Don't just throw up a big table and lots of numbers and expect the reader to figure out what's going on.
+For example, something like, "The baseline is show in the top row... our technique is shown on the row below... based on this, we can clearly see that our model yields significantly higher precision across all datasets."
+
+### The Story
 
 The introduction is
 where you "tell the story" and attempt to convince the reviewer why
@@ -51,10 +59,9 @@ It is not unusual for these changes to happen in a few rounds before we finally 
 
 ## My Input
 
-If you're a junior student, I will usually write the introduction for
-you, because that's the hardest part to write. As you gain experience, I
-expect you to be able to start telling your own story. This is the
-hardest skill to master.
+If you're a junior student, I will usually write the introduction for you, because that's the hardest part to write (see above).
+As you gain experience, I expect you to be able to start telling your own story.
+This is the hardest skill to master.
 
 Typically, I will communicate with you about a rough time period where
 I will set aside time to help you with your paper. Help consists of
