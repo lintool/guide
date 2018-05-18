@@ -1,9 +1,9 @@
 
-## Writing a Research Paper With Me
+# Writing a Research Paper With Me
 
 I can't stress this enough. Start early.
 
-### Writing Order
+## Writing Order
 
 Start writing your paper from the results section. In fact, start with
 the results figures or tables. Usually, we would have discussed the
@@ -35,7 +35,7 @@ and Related Work", directly following the introduction.
 
 Save the introduction for last.
 
-### The Story
+## The Story
 
 The introduction is
 where you "tell the story" and attempt to convince the reviewer why
@@ -49,7 +49,7 @@ Typically, these claims evolve with the rest of the paper: for example, initiall
 Or, alternatively, we would like to strengthen our claim or make a slightly different assertion, so this leads running slightly different experiments as support.
 It is not unusual for these changes to happen in a few rounds before we finally converge on a set of claims we're happy with and the evidence that supports those claims.
 
-### My Input
+## My Input
 
 If you're a junior student, I will usually write the introduction for
 you, because that's the hardest part to write. As you gain experience, I
@@ -104,6 +104,8 @@ have all of Thursday morning to devote to your paper" or "I have too
 many other deadlines. I'll write your introduction but otherwise you
 are on your own."
 
+## After I've Done a Major Rewriting Pass
+
 ### Comparing Before and After
 
 For any part of your paper that I have rewritten, it is important that
@@ -128,3 +130,10 @@ alternative approaches. I very much welcome these debates and they are
 satisfying, because it means that I have trained you well. I am not
 surprised that you can tell your story better than I can, because,
 after it, it is *your* research.
+
+### Smoothing Pass
+
+After I've done a major rewriting of sections in your paper, you need to do what I call a "smoothing pass".
+That is, go back through the entire paper and make sure the writing is consistent.
+For example, if in the introduction I use a particular phrase to describe a technique, then make sure the phrasing is propagated forward in the results section.
+See ["use consistent terminology"](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md).
