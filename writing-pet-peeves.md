@@ -42,6 +42,25 @@ Some authors like to describe experiments in the past tense, e.g., "The user rec
 
 + **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
+### Appearance
+
++ **Aesthetics matter.**
+I often take a paper, zoom out in my PDF viewer so the text is unreadable, flip through the pages, and see if it "looks right".
+Does it have the right balance of sections, sub-sections, figures, equations, tables, etc.?
+Unfortunately, I can't operationalize this into an imperative, other than to say that "appearances count".
+
++ **Get rid of orphan lines.**
+Orphan lines are final lines in paragraphs that are really short, e.g., a single word on its own line that ends a paragraph.
+Get rid of them by rewriting the prose slightly.
+This is a common space-saving trick.
+Never have orphan lines that span page break, i.e., a single word or short phrase that ends a paragraph on a new page.
+Latex does this sometimes and it looks terrible.
+
++ **Opposite of orphan lines.**
+If the final line of a paragraph runs all the way to the rightmost edge of the column or page, it looks terrible also because the looks like a run-on with the next paragraph.
+Rewrite slightly so this doesn't happen.
+
+
 ### Citations
 
 + **NEVER *ever* begin a sentence with a citation.** For example, "[5] explored the use of..." The worst is related work that's simply a collection of such sentences, e.g. "[1] did this... [2] did that... [3] did other".
@@ -70,4 +89,5 @@ I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the
 ### Misc
 
 + Latex does weird hyphenation on line breaks sometimes. For example, analysis might get hyphenated as "anal-ysis", which just looks dirty. MapReduce gets hyphenated as "MapRe-duce", which bugs me. Insert in the preamble `\hyphenation{Map-Reduce}` to specify particular hyphenations you want, or use `\mbox{...}` to suppress hyphenation.
+
 
