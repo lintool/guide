@@ -10,12 +10,18 @@ Every time I say something to a student that I've repeated before, I write it do
 The result is a student's guide to @lintool.
 
 Of course, every advisor is idiosyncratic (putting it mildly), and I only claim that this advice is what I give to _my_ students.
-However, I suspect that at least some of what I do can be characterized as "research best practices", and hence more broadly applicable to others, which is why I'm publicly sharing these documents.
+I generally agree with Oded Goldreich in there being [no generic advice](http://www.wisdom.weizmann.ac.il/~oded/advice.html).
+There are definitely many ways to succeed, but there are no doubt "archetypes", but every graduate student starts off with his or her advisor as a reference point.
+As a result, I suspect that at least some of what I say to my students are said by other advisors to their students.
+A few may even rise to the level of "research best practices".
+Given the potential relevance to others, I'm publicly sharing these documents.
 Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.wikipedia.org/wiki/Sodium_chloride).
 
 + [Writing a Research Paper With Me](writing-a-research-paper-with-me.md): this describes specifically how I work with my students, but may contain general advice on writing research papers that are broadly applicable.
 + [Writing Pet Peeves](writing-pet-peeves.md): If you want to stay on my good side.
 
-## Other Resources
+## Other Odds and Ends
+
+I've collected other non-related odds and ends in this repo:
 
 + [Jinfeng Rao's job hunt experience](https://zhuanlan.zhihu.com/p/35435776) (in Chinese)
