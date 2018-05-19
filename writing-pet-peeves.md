@@ -40,15 +40,16 @@ Some authors like to describe experiments in the past tense, e.g., "The user rec
 
 + **Related work.** "Related work", _not_ "related works". "Work" is a collective noun, like "staff". You don't write "research staffs". Wait, you ask: if this is indeed the case, why would you write ["DaVinci is the creator of several famous _works_ of art"](https://twitter.com/mmparker/status/991012314332545024)? Well, that's a completely different context: "work" in "related work" is intended to refer to a body of work collectively, as in "the literature". You don't write "related literatures" (well, except in a very narrow sense, something like "isolated silos of related literatures"). Note that "DaVinci's work" and "DaVinci's works" are both fine, but in different contexts. The first might refer to his body of work collectively; the second focuses on individual pieces. Also, be aware of subject-verb agreement.
 
-+ **Make sure you agree.** Common noun-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
++ **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
 ### Citations
 
-+ **NEVER** *ever* begin a sentence with a citation. e.g., "[5] explored the use of..." The worst is related work that's simply a collection of such sentences, e.g. "[1] did this... [2] did that... [3] did other".
++ **NEVER *ever* begin a sentence with a citation.** For example, "[5] explored the use of..." The worst is related work that's simply a collection of such sentences, e.g. "[1] did this... [2] did that... [3] did other".
 
-+ A citation is not a noun phrase, e.g., "is shown in [5]" is bad; should be "is shown by Smith et al. [5]". (Although I break this rule myself sometimes, especially if I'm trying to save a bit of space.)
++ **A citation is not a noun phrase.** For example, "... is shown in [5]" is bad; should be "... is shown by Smith et al. [5]". However, I break this rule myself sometimes, especially if I'm trying to save a bit of space.
 
-+ Name your proceedings volumes consistently in the bibliography. I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. The fact that NAACL can't even consistently name their conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/) (bonus, that page refers to HLT-NAACL 2004). So the choice is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
++ **Name your proceedings volumes consistently in the bibliography.**
+I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. The fact that NAACL can't even consistently name their conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/) (bonus, that page refers to HLT-NAACL 2004). So the choice is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
 
 ## Latex
 
@@ -69,3 +70,4 @@ Some authors like to describe experiments in the past tense, e.g., "The user rec
 ### Misc
 
 + Latex does weird hyphenation on line breaks sometimes. For example, analysis might get hyphenated as "anal-ysis", which just looks dirty. MapReduce gets hyphenated as "MapRe-duce", which bugs me. Insert in the preamble `\hyphenation{Map-Reduce}` to specify particular hyphenations you want, or use `\mbox{...}` to suppress hyphenation.
+
