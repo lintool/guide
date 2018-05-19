@@ -20,6 +20,13 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 + [Writing a Research Paper With Me](writing-a-research-paper-with-me.md): this describes specifically how I work with my students, but may contain general advice on writing research papers that are broadly applicable.
 + [Writing Pet Peeves](writing-pet-peeves.md): If you want to stay on my good side.
 
+## Advice by Others
+
+Advice by others I've given to my students (and things that I haven't had time to write about):
+
++ [Dealing with Rejection](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
++ [Attending Professional Conferences as a Newcomer](http://pgbovine.net/attending-conferences.htm)
+
 ## Other Odds and Ends
 
 I've collected other non-related odds and ends in this repo:
