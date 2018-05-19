@@ -31,6 +31,7 @@ Advice by others I've given to my students (and things that I haven't had time t
 
 I've collected other non-related odds and ends in this repo:
 
-+ [Chinese technical terms](chinese-technical-terms.md): a Chinese-English phrase book of technical terms that I've been slowly accumulating.
 + [Waterloo plugs](waterloo-plugs.md): media mentions of the burgeoning tech scene in Waterloo, the Greater Toronto Area, or Canada in general.
++ [US anti-plugs](us-anti-plugs.md): the opposite of above; media mentions on how the US is screwing up immigration, tech, etc.
++ [Chinese technical terms](chinese-technical-terms.md): a Chinese-English phrase book of technical terms that I've been slowly accumulating.
 + [Jinfeng Rao's job hunt experience](https://zhuanlan.zhihu.com/p/35435776) (in Chinese)
