@@ -7,7 +7,7 @@ This is the counterpart to the [Waterloo plugs](waterloo-plugs.md) page.
 
 May 6, 2018: [The disappearing Chinese student visa](https://www.axios.com/foreign-student-visas-dropping-china-india-trump-81e70609-9fa7-43eb-8f40-ccfef9fe3fa5.html): There was a 17% drop in international students in the U.S. last year, mostly due to the 28% decline in Indian students and a 24% decline in Chinese students receiving visas.
 
-![Chinese student visas][us-anti-plugs-images/axios-2018-06.png]
+![Chinese student visas](us-anti-plugs-images/axios-2018-06.png)
 
 March 23, 2018: [FBI Director Defends Remarks That Chinese People In U.S. Pose Threats](https://www.huffingtonpost.com/entry/fbi-christopher-wray-chinese-immigrants_us_5ab3d47fe4b008c9e5f51975): Wray has received immense backlash from Asian-American civil rights organizations for his comments about "the China threat."
 
