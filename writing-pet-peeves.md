@@ -42,7 +42,7 @@ Some authors like to describe experiments in the past tense, e.g., "The user rec
 
 + **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
-### Appearance
+## Appearance
 
 + **Aesthetics matter.**
 I often take a paper, zoom out in my PDF viewer so the text is unreadable, flip through the pages, and see if it "looks right".
@@ -60,8 +60,7 @@ Latex does this sometimes and it looks terrible.
 If the final line of a paragraph runs all the way to the rightmost edge of the column or page, it looks terrible also because the looks like a run-on with the next paragraph.
 Rewrite slightly so this doesn't happen.
 
-
-### Citations
+## Citations
 
 + **NEVER *ever* begin a sentence with a citation.** For example, "[5] explored the use of..." The worst is related work that's simply a collection of such sentences, e.g. "[1] did this... [2] did that... [3] did other".
 
