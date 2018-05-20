@@ -69,6 +69,26 @@ Rewrite slightly so this doesn't happen.
 + **Name your proceedings volumes consistently in the bibliography.**
 I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. The fact that NAACL can't even consistently name their conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/) (bonus, that page refers to HLT-NAACL 2004). So the choice is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
 
+## Polish
+
++ **Fixed-point reading.** This is a technique that I've found to be time consuming but effective in catching typos and final polishing (e.g., for camera-ready submission). I named this technique after the [fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator).
+Here's what I do:
+I print out the paper (yes, on dead trees) and read over with a pen in hand.
+To make sure I actually read each word (and not miss typos), I _point_ to each word with my pen.
+I then enter all corrections into latex.
+At first, I catch a lot of typos.
+Then I do it again.
+I catch fewer typos.
+Then I do it again.
+And even fewer.
+I repeat until I take a pass and find nothing more I wish to change (or the number of corrections is below a threshold _epsilon_).
+This typically takes around half a dozen passes for me.
+A few details: somehow for me, printing on dead trees is critical to catching typos.
+I've done this on screen and with an iPad, and it somehow doesn't work quite as well: I print out on dead trees and I still find more typos.
+_Pointing_ to each word is critical, to make your eyes [saccade](https://en.wikipedia.org/wiki/Saccade) to it; otherwise your brain has a tendency to just interpolate and error-correct the typos.
+At the end of a pass over a paper, you can often see faint dots on every word.
+To combat fatigue and learning effects, in each pass I vary the order in which I read sections: e.g., start with the intro, start from the conclusion, start from the experiments, etc.
+
 ## Latex
 
 ### Finer Points of Punctuation
