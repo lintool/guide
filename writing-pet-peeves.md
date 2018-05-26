@@ -69,7 +69,9 @@ Rewrite slightly so this doesn't happen.
 + **A citation is not a noun phrase.** For example, "... is shown in [5]" is bad; should be "... is shown by Smith et al. [5]". However, I break this rule myself sometimes, especially if I'm trying to save a bit of space.
 
 + **Name your proceedings volumes consistently in the bibliography.**
-I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. The fact that NAACL can't even consistently name their conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/) (bonus, that page refers to HLT-NAACL 2004). So the choice is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
+I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography.
+The fact that NAACL can't even consistently name its conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/) (bonus, that page refers to HLT-NAACL 2004).
+So the choice as an author referencing papers is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
 
 ## Polish
 
@@ -109,6 +111,15 @@ To combat fatigue and learning effects, in each pass I vary the order in which I
 
 ### Misc
 
-+ Latex does weird hyphenation on line breaks sometimes. For example, analysis might get hyphenated as "anal-ysis", which just looks dirty. MapReduce gets hyphenated as "MapRe-duce", which bugs me. Insert in the preamble `\hyphenation{Map-Reduce}` to specify particular hyphenations you want, or use `\mbox{...}` to suppress hyphenation.
++ **Watch out for overfull lines.**
+Latex does its best to lay out lines in paragraphs, hyphenating words as necessary.
+Sometimes, however, it can't do so and will just give up, in which case, it'll let words spill into the margin.
+Knuth's design decision was that, instead of producing something that would be distasteful to a discerning typographer, the system should force the author to "deal with it".
+The problem is that many authors forget to "deal with it", and so sometimes final versions of papers have terrible overfull lines; see [multiple examples in this classic paper](https://dl.acm.org/citation.cfm?id=1076115).
+Sometimes, manually forcing hyphenation works; otherwise, a minor rewrite will do the trick.
+Either way, "deal with it"!
+
++ **Watch out for weird hyphenation.**
+Latex does weird hyphenation on line breaks sometimes. For example, analysis might get hyphenated as "anal-ysis", which just looks dirty. MapReduce gets hyphenated as "MapRe-duce", which bugs me. Insert in the preamble `\hyphenation{Map-Reduce}` to specify particular hyphenations you want, or use `\mbox{...}` to suppress hyphenation.
 
 
