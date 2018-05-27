@@ -26,6 +26,7 @@ Advice by others I've given to my students (and things that I haven't had time t
 
 + [Dealing with Rejection](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
 + [Attending Professional Conferences as a Newcomer](http://pgbovine.net/attending-conferences.htm)
++ [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk): the secret to success? repetition
 
 ## Other Odds and Ends
 
