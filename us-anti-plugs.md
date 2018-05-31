@@ -7,6 +7,8 @@ Being an American, it pains me to add entries to this page...
 
 ---
 
+May 30, 2018 - [The US is limiting visas for Chinese international students majoring in tech](https://www.theverge.com/2018/5/30/17410824/us-limiting-chinese-visa-international-students-technology-majors): The latest victim in the technology race is students
+
 May 6, 2018 - [The disappearing Chinese student visa](https://www.axios.com/foreign-student-visas-dropping-china-india-trump-81e70609-9fa7-43eb-8f40-ccfef9fe3fa5.html): There was a 17% drop in international students in the U.S. last year, mostly due to the 28% decline in Indian students and a 24% decline in Chinese students receiving visas.
 
 ![Chinese student visas](us-anti-plugs-images/axios-2018-06.png)
