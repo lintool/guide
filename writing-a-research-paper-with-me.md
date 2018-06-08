@@ -41,7 +41,7 @@ Save the introduction for last.
 
 Walk your reader through the results.
 Don't just throw up a big table and lots of numbers and expect the reader to figure out what's going on.
-For example, something like, "The baseline is show in the top row... our technique is shown on the row below... based on this, we can clearly see that our model yields significantly higher precision across all datasets."
+For example, something like, "The baseline is shown in the top row... our technique is shown on the row below... based on this, we can clearly see that our model yields significantly higher precision across all datasets."
 
 ### The Story
 
