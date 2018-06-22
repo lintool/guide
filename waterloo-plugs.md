@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+June 13, 2018 - [NVIDIA Opening AI Research Lab in Toronto, Following Move in Seattle](https://blogs.nvidia.com/blog/2018/06/13/nvidia-ai-research-lab-toronto/)
+
 May 15, 2018 - [To increase Canadian innovation, take a lesson from our AI successes](https://www.theglobeandmail.com/business/commentary/article-to-increase-canadian-innovation-take-a-lesson-from-our-ai-successes/)
 
 May 4, 2018 - [Canada’s brain gain – the reverse migration of tech talent is happening](https://www.theglobeandmail.com/business/commentary/article-canadas-brain-gain-the-reverse-migration-of-tech-talent-is/)
