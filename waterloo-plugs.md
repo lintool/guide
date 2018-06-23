@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+June 22, 2018 - [Microsoft Research Montreal welcomes Fernando Diaz, Principal Researcher and lead of the new Montreal FATE Research Group](https://www.microsoft.com/en-us/research/blog/microsoft-research-montreal-welcomes-fernando-diaz-principal-researcher-and-lead-of-the-new-montreal-fate-research-group/) ([French version](https://news.microsoft.com/en-ca/2018/06/22/le-laboratoire-microsoft-research-montreal-accueille-fernando-diaz/))
+
 June 13, 2018 - [NVIDIA Opening AI Research Lab in Toronto, Following Move in Seattle](https://blogs.nvidia.com/blog/2018/06/13/nvidia-ai-research-lab-toronto/)
 
 May 15, 2018 - [To increase Canadian innovation, take a lesson from our AI successes](https://www.theglobeandmail.com/business/commentary/article-to-increase-canadian-innovation-take-a-lesson-from-our-ai-successes/)
