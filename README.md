@@ -7,7 +7,7 @@ So, it makes sense to write things down.
 This repo is the result of those efforts.
 Every time I say something to a student that I've repeated before, I write it down here.
 
-The result is a student's guide to @lintool.
+The result is the student's guide to @lintool.
 
 Of course, every advisor is idiosyncratic (putting it mildly), and I only claim that this advice is what I give to _my_ students.
 I generally agree with Oded Goldreich in there being [no generic advice](http://www.wisdom.weizmann.ac.il/~oded/advice.html).
