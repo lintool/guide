@@ -24,6 +24,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 
 Advice by others I've given to my students (and things that I haven't had time to write about):
 
++ [Jordan Boyd-Graber's writing style guide](http://umiacs.umd.edu/~jbg/static/style.html)
 + [Dealing with Rejection](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
 + [Attending Professional Conferences as a Newcomer](http://pgbovine.net/attending-conferences.htm)
 + [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk): the secret to success? repetition
