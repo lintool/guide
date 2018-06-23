@@ -75,7 +75,8 @@ So the choice as an author referencing papers is inconsistent citations vs. regu
 
 ## Polish
 
-+ **Fixed-point reading.** This is a technique that I've found to be time consuming but effective in catching typos and final polishing (e.g., for camera-ready submission). I named this technique after the [fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator).
++ **Fixed-point reading.** This is a technique that I've found to be time consuming but effective in catching typos and final polishing (e.g., for camera-ready submissions).
+I named this technique after the [fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator).
 Here's what I do:
 I print out the paper (yes, on dead trees) and read over with a pen in hand.
 To make sure I actually read each word (and not miss typos), I _point_ to each word with my pen.
@@ -87,11 +88,12 @@ Then I do it again.
 And even fewer.
 I repeat until I take a pass and find nothing more I wish to change (or the number of corrections is below a threshold _epsilon_).
 This typically takes around half a dozen passes for me.
-A few details: somehow for me, printing on dead trees is critical to catching typos.
-I've done this on screen and with an iPad, and it somehow doesn't work quite as well: I print out on dead trees and I still find more typos.
-_Pointing_ to each word is critical, to make your eyes [saccade](https://en.wikipedia.org/wiki/Saccade) to it; otherwise your brain has a tendency to just interpolate and error-correct the typos.
-At the end of a pass over a paper, you can often see faint dots on every word.
-To combat fatigue and learning effects, in each pass I vary the order in which I read sections: e.g., start with the intro, start from the conclusion, start from the experiments, etc.
+A few details: 
+
+  + Somehow for me, printing on dead trees is critical to catching typos.
+  + I've done this on screen and with an iPad, and it somehow doesn't work quite as well: I print out on dead trees and I still find more typos.
+  + _Pointing_ to each word is critical, to make your eyes [saccade](https://en.wikipedia.org/wiki/Saccade) to it; otherwise your brain has a tendency to just interpolate and error-correct the typos.
+  + To combat fatigue and learning effects, in each pass I vary the order in which I read sections: e.g., start with the intro, start from the conclusion, start from the experiments, etc.
 
 ## Latex
 
@@ -109,7 +111,7 @@ To combat fatigue and learning effects, in each pass I vary the order in which I
 
 + Cite a reference as `Lin et al.~\cite{Lin}`. Note `~` prevents ugly breaks.
 
-### Misc
+### Appearance
 
 + **Watch out for overfull lines.**
 Latex does its best to lay out lines in paragraphs, hyphenating words as necessary.
