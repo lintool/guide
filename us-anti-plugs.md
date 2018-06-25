@@ -13,6 +13,8 @@ May 6, 2018 - [The disappearing Chinese student visa](https://www.axios.com/fore
 
 ![Chinese student visas](us-anti-plugs-images/axios-2018-06.png)
 
+April 25, 2018 - [Trump's H-1B curbs are putting off foreign students and choking the US economy](https://qz.com/1261468/donald-trumps-h-1b-curbs-put-off-foreign-students-and-choke-the-us-economy/).
+
 March 23, 2018 - [FBI Director Defends Remarks That Chinese People In U.S. Pose Threats](https://www.huffingtonpost.com/entry/fbi-christopher-wray-chinese-immigrants_us_5ab3d47fe4b008c9e5f51975): Wray has received immense backlash from Asian-American civil rights organizations for his comments about "the China threat."
 
 March 23, 2018 - [Don't Slam the Door on Chinese Students](https://www.bloomberg.com/view/articles/2018-03-23/reducing-visas-for-chinese-students-is-un-american): Reducing student visas for foreigners is self-defeating and un-American.
@@ -21,4 +23,8 @@ March 11, 2018 - [Visas Issued to Foreign Students Fall, Partly Due to Trump Imm
 
 March 5, 2018 - [Fewer international grad students are seeking computer science degrees in the U.S. for the first time in years](https://www.geekwire.com/2018/fewer-international-grad-students-seeking-computer-science-degrees-u-s-first-time-years/): The number of international students enrolling in American universities is declining for the first time in years, amid volatile shifts in U.S. immigration policy.
 
+January 24, 2018 - [H-1B visa hopefuls, green card holders are feeling the wrath of 'America first' Trump](https://www.theregister.co.uk/2018/01/24/trump_immigration_h_1b_crackdown/)
+
 January 18, 2018 - [Fewer international students coming to US for grad school in science and engineering](https://www.pri.org/stories/2018-01-18/fewer-international-students-coming-us-grad-school-science-and-engineering): Science and engineering fields saw a 6 percent decrease in international graduate students from the fall of 2016 to the fall of 2017, and almost all of that decrease was concentrated in two fields: computer science and engineering.
+
+January 3, 2018 - [Trump may deport thousands of Indian H-1B visa holders as they wait for green cards](https://qz.com/1170035/h-1b-visa-trap-trump-may-not-spare-even-those-indians-awaiting-green-cards/)
