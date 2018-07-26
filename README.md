@@ -17,8 +17,10 @@ A few may even rise to the level of "research best practices".
 Given the potential relevance to others, I'm publicly sharing these documents.
 Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.wikipedia.org/wiki/Sodium_chloride).
 
-+ [Writing a Research Paper With Me](writing-a-research-paper-with-me.md): this specifically describes how I work with my students.
-+ [Writing Pet Peeves](writing-pet-peeves.md): Lots of specific writing tips.
++ [What working with me is like](what-working-with-me-is-like.md)
++ [What my personal schedule is like](what-my-personal-schedule-is-like.md)
++ [Writing a research paper with me](writing-a-research-paper-with-me.md): this specifically describes how I work with my students.
++ [Writing pet peeves](writing-pet-peeves.md): Lots of specific writing tips.
 
 ## Advice by Others
 
