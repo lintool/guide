@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+September 11, 2018 - [Microsoft Announces New Canadian Headquarters in Downtown Toronto](https://www.newswire.ca/news-releases/microsoft-announces-new-canadian-headquarters-in-downtown-toronto-692971421.html)
+
 July 24, 2018 - [Who Just Beat the Bay Area in Tech Jobs? Toronto](https://www.bloomberg.com/news/articles/2018-07-24/toronto-beats-bay-area-in-new-tech-jobs-and-new-york-in-talent)
 
 June 22, 2018 - [Microsoft Research Montreal welcomes Fernando Diaz, Principal Researcher and lead of the new Montreal FATE Research Group](https://www.microsoft.com/en-us/research/blog/microsoft-research-montreal-welcomes-fernando-diaz-principal-researcher-and-lead-of-the-new-montreal-fate-research-group/) ([French version](https://news.microsoft.com/en-ca/2018/06/22/le-laboratoire-microsoft-research-montreal-accueille-fernando-diaz/))
