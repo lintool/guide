@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+September 13, 2018 - [What if the Toronto-Waterloo corridor really becomes the next Silicon Valley?](https://www.macleans.ca/economy/what-if-the-toronto-waterloo-corridor-really-becomes-the-next-silicon-valley/): Uber, Microsoft and Intel are the latest tech heavyweights to invest and expand in the Toronto-Waterloo corridor—but buzzy names alone won’t make the region the next big thing
+
 September 11, 2018 - [Microsoft Announces New Canadian Headquarters in Downtown Toronto](https://www.newswire.ca/news-releases/microsoft-announces-new-canadian-headquarters-in-downtown-toronto-692971421.html)
 
 July 24, 2018 - [Who Just Beat the Bay Area in Tech Jobs? Toronto](https://www.bloomberg.com/news/articles/2018-07-24/toronto-beats-bay-area-in-new-tech-jobs-and-new-york-in-talent)
