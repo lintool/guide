@@ -6,6 +6,14 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+October 11, 2018 - [Canada’s Top School by Reputation 2019
+](https://www.macleans.ca/education/university-rankings/canadas-top-school-by-reputation-2019/): We asked university faculty and senior administrators, high school guidance counsellors and a variety of business people across the country for their views on quality and innovation at Canadian universities
+
++ Best overall: Waterloo #2 (After Toronto)
++ Highest quality: Waterloo #3 (After Toronoto and McGill)
++ Most innovative: Waterloo #1
++ Leaders of tomorrow: Water #2 (After Toronto)
+
 September 13, 2018 - [What if the Toronto-Waterloo corridor really becomes the next Silicon Valley?](https://www.macleans.ca/economy/what-if-the-toronto-waterloo-corridor-really-becomes-the-next-silicon-valley/): Uber, Microsoft and Intel are the latest tech heavyweights to invest and expand in the Toronto-Waterloo corridor—but buzzy names alone won’t make the region the next big thing
 
 September 11, 2018 - [Microsoft Announces New Canadian Headquarters in Downtown Toronto](https://www.newswire.ca/news-releases/microsoft-announces-new-canadian-headquarters-in-downtown-toronto-692971421.html)
