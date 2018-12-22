@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+December 18, 2018 - [Indian technology talent is flocking to Canada](https://www.economist.com/business/2018/12/22/indian-technology-talent-is-flocking-to-canada): As immigrant techies shun the US, its neighbour has rolled out the red carpet
+
 October 11, 2018 - [Canada’s Top School by Reputation 2019
 ](https://www.macleans.ca/education/university-rankings/canadas-top-school-by-reputation-2019/): We asked university faculty and senior administrators, high school guidance counsellors and a variety of business people across the country for their views on quality and innovation at Canadian universities
 
