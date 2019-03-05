@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+March 3, 2019 - [Smaller Countries Are Becoming the Healthiest](https://www.bloomberg.com/news/articles/2019-03-04/global-wellness-rankings-these-are-the-best-places-to-live): A new analysis, the Global Wellness Index published by investment firm LetterOne, ranks Canada as the best country out of the 151 nations evaluated. The U.S. trails far behind, coming in at 37.
+
+February 27, 2019 - [2019 QS World University Rankings places computer science at Waterloo 22nd globally](https://cs.uwaterloo.ca/news/2019-qs-world-university-rankings-places-computer-science)
+
 December 18, 2018 - [Indian technology talent is flocking to Canada](https://www.economist.com/business/2018/12/22/indian-technology-talent-is-flocking-to-canada): As immigrant techies shun the US, its neighbour has rolled out the red carpet
 
 October 11, 2018 - [Canada’s Top School by Reputation 2019
@@ -14,7 +18,7 @@ October 11, 2018 - [Canada’s Top School by Reputation 2019
 + Best overall: Waterloo #2 (After Toronto)
 + Highest quality: Waterloo #3 (After Toronoto and McGill)
 + Most innovative: Waterloo #1
-+ Leaders of tomorrow: Water #2 (After Toronto)
++ Leaders of tomorrow: Waterloo #2 (After Toronto)
 
 September 13, 2018 - [What if the Toronto-Waterloo corridor really becomes the next Silicon Valley?](https://www.macleans.ca/economy/what-if-the-toronto-waterloo-corridor-really-becomes-the-next-silicon-valley/): Uber, Microsoft and Intel are the latest tech heavyweights to invest and expand in the Toronto-Waterloo corridor—but buzzy names alone won’t make the region the next big thing
 
