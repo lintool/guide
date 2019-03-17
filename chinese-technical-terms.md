@@ -9,6 +9,7 @@ browser | 浏览器 | 瀏覽器 | liúlǎn qì
 search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
 recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
 end-to-end | 端到端 | 端到端 | duān dào duān
+embedding system | 嵌入式系统 | 嵌入式系統 | qiànrù shì xìtǒng
 
 ## General Machine Learning
 
@@ -54,8 +55,9 @@ deep... (e.g., neural network) | 深度(神经网络) | 深度(神經網絡) | s
 backpropagation | 反向传播 | 反向傳播 | fǎn xiàng chuánbò
 feedforward (neural) network | 前馈(神经)网络 | 前饋(神經)網絡 | qián kuì (shénjīng) wǎngluò
 fully-connected (layer) | 全连接(层) | 全連接(層) | quán liánjiē (céng)
-multi-layer perceptron |
-word embedding |
+perceptron | 感知器 | 感知器 | gǎnzhī qì
+multi-layer perceptron | 多层感知器 | 多層感知器 | duōcéng gǎnzhī qì
+word embedding | 单词嵌入 | 單詞嵌入 | dāncí qiànrù
 convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | juàn jī (shénjīng) wǎngluò
 feature map |
 convolutional filter |
