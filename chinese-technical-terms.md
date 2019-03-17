@@ -25,6 +25,7 @@ sample (verb) | 采样| 採樣 | cǎiyàng
 train | 训练 | 訓練 | xùnliàn
 test | 测试 | 測試 | cèshì
 fit model parameters | 拟合模型参数 | 擬合模型參數 | nǐhé móxíng cānshù
+dataset | 数据集 | 數據集 | shùjù jí
 training set | 训练集 | 訓練集 | xùnliàn jí
 validation set | 验证集 | 驗證集 | yànzhèng jí
 test set | 测试集 | 測試集 | cèshì jí
