@@ -8,7 +8,7 @@ internet | 互联网 | 互聯網 | hùliánwǎng
 browser | 浏览器 | 瀏覽器 | liúlǎn qì
 search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
 recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
-
+end-to-end | 端到端 | 端到端 | duān dào duān
 
 ## General Machine Learning
 
@@ -39,7 +39,7 @@ batch size | 批量样本数 | 批量樣本數 | pīliàng yàngběn shù
 learning rate | 学习率 | 學習率 | xuéxí lǜ 
 overfitting | 过拟合 | 過擬合 | guò nǐhé 
 under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé 
-
+feed (i.e., to feed into a model) | 餵 | 餵 | wèi
 
 [1] Literally, "to make excellent"
 
