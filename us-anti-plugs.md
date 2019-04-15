@@ -11,7 +11,7 @@ May 30, 2018 - [The US is limiting visas for Chinese international students majo
 
 May 6, 2018 - [The disappearing Chinese student visa](https://www.axios.com/foreign-student-visas-dropping-china-india-trump-81e70609-9fa7-43eb-8f40-ccfef9fe3fa5.html): There was a 17% drop in international students in the U.S. last year, mostly due to the 28% decline in Indian students and a 24% decline in Chinese students receiving visas.
 
-![Chinese student visas](us-anti-plugs-images/axios-2018-06.png)
+![Chinese student visas](images/axios-2018-06.png)
 
 April 25, 2018 - [Trump's H-1B curbs are putting off foreign students and choking the US economy](https://qz.com/1261468/donald-trumps-h-1b-curbs-put-off-foreign-students-and-choke-the-us-economy/).
 
