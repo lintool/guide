@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+April 10, 2019 - [Scoring Tech Talent in North America 2018](https://www.cbre.com/research-and-reports/Scoring-Tech-Talent-in-North-America-2018)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Common takeaway from this chart: Canada is a bargain for AI talent<br><br>Reality: difference between “good” and “exceptional” is huge, ROI more than justifies 2X costs<a href="https://t.co/cNQQfCnVUj">https://t.co/cNQQfCnVUj</a> <a href="https://t.co/Zy98avDKrH">pic.twitter.com/Zy98avDKrH</a></p>&mdash; Gilad Mishne (@gilad) <a href="https://twitter.com/gilad/status/1116086700533407744?ref_src=twsrc%5Etfw">April 10, 2019</a></blockquote>
+
 March 3, 2019 - [Smaller Countries Are Becoming the Healthiest](https://www.bloomberg.com/news/articles/2019-03-04/global-wellness-rankings-these-are-the-best-places-to-live): A new analysis, the Global Wellness Index published by investment firm LetterOne, ranks Canada as the best country out of the 151 nations evaluated. The U.S. trails far behind, coming in at 37.
 
 February 27, 2019 - [2019 QS World University Rankings places computer science at Waterloo 22nd globally](https://cs.uwaterloo.ca/news/2019-qs-world-university-rankings-places-computer-science)
