@@ -27,6 +27,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 
 Advice by others I've given to my students (and things that I haven't had time to write about):
 
++ [Writing advice from the Kording Lab](http://kordinglab.com/2016/01/14/paper101.html), including [the idea of joint writing sessions](http://kordinglab.com/2016/01/13/writing-together.html)
 + [Jordan Boyd-Graber's writing style guide](http://umiacs.umd.edu/~jbg/static/style.html)
 + [Dealing with Rejection](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
 + [Attending Professional Conferences as a Newcomer](http://pgbovine.net/attending-conferences.htm)
@@ -40,4 +41,4 @@ I've collected other non-related odds and ends in this repo:
 + [US anti-plugs](us-anti-plugs.md): the opposite of above; media mentions on how the US is screwing up immigration, tech, etc.
 + [Chinese technical terms](chinese-technical-terms.md): a Chinese-English phrase book of technical terms that I've been slowly accumulating.
 + [Jinfeng Rao's job hunt experience](https://zhuanlan.zhihu.com/p/35435776) (in Chinese)
-+ [Performance Maintenance During Continuous Flight Operations](docs/NAVMEDP-6410.pdf): A really interesting look into how the military manages sleep and fatigue during military operations.
++ [Performance Maintenance During Continuous Flight Operations](docs/NAVMEDP-6410.pdf): an interesting look into how the military manages sleep and fatigue during military operations.
