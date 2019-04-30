@@ -99,6 +99,8 @@ A few details:
 
 ### Finer Points of Punctuation
 
++ [Details matter!](https://twitter.com/aacooper/status/1109678683877310464)
+
 + Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html).
 
   + It's `key--value` as in `key--value` store, not `key-value`.
