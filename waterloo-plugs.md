@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+May 23, 2019 - [Global Push Has Dividends for Toronto-Waterloo](http://news.communitech.ca/global-focus-paying-dividends-for-toronto-waterloo/): "[about the Waterloo Region:] an amazing ecosystem. It’s producing one of the highest number of startups per population, which means its funnel, its entrepreneurial mindset, spirit, the strength of the community as an engine for the region, is just so strong. It’s very impressive in that way. Waterloo has 1,100 startups per million people, or something like that. Silicon Valley is at 2,000. But everybody else is at 300, 400, 500. So it continues to create a very dynamic ecosystem. I think this is a real strength."
+
 April 10, 2019 - [Scoring Tech Talent in North America 2018](https://www.cbre.com/research-and-reports/Scoring-Tech-Talent-in-North-America-2018)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Common takeaway from this chart: Canada is a bargain for AI talent<br><br>Reality: difference between “good” and “exceptional” is huge, ROI more than justifies 2X costs<a href="https://t.co/cNQQfCnVUj">https://t.co/cNQQfCnVUj</a> <a href="https://t.co/Zy98avDKrH">pic.twitter.com/Zy98avDKrH</a></p>&mdash; Gilad Mishne (@gilad) <a href="https://twitter.com/gilad/status/1116086700533407744?ref_src=twsrc%5Etfw">April 10, 2019</a></blockquote>
