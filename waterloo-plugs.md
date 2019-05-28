@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+May 26, 2019 - this thread:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With the <a href="https://twitter.com/hashtag/Raptors?src=hash&amp;ref_src=twsrc%5Etfw">#Raptors</a> about to hit the global stage, I’m going to share a story about what makes Toronto, and Canada, so special.  It’s about a guy you’re going to be seeing a whole lot of.<br><br>A Thread.<br><br>[Hint:  It&#39;s about racism, sports, and why you&#39;ll end up cheering for 🍁]</p>&mdash; Muhammad Lila (@MuhammadLila) <a href="https://twitter.com/MuhammadLila/status/1132705598632538113?ref_src=twsrc%5Etfw">May 26, 2019</a></blockquote>
+
 May 23, 2019 - [Global Push Has Dividends for Toronto-Waterloo](http://news.communitech.ca/global-focus-paying-dividends-for-toronto-waterloo/): "[about the Waterloo Region:] an amazing ecosystem. It’s producing one of the highest number of startups per population, which means its funnel, its entrepreneurial mindset, spirit, the strength of the community as an engine for the region, is just so strong. It’s very impressive in that way. Waterloo has 1,100 startups per million people, or something like that. Silicon Valley is at 2,000. But everybody else is at 300, 400, 500. So it continues to create a very dynamic ecosystem. I think this is a real strength."
 
 April 10, 2019 - [Scoring Tech Talent in North America 2018](https://www.cbre.com/research-and-reports/Scoring-Tech-Talent-in-North-America-2018)
