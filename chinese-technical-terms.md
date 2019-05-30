@@ -45,6 +45,13 @@ feed (i.e., to feed into a model) | 餵 | 餵 | wèi
 
 [1] Literally, "to make excellent"
 
+## NLP + IR
+
+English | Chinese (simplified) | Chinese (traditional) | Pinyin
+--------|:--|:--|:--
+intent  | 意图 | 意圖 | yìtú
+slot | 槽(位) | 槽(位) | cáowèi
+
 ## Deep Learning
 
 English | Chinese (simplified) | Chinese (traditional) | Pinyin
