@@ -4,12 +4,16 @@
 
 English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
+hardware | 硬件 | 硬件 | yìngjiàn
+software | 软件 | 軟件 | ruǎnjiàn
+source code | 代码 | 代碼 | dàimǎ
 internet | 互联网 | 互聯網 | hùliánwǎng
 browser | 浏览器 | 瀏覽器 | liúlǎn qì
 search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
 recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
 end-to-end | 端到端 | 端到端 | duān dào duān
-embedding system | 嵌入式系统 | 嵌入式系統 | qiànrù shì xìtǒng
+embedded system | 嵌入式系统 | 嵌入式系統 | qiànrù shì xìtǒng
+pain point | 痛点 | 痛點 | tòng diǎn
 
 ## General Machine Learning
 
@@ -23,6 +27,7 @@ classification | 分类 | 分類 | fēnlèi
 logistic regression | 逻辑回归 | 邏輯回歸 | luójí huíguī
 sample (noun) | 样本 | 樣本 | yàngběn
 sample (verb) | 采样| 採樣 | cǎiyàng
+label | 标注 | 標註 | biāozhù
 train | 训练 | 訓練 | xùnliàn
 test | 测试 | 測試 | cèshì
 fit model parameters | 拟合模型参数 | 擬合模型參數 | nǐhé móxíng cānshù
@@ -51,6 +56,7 @@ English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 intent  | 意图 | 意圖 | yìtú
 slot | 槽(位) | 槽(位) | cáowèi
+chatbot | 对话机器人 | 對話機器人 | duìhuà jīqìrén
 
 ## Deep Learning
 
