@@ -19,6 +19,12 @@ pain point | 痛点 | 痛點 | tòng diǎn
 
 English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
+supervised learning | 监督学习 | 監督學習 | jiāndū xuéxí
+unsupervised learning | 无监督学习 | 無監督學習 | wú jiāndū xuéxí
+distant supervision | 远程监督 | 遠程監督 | yuǎnchéng jiāndū
+transfer learning | 迁移学习 | 遷移學習 | qiānyí xuéxí
+multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
+reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
@@ -39,9 +45,6 @@ gradient descent (method) | 梯度下降(法) | 梯度下降(法) | tīdù xiàj
 stochastic gradient descent | 随机梯度下降 | 隨機梯度下降 | suíjī tīdù xiàjiàng
 step size | 步长 | 步長 | bùcháng 
 epoch | 轮 | 輪 | lún
-transfer learning | 迁移学习 | 遷移學習 | qiānyí xuéxí
-multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
-reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
 batch size | 批量样本数 | 批量樣本數 | pīliàng yàngběn shù
 learning rate | 学习率 | 學習率 | xuéxí lǜ 
 overfitting | 过拟合 | 過擬合 | guò nǐhé 
@@ -54,6 +57,8 @@ feed (i.e., to feed into a model) | 餵 | 餵 | wèi
 
 English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
+natural language processing | 自然语言处理 | 自然語言處理 | zìrán yǔyán chǔlǐ
+information retrieval | 信息检索 | 信息檢索 | xìnxī jiǎnsuǒ
 intent  | 意图 | 意圖 | yìtú
 slot | 槽(位) | 槽(位) | cáowèi
 chatbot | 对话机器人 | 對話機器人 | duìhuà jīqìrén
