@@ -11,9 +11,12 @@ internet | 互联网 | 互聯網 | hùliánwǎng
 browser | 浏览器 | 瀏覽器 | liúlǎn qì
 search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
 recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
+e-commerce | 电商 | 電商 | diàn shāng
 end-to-end | 端到端 | 端到端 | duān dào duān
 embedded system | 嵌入式系统 | 嵌入式系統 | qiànrù shì xìtǒng
 pain point | 痛点 | 痛點 | tòng diǎn
+team | 团队 | 團隊 | tuánduì
+scenario | 场景 | 場景 | chǎngjǐng
 
 ## General Machine Learning
 
@@ -25,6 +28,7 @@ distant supervision | 远程监督 | 遠程監督 | yuǎnchéng jiāndū
 transfer learning | 迁移学习 | 遷移學習 | qiānyí xuéxí
 multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
 reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
+similarity |相似度 | 相似度 | xiāngsì dù
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
@@ -59,6 +63,8 @@ English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 natural language processing | 自然语言处理 | 自然語言處理 | zìrán yǔyán chǔlǐ
 information retrieval | 信息检索 | 信息檢索 | xìnxī jiǎnsuǒ
+unstructured text | 无结构文本 | 無結構文本 | wú jiégòu wénběn
+reading comprehension | 阅读理解 | 閱讀理解 | yuèdú lǐjiě 
 intent  | 意图 | 意圖 | yìtú
 slot | 槽(位) | 槽(位) | cáowèi
 chatbot | 对话机器人 | 對話機器人 | duìhuà jīqìrén
