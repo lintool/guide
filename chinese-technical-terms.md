@@ -70,6 +70,9 @@ reading comprehension | 阅读理解 | 閱讀理解 | yuèdú lǐjiě
 intent  | 意图 | 意圖 | yìtú
 slot | 槽(位) | 槽(位) | cáowèi
 chatbot | 对话机器人 | 對話機器人 | duìhuà jīqìrén
+knowledge graph | 知识图谱 | 知識圖譜 | zhīshì túpǔ
+entity-attribute-value | 实体-属性-值 | 實體-屬性-值 | shítǐ-shǔxìng-zhí
+triple | 三元组 | 三元組 | sān yuán zǔ
 
 ## Deep Learning
 
