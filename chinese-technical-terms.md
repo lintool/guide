@@ -28,6 +28,8 @@ distant supervision | 远程监督 | 遠程監督 | yuǎnchéng jiāndū
 transfer learning | 迁移学习 | 遷移學習 | qiānyí xuéxí
 multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
 reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
+maximize | 最大化 | 最大化 | zuìdà huà
+minimize | 最小化 | 最小化 | zuìxiǎo huà
 similarity |相似度 | 相似度 | xiāngsì dù
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
