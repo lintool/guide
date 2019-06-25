@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+June 25, 2019 - [Google is preparing for a major expansion of its Canadian engineering headquarters on Breithaupt Street in Kitchener](https://www.therecord.com/news-story/9449961-google-is-preparing-for-a-major-expansion-of-its-canadian-engineering-headquarters-on-breithaupt-street-in-kitchener/)
+
 May 26, 2019 - this thread:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With the <a href="https://twitter.com/hashtag/Raptors?src=hash&amp;ref_src=twsrc%5Etfw">#Raptors</a> about to hit the global stage, I’m going to share a story about what makes Toronto, and Canada, so special.  It’s about a guy you’re going to be seeing a whole lot of.<br><br>A Thread.<br><br>[Hint:  It&#39;s about racism, sports, and why you&#39;ll end up cheering for 🍁]</p>&mdash; Muhammad Lila (@MuhammadLila) <a href="https://twitter.com/MuhammadLila/status/1132705598632538113?ref_src=twsrc%5Etfw">May 26, 2019</a></blockquote>
