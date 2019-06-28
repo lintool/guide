@@ -33,7 +33,7 @@ Additional useful links:
 
 ## What should I be working on?
 
-In terms of research, I expect you to tackle problems in one of two categories:
+In terms of research, I expect you to tackle items in one of two categories:
 
 + Research problems that I've formulated or novel approaches to existing problems that I've devised.
 These items can be found in our group's internal research board, which contains a holding area for "unclaimed ideas".
@@ -43,9 +43,11 @@ In formulating these research ideas, I also try to build in a "fail fast" proper
 + Your own ideas, e.g., a problem you've formulated yourself or a novel approach to an existing problem that you came up with.
 
 The tl;dr is that you should be making _demonstrable_ progress executing "my" idea or "your" idea.
-I put these in quotes because it's an over-simplification: obviously, you'll contribute to "my" idea and I'll certainly help you refine "your" idea.
+I put these in quotes because it's an over-simplification: obviously, you'll contribute to "my" ideas and I'll certainly help you refine "your" ideas.
 Since the bulk of the research conducted by my group is _empirical_ (i.e., exeperimental) in nature, by demonstrable progress I typically mean new experimental results.
 Of course, I don't expect all experiments to actually "work", but "failed" experiments also offer valuable insight into the problem.
+The "anti-pattern" I _don't_ want to see is you struggling to come up with something to work on for extended periods of time.
+To put it somewhat bluntly: either come up with a compelling research vision of your own (and I'll say, great, go ahead) or competently execution a research vision that I've laid out.
 
 Generally, I will nudge newer students to "my ideas" to give them concrete things to work on and leave more senior students "to find their own way".
 A few common "advising patterns" I frequently adopt:
