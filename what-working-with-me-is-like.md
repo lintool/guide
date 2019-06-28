@@ -31,3 +31,18 @@ Additional useful links:
 + [How Some Men Fake an 80-Hour Workweek, and Why It Matters](http://www.nytimes.com/2015/05/05/upshot/how-some-men-fake-an-80-hour-workweek-and-why-it-matters.html)
 + [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) Elite professional organizations deliberately set out to identify and recruit "insecure overachievers".
 
+## What should I be working on?
+
+In terms of research, I expect you to tackle problems in one of two categories:
+
++ Research problems that I've formulated or novel approaches to existing problems that I've devised.
+These items can be found in our group's internal research board, which contains a holding area for "unclaimed ideas".
+They vary from vague observations ("this is interesting, we should dig into it a bit more...") to concrete suggestions ("I think we can improve this model with a small tweak...") and span lots of different sub-areas of NLP, IR, etc.
+I generally have good intuition about what's interesting, and these ideas are usually good starting points that will lead to something publishable.
+In formulating these research ideas, I also try to build in a "fail fast" property so that you can do some initial explorations to make sure it's not a dead end.
++ Your own ideas, e.g., a problem you've formulated yourself or a novel approach to an existing problem that you came up with.
+
+The tl;dr is that you should be making _demonstrable_ progress executing "my" idea or "your" idea.
+I put these in quotes because it's an over-simplification: obviously, you'll contribute to "my" idea and I'll certainly help you refine "your" idea.
+Since the bulk of the research conducted by my group is _empirical_ (i.e., exeperimental) in nature, by demonstrable progress I typically mean new experimental results.
+Of course, I don't expect all experiments to actually "work", but "failed" experiments also offer valuable insight into the problem.
