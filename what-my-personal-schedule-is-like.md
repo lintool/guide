@@ -1,16 +1,17 @@
 # What my personal schedule is like
 
-+ On weekday, I typically wake up around 7am.
-I help get my kids ready for school, which starts at 9:10am.
-In between, I can usually squeeze in quick emails or Slack conversations, but typically not anything that requires concentration, like writing papers.
++ On a weekday, I typically wake up some time between 6am and 7am.
+My kids typically wake up at around 8am, so I have a window where I can focus on some task (e.g., paper writing); I am usually quite productive during this time.
+Starting around 8am, I help get my kids ready for school, which starts at 9:10am.
+In between, I can usually squeeze in quick emails or Slack conversations, but typically not anything that requires concentration.
 
 + If I'm in lab that day, I'll arrive around 9:30am.
 
-+ I typically leave lab no later than around 4:30pm to pick up kids from school.
++ I typically leave lab no later than around 4:00pm to pick up kids from school.
 
 + From when I pick up kids to when the kids go to bed (around 8:30pm) is family time.
 I might squeeze in light email and Slack conversations, e.g., when I'm sitting in the bleachers watching the kids' swim lessons, but I don't do anything that requires concentration.
-Unless absolutely necessary, I refuse synchronous calls of any type (this is consequential for collaborators on the US west coast, because it basically means that I can't do anything after around 2pm west coast time).
+Unless absolutely necessary, I refuse synchronous calls of any type (this is consequential for collaborators on the US west coast, because it basically means that I can't do anything after around 1pm or so west coast time).
 
 + I'm fully engaged with work again after the kids go to bed, starting around 9pm.
 If you'd like to have a synchronous conference call, this time works for me.
