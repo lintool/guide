@@ -46,6 +46,7 @@ The tl;dr is that you should be making _demonstrable_ progress executing "my" id
 I put these in quotes because it's an over-simplification: obviously, you'll contribute to "my" ideas and I'll certainly help you refine "your" ideas.
 Since the bulk of the research conducted by my group is _empirical_ (i.e., exeperimental) in nature, by demonstrable progress I typically mean new experimental results.
 Of course, I don't expect all experiments to actually "work", but "failed" experiments also offer valuable insight into the problem.
+
 The "anti-pattern" I _don't_ want to see is you struggling to come up with something to work on for extended periods of time.
 To put it somewhat bluntly: either come up with a compelling research vision of your own (and I'll say, great, go ahead) or competently execution a research vision that I've laid out.
 
