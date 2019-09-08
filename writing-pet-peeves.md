@@ -28,14 +28,16 @@ If stylistically the prose comes out too repetitive and mechanical, then conside
 
 + **Use of "STOA".** "State of the art" as a noun is written without hyphens, as in "Our algorithm represents the state of the art". As an adjective, "start-of-the-art" is hyphenated, as in, "These are state-of-the-art results".
 
++ **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
+
++ **"Plural" of words like "performance", "effectiveness", "evidence", etc.** The "performance of different models", _not_ "performances of different models". Same with "effectiveness" and "evidence". Mistake also appears in forms like "evidences from multiple experiments support our hypothesis".
+
 + **Hyphenate the compound adjectives.**
 "run" + "time" = ??? The answer is [this](https://homes.cs.washington.edu/~jrw12/runtime.html).
 More generally, adjectival forms (i.e., [compound adjectives](https://www.grammarbook.com/punctuation/hyphens.asp)) are hyphenated, i.e., "machine learning" but "machine-learned models".
 STOA is a common special case of this.
 
 + **Be consistent in the capitalization of hyphenated words.** This applies in paper titles and section headings. For words like "multi-aspect" and "cross-lingual", be consistent. Don't have "Multi-aspect" in one place and "Cross-Lingual" in another.
-
-+ **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
 
 + **Stay in the same tense.**
 Some authors like to describe experiments in the past tense, e.g., "The user received a push notification and clicked on it." Others like to describe experiments in the present tense, e.g., "The user receives a push notification and clicks on it." Both are fine, but stay consistent in the same tense. Don't write, "The user receives a push notification and clicks on it. The click was then recorded by the server."
