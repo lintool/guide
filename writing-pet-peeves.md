@@ -33,6 +33,8 @@ If stylistically the prose comes out too repetitive and mechanical, then conside
 More generally, adjectival forms (i.e., [compound adjectives](https://www.grammarbook.com/punctuation/hyphens.asp)) are hyphenated, i.e., "machine learning" but "machine-learned models".
 STOA is a common special case of this.
 
++ **Be consistent in the capitalization of hyphenated words.** This applies in paper titles and section headings. For words like "multi-aspect" and "cross-lingual", be consistent. Don't have "Multi-aspect" in one place and "Cross-Lingual" in another.
+
 + **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
 
 + **Stay in the same tense.**
