@@ -21,6 +21,8 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 + [What my personal schedule is like](what-my-personal-schedule-is-like.md)
 + [Writing a research paper with me](writing-a-research-paper-with-me.md): this specifically describes how I work with my students.
 + [Writing pet peeves](writing-pet-peeves.md): Lots of specific writing tips.
++ [Thesis tips](thesis-tips.md): Writing tips specifically for writing theses.
++ [General life tips](general-tips.md): General life lessons.
 + [Working in industry is a one-way street out of academia](industry-one-way-street.md)
 
 ## Advice by Others
