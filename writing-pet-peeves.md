@@ -46,6 +46,8 @@ Some authors like to describe experiments in the past tense, e.g., "The user rec
 
 + **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
++ **Learn the difference between "that" and "which".** There are already lots of explanations available on the web, so there's no need for me to repeat them: [here's](https://blog.apastyle.org/apastyle/2012/01/that-versus-which.html) a good one.
+
 + **Always use the [Oxford Comma](https://en.wikipedia.org/wiki/Serial_comma)**.
 
 ## Appearance
