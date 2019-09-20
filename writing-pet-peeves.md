@@ -6,6 +6,8 @@
 By this, I mean a paragraph like "In Section 2 we provide background... Section 3 describes our model... Experimental results are presented in Section 4."
 These are useless and an absolute waste of space.
 Why spend a paragraph describing what I already expect (i.e., all research papers share similar structure) and what I could figure out in two seconds (i.e., I could simply flip ahead and read your section titles).
+An exception to this rule is for theses, where it is common to write something like, "In Chapter 3, I present my model for..."
+However, what follows is typically a paragraph summary of the chapter, so all considered, a roadmap that spans several paragraphs (or often, a bulleted list) isn't that jarring.
 
 + **Implicit narrative roadmaps.**
 Instead, let your prose implicitly lay out the structure of the paper for your reader.
