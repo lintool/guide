@@ -3,6 +3,26 @@
 
 I can't stress this enough. Start early.
 
+## Plan to Run Experiments Twice
+
+Plan to run your experiments twice.
+The first time is to figure out what experiments you need to run, the second time is to actually run them for inclusion in the paper.
+
+Why?
+Because when you run your experiments for the first time, you don't know the relevant experimental factors.
+You may have some ideas, but you don't know definitively, because otherwise you wouldn't need to run the experiments.
+Inevitably, you'll discover something you didn't know before, which is the whole point of research.
+A set of experiments will inform a previous set of experiments, which will compel you to go back to the first experiment to verify.
+In these cases, you might be comparing experiment results from today with a condition you tried some time ago (maybe a week, maybe months).
+Lots of things might have changed in the meantime (the code has changed slightly, for example).
+Thus, it's better to just run through all the experiments again.
+
+For the second time through, you should be able to script all your experimental conditions:
+if you can't it is likely that you don't understand the design or parameter space well enough.
+Make sure your code is able to execute all the conditions through command-line parameters or an external config file.
+Preliminary exploration is okay, but if you intend for a set of results to make its way into a paper, _never_ run those experiments by code modifications (e.g., commenting out a line) &mdash; turn them into command-line options.
+Otherwise, it will be virtually impossible (especially over time) to keep track of which code led to which results.
+
 ## Writing Order
 
 Start writing your paper from the results section. In fact, start with
