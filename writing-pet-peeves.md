@@ -76,7 +76,7 @@ Latex does this sometimes and it looks terrible.
 
 + **Opposite of orphan lines.**
 If the final line of a paragraph runs all the way to the rightmost edge of the column or page, it looks terrible also because the looks like a run-on with the next paragraph.
-Rewrite slightly so this doesn't happen.
+Rewrite the text slightly so this doesn't happen.
 
 ## Citations
 
@@ -87,7 +87,7 @@ Rewrite slightly so this doesn't happen.
 + **Name your proceedings volumes consistently in the bibliography.**
 I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", "SIGIR'12", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography.
 The fact that NAACL can't even consistently name its conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/).
-So the choice as an author referencing papers is inconsistent citations vs. regularizing the name (which is technically citing a proceedings volume that never existed).
+So the choice as an author referencing papers is inconsistent citations vs. regularizing the name (which is citing a proceedings volume that never existed).
 
 ## Polish
 
