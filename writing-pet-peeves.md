@@ -133,9 +133,9 @@ A few details:
 
 + **Watch out for overfull lines.**
 Latex does its best to lay out lines in paragraphs, hyphenating words as necessary.
-Sometimes, however, it can't do so and will just give up, in which case, it'll let words spill into the margin.
+Sometimes, however, it can't do this _well_ (according to its internal algorithm) and will just give up, in which case, it will let words spill into the margin.
 Knuth's design decision was that, instead of producing something that would be distasteful to a discerning typographer, the system should force the author to "deal with it".
-The problem is that many authors forget to "deal with it", and so sometimes final versions of papers have terrible overfull lines; see [multiple examples in this classic paper](https://dl.acm.org/citation.cfm?id=1076115).
+The problem is that many authors forget to "deal with it", and so sometimes final versions of papers have terrible overfull lines; see [multiple examples in this classic paper](https://dl.acm.org/citation.cfm?id=1076115) (just to pick on a random example).
 Sometimes, manually forcing hyphenation works; otherwise, a minor rewrite will do the trick.
 Either way, "deal with it"!
 
