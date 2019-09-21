@@ -22,13 +22,20 @@ If stylistically the prose comes out too repetitive and mechanical, then conside
 
 ## Grammar and Style
 
-+ **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refer to measures like latency, throughput, etc. NLP researchers, however, often use "performance" to refer to "output quality", which sometimes throws me off. I like to be as precise as possible. For IR papers, I always use "effectiveness" to refer to output quality; otherwise, I like to explicitly say "accuracy" or "perplexity" if warranted. In IR papers, I typically use "efficiency" to refer to what other fields call "performance" (since IR folks routinely talk about effective/efficiency tradeoffs; it's well-established parlance), but where ever possible I like to be precise (e.g., lower query latency, higher query throughout, etc.). As a corollary I tend to avoid phrases like "performs well".
++ **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refers to measures like latency, throughput, etc.
+NLP (and often IR) researchers, however, often use "performance" to refer to "output quality", which annoys me.
+I like to be as precise as possible.
+For IR papers, I typically use "effectiveness" to refer to output quality in the general sense;
+otherwise, I try to be as precise as possible with terms like "accuracy", "precision", "recall", "loss", "likelihood", "BLEU score", "perplexity", etc. as appropriate.
+In IR papers, I typically use "efficiency" to refer to what other sub-disciplines call "performance" (since IR folks routinely talk about effectiveness/efficiency tradeoffs; it's well-established parlance), but where ever possible I also like to be precise, e.g., lower query latency, higher query throughout, etc.
+As a corollary I tend to avoid phrases like "performs well".
+An exception, however, is the verb "to outperform", which I sometimes use, since in English there is no verbal form that conveys more precision, e.g., "to outprecise".
 
 + **Use of superlatives and "hype phrases".** In short, use sparingly - things like "dramatically improves the user experience" - unless it's actually warranted. If you improve precision from 0.4 to 0.8, calling the improvements _dramatic_ might be warranted. A 5% improvement is not. I would let the results speak from themselves. Overuse of superlatives potentially turns off reviewers.
 
 + **Use of the term "significant".** Related, use the term _significant_ only in the technical sense of statistically significant.
 
-+ **Use of "STOA".** "State of the art" as a noun is written without hyphens, as in "Our algorithm represents the state of the art". As an adjective, "start-of-the-art" is hyphenated, as in, "These are state-of-the-art results".
++ **Use of "SOTA".** "State of the art" as a noun is written without hyphens, as in "Our algorithm represents the state of the art". As an adjective, "start-of-the-art" is hyphenated, as in, "These are state-of-the-art results".
 Also, don't forget the determiner in the nominal form, i.e., _the_ state of the art.
 
 + **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
