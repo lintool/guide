@@ -29,6 +29,7 @@ If stylistically the prose comes out too repetitive and mechanical, then conside
 + **Use of the term "significant".** Related, use the term _significant_ only in the technical sense of statistically significant.
 
 + **Use of "STOA".** "State of the art" as a noun is written without hyphens, as in "Our algorithm represents the state of the art". As an adjective, "start-of-the-art" is hyphenated, as in, "These are state-of-the-art results".
+Also, don't forget the determiner in the nominal form, i.e., _the_ state of the art.
 
 + **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
 
