@@ -42,10 +42,11 @@ Also, don't forget the determiner in the nominal form, i.e., _the_ state of the 
 
 + **"Plural" of words like "performance", "effectiveness", "evidence", etc.** The "performance of different models", _not_ "performances of different models". Same with "effectiveness" and "evidence". Mistake also appears in forms like "evidences from multiple experiments support our hypothesis".
 
-+ **Hyphenate the compound adjectives.**
++ **Hyphenate compound adjectives.**
 "run" + "time" = ??? The answer is [this](https://homes.cs.washington.edu/~jrw12/runtime.html).
 More generally, adjectival forms (i.e., [compound adjectives](https://www.grammarbook.com/punctuation/hyphens.asp)) are hyphenated, i.e., "machine learning" but "machine-learned models".
-STOA is a common special case of this.
+SOTA is a common special case of this.
+Hyphenation rules are actually much more complex... see [this guide](https://www.dailywritingtips.com/adverbs-and-hyphens/) for more details.
 
 + **Be consistent in the capitalization of hyphenated words.** This applies in paper titles and section headings. For words like "multi-aspect" and "cross-lingual", be consistent. Don't have "Multi-aspect" in one place and "Cross-Lingual" in another.
 
