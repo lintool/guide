@@ -24,6 +24,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 + [Thesis tips](thesis-tips.md): Writing tips specifically for writing theses.
 + [General life tips](general-tips.md): General life lessons.
 + [Working in industry is a one-way street out of academia](industry-one-way-street.md)
++ [Be Paranoid! (Someone is working on your idea right now!)](paranoia.md)
 
 ## Advice by Others
 
