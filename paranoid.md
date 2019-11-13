@@ -67,6 +67,7 @@ Maybe it'll happen, or it's just _hubris_.
 
 While you are thinking "your deep thoughts", I'll be here, grinding away, [poking tiny new frontiers in knowledge, bit by bit](http://matt.might.net/articles/phd-school-in-pictures/).
 Perhaps it is through this process that I will stumble upon upon some brilliant, revolutionary idea.
+
 _Nah_, that's just _hubris_.
 
 I end this essay noting, with great relish, that even Albert Einstein [was nearly scooped](https://en.wikipedia.org/wiki/Relativity_priority_dispute).
