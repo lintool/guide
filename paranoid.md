@@ -25,8 +25,17 @@ Okay, your solution is simple.
 Don't work on deep learning.
 Knuth [says this](https://twitter.com/lintool/status/1057722875942068225).
 Yes, if you're Knuth you can work on anything you want.
-I suppose if you don't want to work on deep learning, you can go back to writing rules?
-Good luck getting your next *ACL paper accepted.
+If you don't want to work on deep learning, that's of course completely fine.
+However, consider this: often, the reason why a particular approach is popular is usually _because it works_.
+Today, we if encounter someone who refuses to adopt data-driven techniques and stubbornly insists on _only_ writing rules, we'd think that's kinda silly.
+It is likely that in a few years, a categorical resistance to deep learning would seem just as silly.
+
+I'll provide a bit of historical context to this statement: the previous major paradigm shift in NLP was from rule-based to "statistical" approaches in the 1990s (I put "statistical" in quotes because that was the term of art back then, but "statistical" is better characterized as "data-driven" in today's parlance).
+Yes, there were researchers back then who simply refused to count tokens and compute likelihoods.
+I know because I lived through those years (as a student).
+Today, most people would find that laughable.
+
+Oh, there's also a practical matter: You'll struggle getting your *ACL papers accepted.
 
 Next, the old, trite, uninspired retort: "well, if you're in danger of being scooped, you should work on a more interesting problem."
 I argue the exact opposite: many people are working on a problem _precisely_ because it's interesting.
