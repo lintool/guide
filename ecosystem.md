@@ -65,10 +65,44 @@ Try reading [this Wikipedia article](https://en.wikipedia.org/wiki/Model_minorit
 I don't deny that certain groups are more marginalized than others.
 But to start comparing who's _more_ marginalized is counterproductive to the goal that we want diversity and inclusion _for all_.
 
+## Follow-Up: "Authoritarian Toxic Monoculture"
+
+I've been accused of, paraphrasing only slightly, running an authoritarian group with a toxic monoculture.
+Let's even say that's partially true (read on...).
+
+Consider this scenario:
+You're an ambitious Chinese undergraduate student who's already risen to the top in the [gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination).
+Here's the deal:
+I get you that dream job at Google, Facebook, etc. in the Bay Area, Seattle, etc. and the green card that comes with it [[2](#footnote2)].
+For that, "all" you need to do is to "pay your dues" and grind it out for a few years, contribute as a cog in the machine that is my lab.
+Yes, you'll likely be miserable.
+Yes, you won't have work/life balance.
+Yes, I will make you slave away chasing leaderboards, pumping out *ACL papers.
+But, you'll get that Ph.D. and I'll deliver on my promise to get you that dream job.
+You can evaluate based on my previous students whether I can indeed deliver.
+With a bit of _hubris_, let's say that I can, with reasonably high probability.
+So, "authoritarian" and "monoculture"?
+Guilty as charged.
+
+Nevertheless, do you take the deal?
+Even if you don't, can you understand why many would?
+As long as students know the terms coming in, why wouldn't you respect their choice?
+
+Now, if _all_ North American research groups operated this way, I would be concerned.
+But that's exactly the point of this post: we need a bit of everything for a vibrant intellectual ecosystem.
+Now, I understand that it might be easy for an authoritarian group to veer into clearly unethical behavior (e.g., data falsification).
+That's a bright red line and there should be zero tolerance for such behavior.
+
+These aside:
+What's your problem with people who are simply aspiring to "a better life" via a path that you might not necessarily take?
+Maybe you shouldn't cast stones from your position of privilege?
+
 ## Footnotes
 
 [<a name="footnote1">1</a>] My [admonition against hubris](paranoid.md) still stands, as the punch line could easily as well end "... because the ones who are crazy enough to think that they can change the world, often really are".
 In the same vein, Carl Sagan once said, "But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright Brothers. But they also laughed at Bozo the Clown."
+
+[<a name="footnote2">2</a>] Yes, I realize that I'm in Canada right now and so talking about green cards and SV isn't particularly apt. It's all hypothetical anyway.
 
 ## Acknowledgments
 
