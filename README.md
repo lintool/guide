@@ -25,6 +25,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 + [General life tips](general-tips.md): General life lessons.
 + [Working in industry is a one-way street out of academia](industry-one-way-street.md)
 + [Be Paranoid! (Someone is working on your idea right now!)](paranoid.md)
++ [Diversity, Inclusion, and a Vibrant Intellectual Ecosystem](ecosystem.md)
 
 ## Advice by Others
 
