@@ -12,7 +12,8 @@ We need people with different risk/reward profiles, different time horizons, etc
 
 In the late 1990s to early 2000s, Apple had a brilliant advertising campaign called [Think Different](https://en.wikipedia.org/wiki/Think_different).
 The [most memorable commercial](https://www.youtube.com/watch?v=4oAB83Z1ydE) from that campaign ended with the punch line, "... because the ones who are crazy enough to think that they can change the world, are the ones who do".
-We absolutely need people in the world like that [[1](#footnote1)].
+(Here's [Steve Jobs](https://www.youtube.com/watch?v=keCwRdbwNQY) introducing the commercial.)
+We absolutely need people in the world like this [[1](#footnote1)].
 
 I have tremendous respect for people who take large intellectual risks, who pursue research programs that have no near-term chance of success.
 
