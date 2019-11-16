@@ -64,10 +64,9 @@ instances include, for example, "for the simple joy of discovery", or "I'm not p
 In some cases, these sentiments are expressed by people who are in the enviable position of not needing to care, for example, post-tenure academics.
 This strikes me as disingenuous if offered as serious advice, i.e., "_you_ are in a position where you don't need to run the publication rat race, but advising students that publication count doesn't matter _at all_"?
 When these sentiments are expressed, for example, by pre-tenure academics, I really hope they are cognizant of the consequences of their approach (on promotion and tenure decisions, etc.).
-I've heard many times: "if this tenure thing doesn't work out, I'll just do _X_, but until then I'll do what I to do".
+I've heard many times: "if this tenure thing doesn't work out, I'll just do _X_, but until then I'll do what I do".
 And they truly mean it.
-I genuinely admire such individuals.
-I just haven't attained such a level of enlightenment.
+I genuinely admire such individuals and wish them the best of luck.
 
 Thomas Kuhn talks about paradigm shifts followed by ["normal science"](https://en.wikipedia.org/wiki/Normal_science).
 Clayton Christensen talks about [sustaining innovating vs. disruptive innovative](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma).
