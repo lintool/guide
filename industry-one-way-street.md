@@ -7,7 +7,7 @@ A faculty member can always get an industry position, but once you're in industr
 
 I've heard countless times a student say something along the lines of:
 Oh, I'll just work a few years in industry, see how I like it, and then come back to pursue an academic position.
-This highly unlikely.
+This is highly unlikely.
 
 It comes down to publications:
 To qualify for a good academic position, you can't stop publishing.
