@@ -11,7 +11,7 @@ Say "have a nice day!" when you leave. Here's a fun one:
 This one has always baffled me, as I frequently hear about colleagues (and sometimes even students) mistreating staff.
 First, it's just not _right_ (see point above).
 Second, even from a purely selfish, Machiavellian perspective, that's not even a wise move.
-As a faculty member, admin and support staff manage my accounts, handle my reimbursements, take care of personnel matters, and generally keep me out of trouble ("No, Jimmy, you can't spend money on that from this account").
+As a faculty member, admin and support staff manage my accounts, handle my reimbursements, help with personnel matters (e.g., appointment paperwork), and generally keep me out of trouble ("No, Jimmy, you can't spend money on that from this account").
 My life would be miserable if I had to do all of that myself.
 Be nice to admin and support staff!
 
