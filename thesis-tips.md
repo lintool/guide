@@ -24,4 +24,4 @@ By skim, I mean I'll flip through the pages, look at the figures, read the secti
 Don't expect me to catch typos.
 
 The only exception to my rule is for the abstract and certain parts of the introduction (e.g., contribution statement).
-I will go over, in detail, those parts multiple times to get it right.
+I will go over, in detail, those parts multiple times with you to get it right.
