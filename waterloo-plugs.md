@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+December 9, 2019 - [Canada’s top international AI talent grows to 80](https://www.cifar.ca/cifarnews/2019/12/09/canada-s-top-international-ai-talent-grows-to-80)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today we announce 34 new Canada CIFAR Artificial Intelligence Chairs. <br>cc <a href="https://twitter.com/AmiiThinks?ref_src=twsrc%5Etfw">@AmiiThinks</a> <a href="https://twitter.com/MILAMontreal?ref_src=twsrc%5Etfw">@MILAMontreal</a> <a href="https://twitter.com/VectorInst?ref_src=twsrc%5Etfw">@VectorInst</a> <a href="https://twitter.com/hashtag/realbrains?src=hash&amp;ref_src=twsrc%5Etfw">#realbrains</a><a href="https://t.co/MvQObspJGO">https://t.co/MvQObspJGO</a></p>&mdash; CIFAR (@CIFAR_News) <a href="https://twitter.com/CIFAR_News/status/1204084983750676486?ref_src=twsrc%5Etfw">December 9, 2019</a></blockquote>
+
 June 25, 2019 - [Google is preparing for a major expansion of its Canadian engineering headquarters on Breithaupt Street in Kitchener](https://www.therecord.com/news-story/9449961-google-is-preparing-for-a-major-expansion-of-its-canadian-engineering-headquarters-on-breithaupt-street-in-kitchener/)
 
 May 26, 2019 - this thread:
