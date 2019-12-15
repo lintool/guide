@@ -24,9 +24,15 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 + [Thesis tips](thesis-tips.md): Writing tips specifically for writing theses.
 + [General life tips](general-tips.md): General life lessons.
 + [Working in industry is a one-way street out of academia](industry-one-way-street.md)
-+ [Be Paranoid! (Someone is working on your idea right now!)](paranoid.md)
-+ [Diversity, Inclusion, and a Vibrant Intellectual Ecosystem](ecosystem.md)
-+ [Leaderboard Micropublications: A Proposal](micropublications.md)
+
+## Unpopular and Contrarian Research Advice
+
++ [Be Paranoid! (Someone is working on your idea right now!)](paranoid.md) (November 15, 2019)
++ [Diversity, Inclusion, and a Vibrant Intellectual Ecosystem](ecosystem.md) (November 16, 2019)
+
+## Other Posts
+
++ [Leaderboard Micropublications: A Proposal](micropublications.md) (December 2, 2019)
 
 ## Advice by Others
 
