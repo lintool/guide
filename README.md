@@ -17,6 +17,10 @@ A few may even rise to the level of "research best practices".
 Given the potential relevance to others, I'm publicly sharing these documents.
 Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.wikipedia.org/wiki/Sodium_chloride).
 
+**Undergraduates at the University of Waterloo**: if you want to work with me read [this guide](ura.md) first.
+
+## Research Advice
+
 + [What working with me is like](what-working-with-me-is-like.md)
 + [What my personal schedule is like](what-my-personal-schedule-is-like.md)
 + [Writing a research paper with me](writing-a-research-paper-with-me.md): this specifically describes how I work with my students.
