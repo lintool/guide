@@ -24,6 +24,7 @@ If you'd like to work with me, start with the following:
 
 + Poke around the [Anserini GitHub repo](http://anserini.io/) and its [Pyserini](http://pyserini.io/) companion (which provides Python bindings).
 + Take a look at the [Anserini and Pyserini online notebooks](https://github.com/castorini/anserini-notebooks) &mdash; spend time to understand what's going on.
++ For some general background, read the [Introduction](http://www.ir.uwaterloo.ca/book/01-introduction.pdf) of Büttcher et al's [IR textbook](http://www.ir.uwaterloo.ca/book/): in particular, 1.1, 1.2, and 1.4.
 + For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to replicate the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the replication log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
 
 You can send me an email after you've done all of the above.
