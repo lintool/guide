@@ -47,6 +47,7 @@ Also, don't forget the determiner in the nominal form, i.e., _the_ state of the 
 More generally, adjectival forms (i.e., [compound adjectives](https://www.grammarbook.com/punctuation/hyphens.asp)) are hyphenated, i.e., "machine learning" but "machine-learned models".
 SOTA is a common special case of this.
 Hyphenation rules are actually much more complex... see [this guide](https://www.dailywritingtips.com/adverbs-and-hyphens/) for more details.
+The Chicago Manual of Style has [an even more complex list of rules](docs/CMS_list.pdf).
 
 + **Be consistent in the capitalization of hyphenated words.** This applies in paper titles and section headings. For words like "multi-aspect" and "cross-lingual", be consistent. Don't have "Multi-aspect" in one place and "Cross-Lingual" in another.
 
