@@ -34,6 +34,14 @@ In you email, mention the phrase "banana odyssey": this lets me know you've actu
 Think of the above as an "initial screen", which is necessary because I get many requests to work with me and don't have time to respond to them all in a customized manner.
 Those tasks shouldn't take more than a few hours, and it's an opportunity to see if you're truly interested in my work.
 
+## Different Paths
+
+After the initial screen, you might be interested in different types of research that my students and I work on:
+
++ [Hedwig](https://github.com/castorini/hedwig): Document classification using neural networks.
++ [DeeBERT](https://github.com/castorini/DeeBERT): Efficiency issues in transformer-based models, or how do I make inference go vroom!
+
+
 ## My Expectations
 
 Students often ask what my expectations are: the answer is, I have _none_.
