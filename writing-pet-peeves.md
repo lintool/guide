@@ -54,6 +54,14 @@ The Chicago Manual of Style has [an even more complex list of rules](https://doc
 + **Stay in the same tense.**
 Some authors like to describe experiments in the past tense, e.g., "The user received a push notification and clicked on it." Others like to describe experiments in the present tense, e.g., "The user receives a push notification and clicks on it." Both are fine, but stay consistent in the same tense. Don't write, "The user receives a push notification and clicks on it. The click was then recorded by the server."
 
++ **Tense when describing experiments.**
+Related to the above point.
+Some authors describe experiments in the present tense, e.g., "We apply our models on three benchmark datasets."
+I think this is fine, but personally, I prefer past tense, e.g., "We applied our models on three benchmark datasets."
+This makes a sequence like the following sound more natural, e.g., "We applied our models on three benchmark datasets. Based on preliminary experiments, a fourth dataset was discarded because..."
+In consistent present tense, the above sequence sounds really odd, "We apply our models on three benchmark datasets. Based on preliminary experiments, we discard a fourth dataset / a fourth dataset is discarded (?) because..."
+Writing about experiments in the past tense more accurately mirrors reality; you already ran those experiments, now you're just describing them.
+
 + **Related work.** "Related work", _not_ "related works". "Work" is a collective noun, like "staff". You don't write "research staffs". Wait, you ask: if this is indeed the case, why would you write ["DaVinci is the creator of several famous _works_ of art"](https://twitter.com/mmparker/status/991012314332545024)? Well, that's a completely different context: "work" in "related work" is intended to refer to a body of work collectively, as in "the literature". You don't write "related literatures" (well, except in a very narrow sense, something like "isolated silos of related literatures"). Note that "DaVinci's work" and "DaVinci's works" are both fine, but in different contexts. The first might refer to his body of work collectively; the second focuses on individual pieces. Also, be aware of subject-verb agreement.
 
 + **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
