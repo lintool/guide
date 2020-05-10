@@ -49,13 +49,13 @@ Yes, seriously.
 If I don't hear from you after the first week, I won't think any less of you.
 Life is short, everyone has conflicting demands on their time, and you should only work on something if you're interested in it.
 
-My advice is simple: How much you get out of working with me is directly dependent on how much work you put it.
+My advice is simple: How much you get out of working with me is directly dependent on how much work you put in.
 The single most important trait in successfully working with me, I believe, is being _self-motivated_; generally, technical background isn't an issue &mdash; you got into Computer Science at Waterloo, after all.
 With me, there are no deadlines.
-How much interaction you get with me depends on how fast you choose to work.
+How much interaction you get with me depends on how fast you _choose_ to work.
 Starting with the "Initial Screen", once you finish something, I'll (try to) give you something else to work on.
 If you finish it in a day, I'll give you something else to work on, and the same after that.
-Those things will increase in complexity and provide you greater learning opportunities... until you either stop working (had enough), or you decide you like them so much you want a greater level of commitment (e.g., you want to do a Masters with me).
+Those things will increase in complexity and provide you bigger learning opportunities... until you either stop working (had enough), or you decide you like them so much you want a greater level of commitment (e.g., you want to do a Masters with me).
 
 Note that, at least in the beginning, it may not be uncommon for me to assign the same task to multiple students.
 Because of the voluntary nature of URAs, it is hard for me gauge a student's level of interest, or when (if ever) something will be completed.
