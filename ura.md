@@ -25,7 +25,7 @@ If you'd like to work with me, start with the following:
 + Poke around the [Anserini GitHub repo](http://anserini.io/) and its [Pyserini](http://pyserini.io/) companion (which provides Python bindings).
 + Take a look at the [Anserini and Pyserini online notebooks](https://github.com/castorini/anserini-notebooks) &mdash; spend time to understand what's going on.
 + For some general background, read the [Introduction](http://www.ir.uwaterloo.ca/book/01-introduction.pdf) of Büttcher et al's [IR textbook](http://www.ir.uwaterloo.ca/book/): in particular, 1.1, 1.2, and 1.4.
-+ For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to replicate the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the replication log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
++ For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to replicate the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-doc.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the replication log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
 
 You can send me an email after you've done all of the above.
 In you email, mention the phrase "banana odyssey": this lets me know you've actually read this document.
@@ -40,7 +40,7 @@ After the initial screen, you might be interested in different types of research
 
 + [Hedwig](https://github.com/castorini/hedwig): Document classification using neural networks.
 + [DeeBERT](https://github.com/castorini/DeeBERT): Efficiency issues in transformer-based models, or how do I make inference go vroom!
-
++ If you're more interested in the data engineering or systems-building side of my work, the next steps might be to play with [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
 
 ## My Expectations
 
@@ -56,3 +56,7 @@ How much interaction you get with me depends on how fast you choose to work.
 Starting with the "Initial Screen", once you finish something, I'll (try to) give you something else to work on.
 If you finish it in a day, I'll give you something else to work on, and the same after that.
 Those things will increase in complexity and provide you greater learning opportunities... until you either stop working (had enough), or you decide you like them so much you want a greater level of commitment (e.g., you want to do a Masters with me).
+
+Note that, at least in the beginning, it may not be uncommon for me to assign the same task to multiple students.
+Because of the voluntary nature of URAs, it is hard for me gauge a student's level of interest, or when (if ever) something will be completed.
+Typically, I'll try to coordinate and reduce duplication on GitHub issues, but as tasks move on and off the critical path to my other projects, preemption is a possibility.
