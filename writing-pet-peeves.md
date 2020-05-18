@@ -24,6 +24,7 @@ If stylistically the prose comes out too repetitive and mechanical, then conside
 
 + **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refers to measures like latency, throughput, etc.
 NLP (and often IR) researchers, however, often use "performance" to refer to "output quality", which annoys me.
+This is especially annoying in papers that _actually_ discuss performance (for example, on model compression), because "better performance" is ambiguous between "faster" (e.g., lower inference latency) and "better" (e.g., higher prediction accuracy).
 I like to be as precise as possible.
 For IR papers, I typically use "effectiveness" to refer to output quality in the general sense;
 otherwise, I try to be as precise as possible with terms like "accuracy", "precision", "recall", "loss", "likelihood", "BLEU score", "perplexity", etc. as appropriate.
