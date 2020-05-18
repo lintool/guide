@@ -92,6 +92,10 @@ _Nah_, that's just _hubris_.
 
 I end this essay noting, with great relish, that even Albert Einstein [was nearly scooped](https://en.wikipedia.org/wiki/Relativity_priority_dispute).
 
+**Update (2020/05/18):** I submit as supporting evidence, the following Exhibit A.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Be Paranoid! Someone is working on your idea right now!&quot; was controversial <a href="https://twitter.com/hashtag/nlproc?src=hash&amp;ref_src=twsrc%5Etfw">#nlproc</a> <a href="https://t.co/xyECGcMCch">https://t.co/xyECGcMCch</a> I submit as further evidence: two papers, both accepted to <a href="https://twitter.com/hashtag/acl2020nlp?src=hash&amp;ref_src=twsrc%5Etfw">#acl2020nlp</a> on same basic idea (BERT early exits). Ours: <a href="https://t.co/junzZZybZw">https://t.co/junzZZybZw</a> Theirs: <a href="https://t.co/W8jVfpKp4b">https://t.co/W8jVfpKp4b</a></p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1262387041641345024?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote>
+
 ## Footnotes
 
 [<a name="footnote1">1</a>] I put "statistical" in quotes because that was the term of art back then, but "statistical" is better characterized as "data-driven" in today's parlance.
