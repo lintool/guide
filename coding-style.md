@@ -18,7 +18,7 @@ This maximizes use of screen real estate.
 ## Python
 
 + We adopt [PEP8](https://pep8.org/).
-+ We adopt single quotes `'`' for strings; unless another approach is obviously better, we use [f-strings](https://www.python.org/dev/peps/pep-0498/) for formatting.
++ We adopt single quotes `'` for strings; unless another approach is obviously better, we use [f-strings](https://www.python.org/dev/peps/pep-0498/) for formatting.
 + We adopt the [numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html).
 
 **Command-line options:** We try to stay true to the UNIX convention, which is what `argparse` (implicitly) endorses anyway.
