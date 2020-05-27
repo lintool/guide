@@ -4,7 +4,8 @@ These are general coding style guidelines we've adopted for my research group.
 
 **Background on UNIX command-line options:**
 Many (most?) UNIX style command-line options have "long form" and a "short form", where the latter is a single character.
-For example `-a` and `--all` for `ls`; although, interestingly, `-l` doesn't have a long form.
+For example `-a` and `--all` for `ls` (although, interestingly, `-l` doesn't have a long form).
+
 Short form options can be strung together, e.g., `ls -l -a` becomes `ls -la`.
 Thus `--abc` and `-abc` mean very different things; the first represents a single option, the second is a shorthand for multiple options, e.g., `-a -b -c`.
 
