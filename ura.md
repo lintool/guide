@@ -38,6 +38,7 @@ Those tasks shouldn't take more than a few hours, and it's an opportunity to see
 
 After the initial screen, you might be interested in different types of research that my students and I work on:
 
++ [PyGaggle](http://pygaggle.ai/): Neural rankers on top of Pyserini.
 + [Hedwig](https://github.com/castorini/hedwig): Document classification using neural networks.
 + [DeeBERT](https://github.com/castorini/DeeBERT): Efficiency issues in transformer-based models, or how do I make inference go vroom!
 + If you're more interested in the data engineering or systems-building side of my work, the next steps might be to play with [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
