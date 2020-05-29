@@ -34,6 +34,23 @@ In you email, mention the phrase "banana odyssey": this lets me know you've actu
 Think of the above as an "initial screen", which is necessary because I get many requests to work with me and don't have time to respond to them all in a customized manner.
 Those tasks shouldn't take more than a few hours, and it's an opportunity to see if you're truly interested in my work.
 
+## What's the Deal with All This Replication?
+
+I believe strongly in open science.
+To the extent that I can (keeping in mind that my students are actually the ones doing the work), I insist that _all_ research is backed by open-source code.
+But not just open-source code, _usable_ open-source code.
+We (try not to) just throw shit over the wall, but release code that allows anyone to _replicate_ our work, i.e., you can run our code and get the same results.
+
+Almost always, the first tasks that I ask my URAs to do is to replicate some existing piece of work.
+This serves two purposes:
+
++ For you, it offers an entry into our research. See if you like it.
++ For my group, it provides an extra pair of eyes and hands to ensure that our results are replicable.
+
+Win-win, right?
+Along the way, feel free to improve the documentation, for example, clarify a confusing point.
+When you're done, [send a PR and add to the replication log](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md#replication-log).
+
 ## Different Paths
 
 After the initial screen, you might be interested in different types of research that my students and I work on:
