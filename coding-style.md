@@ -17,6 +17,12 @@ For more details, see [GNU Program Argument Syntax Conventions](https://www.gnu.
 The rationale for this limit is that 120 is (approximately) the number of characters that will render in GitHub without horizontal scrolling.
 This maximizes use of screen real estate.
 
+### Describing Arguments in Command-Line Applications
+
++ The description should be a short phrase that begins with a capital letter an ends with a period. It prescribes the function or method's effect as a command ("Do this", "Return that"), not as a description; e.g. don't write "Returns the pathname...". This overarching guideline is adapted from [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/).
++ The description should be as succinct as possible, typically a noun phrase. For example, for `-index`, "Path to input collection." is preferred to "Set the path to the input collection.".
++ Binary flags should be written as verb phrases. For example, for `-storeRaw`, "Store raw source documents." is preferred to "Flag to determine whether raw source documents are stored.".
+
 ## Python
 
 + We adopt [PEP8](https://pep8.org/).
