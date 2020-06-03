@@ -27,9 +27,15 @@ This maximizes use of screen real estate.
 
 + We adopt [PEP8](https://pep8.org/).
 + We adopt single quotes `'` for strings; unless another approach is obviously better, we use [f-strings](https://www.python.org/dev/peps/pep-0498/) for formatting.
-+ We adopt the [numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html).
 
-**Command-line options:** We try to stay true to the UNIX convention, which is what `argparse` (implicitly) endorses anyway.
+### Docstrings
+
++ We adopt the [numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html).
++ Omit articles, e.g., "Number of Hits." is preferred over "The number of hits."
+
+### Command-Line Options
+
+We try to stay true to the UNIX convention, which is what `argparse` (implicitly) endorses anyway.
 This means that Java and Python counterparts of script that do the same thing will have different parameters.
 Thus:
 
@@ -42,7 +48,9 @@ Thus:
 
 + Two space indent, otherwise standard conventions.
 
-**Command-line options:** Java breaks the UNIX convention and is a total mess.
+### Command-Line Options
+
+Java breaks the UNIX convention and is a total mess.
 For example, `-classpath` and `--class-path` both work (although the first is much more common).
 For command-line programs written in Java, we try to maintain consistency to Java options:
 
