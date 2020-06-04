@@ -61,16 +61,17 @@ After the initial screen, you might be interested in different types of research
 + If you're more interested in the data engineering or systems-building side of my work, the next steps might be to play with [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
 
 You can get a sense of how active each research project is by looking at the recent commits, issues, etc.
-Typically, I'll pass you off to one of my graduate students who's leading the project you're interested in &mdash; to serve as a mentor.
+Typically, I'll pass you off to one of my graduate students who's leading the project you're interested in, to serve as a mentor.
 
 On question you should answer is whether you'd like to be on the critical path for our research or work on a side project.
 The critical path refers to things that are blockers for our research, for example, that are needed for the next paper deadline.
 A side project might be a new avenue of exploration that on one is actively working on.
 Both have their advantages and disadvantages.
 
-Being on the critical path means greater time committment, and that we'll be after you to deliver.
-This likely means that you'll get more attention from me and my graduate students.
-A side project is more likely more open-ended, but you'll likely get less focused direction; for these, you'll really have to take the initative.
+Being on the critical path means greater time commitment, and that we'll be after you to deliver.
+But this likely means you'll get more attention and engagement from me and my graduate students.
+A side project is more likely more open-ended, but you'll likely get less focused direction and mentoring.
+For these, you'll really have to take the initiative.
 
 ## My Expectations
 
