@@ -21,7 +21,9 @@ This maximizes use of screen real estate.
 
 + The description should be a short phrase that begins with a capital letter an ends with a period. It prescribes the function or method's effect as a command ("Do this", "Return that"), not as a description; e.g. don't write "Returns the pathname...". This overarching guideline is adapted from [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/).
 + The description should be as succinct as possible, typically a noun phrase. For example, for `-index`, "Path to input collection." is preferred to "Set the path to the input collection.".
-+ Binary flags should be written as verb phrases. For example, for `-storeRaw`, "Store raw source documents." is preferred to "Flag to determine whether raw source documents are stored.".
++ Omit articles, e.g., "Number of Hits." is preferred over "The number of hits."
++ Boolean flags should be written as verb phrases, and there is generally no need to indicate that it's a flag in the description. For example, for `-storeRaw`, "Store raw source documents." is preferred to "Flag to determine whether raw source documents are stored." or "Whether or not to store raw documents.".
++ Prefer prepositional phrases over possessives for clarity, e.g., "Foo parameter of Bar." is preferred to "Bar's Foo parameter." even though the latter is shorter. This is especially the case if Bar has multiple tokens.
 
 ## Python
 
@@ -31,7 +33,7 @@ This maximizes use of screen real estate.
 ### Docstrings
 
 + We adopt the [numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html).
-+ Omit articles, e.g., "Number of Hits." is preferred over "The number of hits."
++ In general, follow guidelines in "Describing Arguments in Command-Line Applications".
 
 ### Command-Line Options
 
@@ -41,8 +43,7 @@ Thus:
 
 + Options begin with two dashes: `--index` instead of `-index`.
 + Use single dash (instead of underscore) for multi-token options: `--max-value` instead of `-max_value`.
-+ Use `.` to group parameters, e.g., `--bm25` (use BM25) and `--bm25.b` (set the BM25 _b_ parameter). I think this is less confusing than `--bm25-b`.
-
++ Use `.` to group parameters, e.g., `--bm25` (use BM25) and `--bm25.b` (set the BM25 _b_ parameter). This looks better than `--bm25-b`.
 
 ## Java
 
