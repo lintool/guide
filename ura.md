@@ -73,9 +73,26 @@ But this likely means you'll get more attention and engagement from me and my gr
 A side project is more likely more open-ended, but you'll likely get less focused direction and mentoring.
 For these, you'll really have to take the initiative.
 
+Another issue to think about is whether you wish to do a [_formal_ URA](https://cs.uwaterloo.ca/current-undergraduate-students/research-opportunities/undergraduate-research-assistantship-ura-program).
+A formal URA gets paid and I expect commitment on the order of ten hours a week.
+I would consider it irresponsible if, halfway through the semester, you simply disappear.
+So if you're already taking six courses, a formal URA is probably not for you.
+In fact, most students work with me informally, and come and go as they please.
+
+A related question is "What can I put on my resume?"
+Don't put URA unless you do a formal URA.
+However, I'm fine with more general descriptions such as "research assistant with Prof. Jimmy Lin".
+But then you ask, "What's the threshold of my involvement in order for me to put this on my resume?"
+That's your call.
+I'm not going to police people's resumes (nor do I have time to).
+However, keep in mind that everything on your resume is subject to verification, so if an interviewer asks, "Oh, you worked with Prof. Lin, what did you work on?"
+You'd better have a good answer.
+(It's a small world, and there's a chance that the interviewer knows me personally, or is a former student, etc.)
+If the interviewer reaches out to me to check (less likely but still possible), I should have something meaningful to say.
+
 ## My Expectations
 
-Students often ask what my expectations are: the answer is, I have _none_.
+Students often ask what my expectations are: the answer is, I have _none_ (unless you sign up for a formal URA).
 Yes, seriously.
 If I don't hear from you after the first week, I won't think any less of you.
 Life is short, everyone has conflicting demands on their time, and you should only work on something if you're interested in it.
