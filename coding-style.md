@@ -25,6 +25,27 @@ This maximizes use of screen real estate.
 + Boolean flags should be written as verb phrases, and there is generally no need to indicate that it's a flag in the description. For example, for `-storeRaw`, "Store raw source documents." is preferred to "Flag to determine whether raw source documents are stored." or "Whether or not to store raw documents.".
 + Prefer prepositional phrases over possessives for clarity, e.g., "Foo parameter of Bar." is preferred to "Bar's Foo parameter." even though the latter is shorter. This is especially the case if Bar has multiple tokens.
 
+### Pull Requests and Commit Messages
+
++ The title of pull requests should be written in the imperative, to be consistent with [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/).
+Capitalize the initial letter but _don't_ end with punctuation.
+Equivalently, you can think of an implied subject of "this pull request will..."
+So, "Add super duper feature", not "adds super duper feature" or "Adding super duper feature".
+
++ Typically, the proposer of the pull request merges, after code review and other checks.
+I admit that I frequently break this rule and just merge the pull request myself &mdash; often it's necessary since the proposer doesn't have write access to the repo, and I forget who has write access and who doesn't.
+In practice, it works out that _regular contributors with write access_ to a repo merge their own pull request, with a somewhat fuzzy definition of how "regular" is defined.
+
++ Write a good commit message.
+The first line of your commit message should match the title of your pull request.
+If the pull request is relatively small, this should suffice as a commit message.
+Since our repos are set up for squashed commits, GitHub's default commit message is just a concatenation of the commit messages of all the individual commits that comprise this PR.
+**Don't just use this message.**
+Because we end up with unhelpful commit messages [like this one](https://github.com/castorini/pyserini/commit/770dfdca8dacf9460ee2ac673a09d9c98eef466a).
+Instead, I like to either write a short narrative paragraph summarizing issues on the pull request itself, or a short bulleted list.
+Remember, there's no need to duplicate everything on the pull request, since we can always trace back to examine the discussion online.
+
+
 ## Python
 
 + We adopt [PEP8](https://pep8.org/).
