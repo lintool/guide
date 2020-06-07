@@ -1,8 +1,16 @@
 # General Research Tips
 
+## Keep a Research Notebook
+
+TODO: Write something about this.
+
 ## Change Only One Thing at a Time
 
-Title says it all.
+TODO: Write something about this.
+
+## Script Your Experiments
+
+TODO: Write something about this.
 
 ## Write Early
 
