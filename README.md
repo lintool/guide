@@ -23,6 +23,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 
 + [What working with me is like](what-working-with-me-is-like.md)
 + [What my personal schedule is like](what-my-personal-schedule-is-like.md)
++ [General Research Tips](general-research-tips.md)
 + [Writing a research paper with me](writing-a-research-paper-with-me.md): this specifically describes how I work with my students.
 + [Writing pet peeves](writing-pet-peeves.md): Lots of specific writing tips.
 + [Thesis tips](thesis-tips.md): Writing tips specifically for writing theses.
