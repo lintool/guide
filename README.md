@@ -51,6 +51,7 @@ Advice by others I've given to my students (and things that I haven't had time t
 + [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk): the secret to success? repetition
 + [Research Design Patterns](http://pgbovine.net/research-design-patterns.htm)
 + [Hanna Wallach's & Mark Dredze's How to Be a Successful PhD Student (in Computer Science (in NLP/ML))](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
++ [Managing Your Advisor](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) by Nick Feamster
 
 ## Other Odds and Ends
 
