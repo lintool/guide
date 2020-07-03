@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+June 17, 2020 - [Toronto would like to be seen as the nice person’s Silicon Valley, if that’s not too much trouble](https://www.technologyreview.com/2020/06/17/1003314/toronto-would-like-to-be-seen-as-the-nice-persons-silicon-valley-if-thats-not-too-much-trouble/)
+
 December 9, 2019 - [Canada’s top international AI talent grows to 80](https://www.cifar.ca/cifarnews/2019/12/09/canada-s-top-international-ai-talent-grows-to-80)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today we announce 34 new Canada CIFAR Artificial Intelligence Chairs. <br>cc <a href="https://twitter.com/AmiiThinks?ref_src=twsrc%5Etfw">@AmiiThinks</a> <a href="https://twitter.com/MILAMontreal?ref_src=twsrc%5Etfw">@MILAMontreal</a> <a href="https://twitter.com/VectorInst?ref_src=twsrc%5Etfw">@VectorInst</a> <a href="https://twitter.com/hashtag/realbrains?src=hash&amp;ref_src=twsrc%5Etfw">#realbrains</a><a href="https://t.co/MvQObspJGO">https://t.co/MvQObspJGO</a></p>&mdash; CIFAR (@CIFAR_News) <a href="https://twitter.com/CIFAR_News/status/1204084983750676486?ref_src=twsrc%5Etfw">December 9, 2019</a></blockquote>
