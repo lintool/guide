@@ -124,6 +124,8 @@ A few details:
 
 ## Latex
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">pro·fes·sor — noun<br>***the member of a research lab with the deepest intuitions about how LaTeX \vspace, page breaks, and figure placement work.***</p>&mdash; Zachary Lipton (@zacharylipton) <a href="https://twitter.com/zacharylipton/status/1282700969386684422?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote>
+
 ### Finer Points of Punctuation
 
 + [Details matter!](https://twitter.com/aacooper/status/1109678683877310464)
