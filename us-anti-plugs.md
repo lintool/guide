@@ -7,6 +7,8 @@ Being an American, it pains me to add entries to this page...
 
 ---
 
+August 6, 2020 - [The Trump administration’s no-blanks policy is the latest Kafkaesque plan designed to curb immigration](https://www.washingtonpost.com/opinions/the-trump-administration-imposes-yet-another-arbitrary-absurd-modification-to-the-immigration-system/2020/08/06/42de75ca-d811-11ea-930e-d88518c57dcc_story.html)
+
 May 10, 2020 - [Donald Trump’s rhetoric is steadily chasing Indians out of the US—towards Canada](https://qz.com/india/1866355/indians-fed-up-of-trumps-h-1b-opt-green-card-moves-eye-canada/)
 
 May 30, 2018 - [The US is limiting visas for Chinese international students majoring in tech](https://www.theverge.com/2018/5/30/17410824/us-limiting-chinese-visa-international-students-technology-majors): The latest victim in the technology race is students
