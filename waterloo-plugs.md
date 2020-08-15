@@ -6,7 +6,13 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+August 13, 2020 - [Canadian tech group spends $100K on billboards to lure anxious tech workers from U.S.](https://www.cbc.ca/news/canada/kitchener-waterloo/tech-billboards-1.5683762): Campaign aimed at tech workers worried by Trump administration work visa ban.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Workers who contact Communitech will get information about Canadian work permits and job boards, including opportunities across the country from <a href="https://twitter.com/VIATEC?ref_src=twsrc%5Etfw">@Viatec</a> in B.C. to Volta Labs(<a href="https://twitter.com/voltaeffect?ref_src=twsrc%5Etfw">@voltaeffect</a>) in Nova Scotia.&quot;<a href="https://t.co/3tXpD1JSqw">https://t.co/3tXpD1JSqw</a></p>&mdash; Communitech (@Communitech) <a href="https://twitter.com/Communitech/status/1293920023686320129?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote>
+
 June 17, 2020 - [Toronto would like to be seen as the nice person’s Silicon Valley, if that’s not too much trouble](https://www.technologyreview.com/2020/06/17/1003314/toronto-would-like-to-be-seen-as-the-nice-persons-silicon-valley-if-thats-not-too-much-trouble/)
+
+February 8, 2020 - [Google's expansion plans show why Canada's tech boom is here to stay](https://www.cbc.ca/news/business/google-canada-expansion-analysis-1.5455122): A decade ago, Canada's tech industry was worried about extinction — now it's Silicon Valley North.
 
 December 9, 2019 - [Canada’s top international AI talent grows to 80](https://www.cifar.ca/cifarnews/2019/12/09/canada-s-top-international-ai-talent-grows-to-80)
 
