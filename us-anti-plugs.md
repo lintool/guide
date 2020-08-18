@@ -11,6 +11,8 @@ August 6, 2020 - [The Trump administration’s no-blanks policy is the latest Ka
 
 May 10, 2020 - [Donald Trump’s rhetoric is steadily chasing Indians out of the US—towards Canada](https://qz.com/india/1866355/indians-fed-up-of-trumps-h-1b-opt-green-card-moves-eye-canada/)
 
+Oct 14, 2019 - [Iranian students barred from US: lost money, broken dreams, no answers](https://www.theguardian.com/us-news/2019/oct/14/iranian-students-barred-from-us-lost-money-broken-dreams-no-answers): They had been accepted to prestigious postgraduate programs, many in California, but they got no further than the airport
+
 May 30, 2018 - [The US is limiting visas for Chinese international students majoring in tech](https://www.theverge.com/2018/5/30/17410824/us-limiting-chinese-visa-international-students-technology-majors): The latest victim in the technology race is students
 
 May 6, 2018 - [The disappearing Chinese student visa](https://www.axios.com/foreign-student-visas-dropping-china-india-trump-81e70609-9fa7-43eb-8f40-ccfef9fe3fa5.html): There was a 17% drop in international students in the U.S. last year, mostly due to the 28% decline in Indian students and a 24% decline in Chinese students receiving visas.
