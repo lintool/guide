@@ -7,11 +7,15 @@ Being an American, it pains me to add entries to this page...
 
 ---
 
+September 10, 2020 - [Covid-19 Interrupts Flow of Foreign Students to U.S.](https://www.bloomberg.com/amp/opinion/articles/2020-09-10/covid-19-interrupts-flow-of-foreign-students-to-u-s-colleges): The question for colleges and universities is: Will they come back when the pandemic is over?
+
 August 6, 2020 - [The Trump administration’s no-blanks policy is the latest Kafkaesque plan designed to curb immigration](https://www.washingtonpost.com/opinions/the-trump-administration-imposes-yet-another-arbitrary-absurd-modification-to-the-immigration-system/2020/08/06/42de75ca-d811-11ea-930e-d88518c57dcc_story.html)
 
 May 10, 2020 - [Donald Trump’s rhetoric is steadily chasing Indians out of the US—towards Canada](https://qz.com/india/1866355/indians-fed-up-of-trumps-h-1b-opt-green-card-moves-eye-canada/)
 
 Oct 14, 2019 - [Iranian students barred from US: lost money, broken dreams, no answers](https://www.theguardian.com/us-news/2019/oct/14/iranian-students-barred-from-us-lost-money-broken-dreams-no-answers): They had been accepted to prestigious postgraduate programs, many in California, but they got no further than the airport
+
+Fall, 2019 - [Has President Trump Scared Away All the Foreign Students?](https://www.educationnext.org/has-president-trump-scared-away-foreign-students-facts-behind-fears-higher-education-revenue-recession/)
 
 May 30, 2018 - [The US is limiting visas for Chinese international students majoring in tech](https://www.theverge.com/2018/5/30/17410824/us-limiting-chinese-visa-international-students-technology-majors): The latest victim in the technology race is students
 
