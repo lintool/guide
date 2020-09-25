@@ -115,3 +115,10 @@ Those things will increase in complexity and provide you bigger learning opportu
 Note that, at least in the beginning, it may not be uncommon for me to assign the same task to multiple students.
 Because of the voluntary nature of URAs, it is hard for me gauge a student's level of interest, or when (if ever) something will be completed.
 Typically, I'll try to coordinate and reduce duplication on GitHub issues, but as tasks move on and off the critical path to my other projects, preemption is a possibility.
+
+## DL-fu
+
++ Level 1: You're able to run inference with an existing model.
++ Level 2: You're able to train a NN from scratch and get reasonable results (with existing code).
++ Level 3: You can make simple tweaks to an existing model.
++ Level 4: You can code up novel NN architectures.
