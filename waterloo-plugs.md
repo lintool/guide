@@ -6,6 +6,12 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+November 17, 2020 - [5 Charts: Waterloo vs. America's top emerging tech hubs](https://blog.waterlooedc.ca/5-charts-waterloo-vs-americas-top-emerging-tech-hubs)
+
+November 17, 2020 - [Canada, a destination for AI talent and innovation](https://www.cifar.ca/cifarnews/2020/11/17/a-look-toward-2030)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canada is a destination for talent in artificial intelligence &amp; innovation thanks to our vibrant AI ecosystem: Elissa Strome, ED of the CIFAR Pan-Canadian AI Strategy on the Strategy&#39;s impact to date at <a href="https://twitter.com/Mila_Quebec?ref_src=twsrc%5Etfw">@Mila_Quebec</a> <a href="https://twitter.com/VectorInst?ref_src=twsrc%5Etfw">@VectorInst</a> <a href="https://twitter.com/AmiiThinks?ref_src=twsrc%5Etfw">@AmiiThinks</a><a href="https://t.co/L1UpbKiJeV">https://t.co/L1UpbKiJeV</a> <a href="https://t.co/EEq3HjIH6M">pic.twitter.com/EEq3HjIH6M</a></p>&mdash; CIFAR (@CIFAR_News) <a href="https://twitter.com/CIFAR_News/status/1331621207435829248?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote>
+
 August 13, 2020 - [Canadian tech group spends $100K on billboards to lure anxious tech workers from U.S.](https://www.cbc.ca/news/canada/kitchener-waterloo/tech-billboards-1.5683762): Campaign aimed at tech workers worried by Trump administration work visa ban.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Workers who contact Communitech will get information about Canadian work permits and job boards, including opportunities across the country from <a href="https://twitter.com/VIATEC?ref_src=twsrc%5Etfw">@Viatec</a> in B.C. to Volta Labs(<a href="https://twitter.com/voltaeffect?ref_src=twsrc%5Etfw">@voltaeffect</a>) in Nova Scotia.&quot;<a href="https://t.co/3tXpD1JSqw">https://t.co/3tXpD1JSqw</a></p>&mdash; Communitech (@Communitech) <a href="https://twitter.com/Communitech/status/1293920023686320129?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote>
