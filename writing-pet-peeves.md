@@ -19,6 +19,9 @@ Don't say "soft alignment between words in phrases in the question and answer" i
 Especially technical terms that sound similar but are slightly different, like in the example above.
 Don't confuse your reader.
 If stylistically the prose comes out too repetitive and mechanical, then consider mixing verbal and nominal forms, e.g., "matching at the semantic level" and "semantic matching", but make sure they _clearly_ mean the same thing.
+Don't do this, even for things that _you_ think mean the same thing.
+For example, "neural seq2seq model", "seq2seq neural network", and "seq2seq neural model" are all roughly interchangeable, but there are nuanced differences in emphasis.
+If you mix these references, the reader might infer that you are trying to establish some contrast that is likely not your intention.
 
 ## Grammar and Style
 
