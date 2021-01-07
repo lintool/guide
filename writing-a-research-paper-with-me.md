@@ -25,17 +25,18 @@ Otherwise, it will be virtually impossible (especially over time) to keep track 
 
 ## Writing Order
 
-Start writing your paper from the results section. In fact, start with
-the results figures or tables. Usually, we would have discussed the
-contribution claims of the paper well in advance. Make sure the
-results support those claims. For example, if your claimed
-contribution is to demonstrate that technique *X* improves over
-competitive baselines for task *Y*, there'd better be a results table
-(or figure) that shows technique *X* vs. competitive
-baselines. Typically, there will be a main set of results and a set of
-secondary results that flesh out your experiments, e.g., exploring
-different parameter settings, ablation experiments where you examine
-the impact of different components, etc.
+Start writing your paper from the results section.
+In fact, start with the results figures or tables.
+Usually, we would have discussed the contribution claims of the paper well in advance.
+Make sure the results support those claims.
+For example, if your claimed contribution is to demonstrate that technique *X* improves over competitive baselines for task *Y*, there'd better be a results table
+(or figure) that shows technique *X* vs. competitive baselines.
+Typically, there will be a main set of results and a set of secondary results that flesh out your experiments, e.g., exploring different parameter settings, ablation experiments where you examine the impact of different components, etc.
+Focus on the main results first.
+
+Even if you don't have all the experimental results yet, you can still set up the results tables (with missing entries) or put in a stub for a figure.
+As your experiments progress, it's a matter of filling in values in an empty table, or adding another line in a plot...
+Having these placeholder will allow you to proceed concurrently on the prose.
 
 Once you're done with the results section, write the experimental
 setup section. This includes things like what dataset you used, the
