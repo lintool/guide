@@ -122,3 +122,13 @@ Typically, I'll try to coordinate and reduce duplication on GitHub issues, but a
 + Level 2: You're able to train a NN from scratch and get reasonable results (with existing code).
 + Level 3: You can make simple tweaks to an existing model.
 + Level 4: You can code up novel NN architectures.
+
+## Transitioning from a URA to a Grad Student
+
+In a way, being a good URA is easy: it's all about implementation chops.
+You get assigned an issue, you close the issue.
+Rinse. Repeat.
+
+As a grad student, you need to decide what issues are worth tackling.
+In other words, answering a research question is often straightforward.
+It's formulating an interesting research question, or deciding _which_ research question is interesting, that's the challenge.
