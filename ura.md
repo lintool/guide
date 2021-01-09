@@ -118,10 +118,17 @@ Typically, I'll try to coordinate and reduce duplication on GitHub issues, but a
 
 ## DL-fu
 
+For those students interested in deep learning: in my mind, your mastery of deep learning skills progresses roughly along the following levels:
+
 + Level 1: You're able to run inference with an existing model.
 + Level 2: You're able to train a NN from scratch and get reasonable results (with existing code).
 + Level 3: You can make simple tweaks to an existing model.
 + Level 4: You can code up novel NN architectures.
+
+The tasks I assign to URAs also tend to follow along this progression.
+Levels 1 and 2 are mostly focused on replication, although replicating training runs is often more complex than just replicating inference runs.
+The beginning of level 3 is typically asking you to help us with experiments by making simple parametric changes, e.g., hyperparameter sweeps.
+This is usually followed by relatively simple model tweaks (e.g., change max to mean pooling), then followed by increasingly substantive model changes until level 4 is reached.
 
 ## Transitioning from a URA to a Grad Student
 
