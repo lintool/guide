@@ -46,8 +46,19 @@ Also, don't forget the determiner in the nominal form, i.e., _the_ state of the 
 
 + **"Plural" of words like "performance", "effectiveness", "evidence", etc.** The "performance of different models", _not_ "performances of different models". Same with "effectiveness" and "evidence". Mistake also appears in forms like "evidences from multiple experiments support our hypothesis".
 
-+ **Continuation of above... you probably don't mean "codes"**. If you're talking about source code, the source code of two different programs is still "source code", not "source codes".
++ **Continuation of above... you probably don't mean "codes".** If you're talking about source code, the source code of two different programs is still "source code", not "source codes".
 Unless you mean something like "Huffman codes"...
+
++ **Another continuation of above... the case of analysis vs. analyses.** "Analysis" vs. "analyses" is an interesting case.
+I personally have a slight preference for analysis, but analyses sounds fine in most contexts.
+In an analysis, you might be running multiple trials, tests, ablations, etc., so it might be tempting to use the plural.
+However, even if you do run multiple tests to analyze something (e.g., "Is A better than B?"), at least to me, it is more natural to call it an analysis (singular).
+What if you're analyzing different things?
+For example, "parameter analysis" or "parameter analyses"?
+In this specific case, I have a strong preference for the former, even if you're analyzing multiple parameters.
+But what if you're analyzing two completely different hypotheses?
+For example, "In this analysis/these analyses we examine our proposed hypotheses..."
+I think both sound fine to me.
 
 + **Hyphenate compound adjectives.**
 "run" + "time" = ??? The answer is [this](https://homes.cs.washington.edu/~jrw12/runtime.html).
