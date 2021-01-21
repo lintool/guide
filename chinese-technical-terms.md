@@ -88,10 +88,10 @@ perceptron | 感知器 | 感知器 | gǎnzhī qì
 multi-layer perceptron | 多层感知器 | 多層感知器 | duōcéng gǎnzhī qì
 word embedding | 单词嵌入 | 單詞嵌入 | dāncí qiànrù
 convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | juàn jī (shénjīng) wǎngluò
-feature map |
-convolutional filter |
-stride |
-(max/min) pooling |
+feature map | 特征图 | 特徵圖 | tèzhēng tú
+convolutional filter | 卷积滤波器 | 卷積過濾器 | juàn jī guòlǜ qì
+stride | 步长 ｜ 步長 | bù zhǎng
+(max/min) pooling | (最大/最小) 池化 ｜(最大/ 最小) 池化 | (zuìdà / zuìxiǎo) chí huà
 recursive (neural) network | 递归(神经)网络 | 遞歸(神經)網絡 | dìguī (shénjīng) wǎngluò
 recurrent (neural) network | 循环(神经)网络 | 循環(神經)網絡 | xúnhuán (shénjīng) wǎngluò
 (bidirectional) LSTM | (双向)LSTM网络 | (双向)LSTM網絡 | (shuāngxiàng) LSTM wǎngluò
@@ -117,11 +117,11 @@ key-value store | 键值(数据)库 | 鍵值(數據)庫 | jiàn zhí (shùjù) k
 document store | 文档数据库 | 文檔數據庫 | wéndàng shùjùkù
 column store | 列(式)数据库 | 列(式)數據庫 | liè (shì) shùjùkù
 graph store | 图数据库 | 圖數據庫 | tú shùjùkù
-API |
-cluster |
-node |
+API | 应用编程接口 | 應用編程接口 | yìngyòng biānchéng jiēkǒu 
+cluster | 集群 | 集群 | jíqún 
+node | 节点 ｜節點 | jiédiǎn
 rack |
-index |
+index | 索引 | 索引 | suǒyǐn 
 query plan |
 logical plan |
 physical plan |
