@@ -120,10 +120,10 @@ graph store | 图数据库 | 圖數據庫 | tú shùjùkù
 API | 应用编程接口 | 應用編程接口 | yìngyòng biānchéng jiēkǒu 
 cluster | 集群 | 集群 | jíqún 
 node | 节点 ｜節點 | jiédiǎn
-rack |
+rack | 机架 | 機架 | jī jià
 index | 索引 | 索引 | suǒyǐn 
-query plan |
-logical plan |
-physical plan |
+query plan | 
+logical plan | 逻辑计划 | 邏輯計劃 | luójí jìhuà
+physical plan | 物理计划 | 物理計劃 | wùlǐ jìhuà
 
 [1] Literally, non-relational
