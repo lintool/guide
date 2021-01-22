@@ -122,7 +122,7 @@ cluster | 集群 | 集群 | jíqún
 node | 节点 | 節點 | jiédiǎn
 rack | 机架 | 機架 | jī jià
 index | 索引 | 索引 | suǒyǐn
-query plan |
+query plan | 查询计划 | 查詢計劃 | cháxún jìhuà
 logical plan | 逻辑计划 | 邏輯計劃 | luójí jìhuà
 physical plan | 物理计划 | 物理計劃 | wùlǐ jìhuà
 
