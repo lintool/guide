@@ -30,7 +30,7 @@ multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
 reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
 maximize | 最大化 | 最大化 | zuìdà huà
 minimize | 最小化 | 最小化 | zuìxiǎo huà
-similarity |相似度 | 相似度 | xiāngsì dù
+similarity | 相似度 | 相似度 | xiāngsì dù
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
@@ -55,7 +55,7 @@ batch size | 批量样本数 | 批量樣本數 | pīliàng yàngběn shù
 learning rate | 学习率 | 學習率 | xuéxí lǜ
 overfitting | 过拟合 | 過擬合 | guò nǐhé
 under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé
-feed (i.e., to feed into a model) | 餵 | 餵 | wèi
+feed (i.e., to feed into a model) | 喂 | 餵 | wèi
 
 [1] Literally, "to make excellent"
 
@@ -91,7 +91,7 @@ convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | j
 feature map | 特征图 | 特徵圖 | tèzhēng tú
 convolutional filter | 卷积滤波器 | 卷積過濾器 | juàn jī guòlǜqì
 stride | 步长 | 步長 | bùcháng
-(max/min) pooling | (最大/最小) 池化| (最大/ 最小) 池化 | (zuìdà / zuìxiǎo) chí huà
+(max/min) pooling | (最大/最小) 池化| (最大/最小) 池化 | (zuìdà / zuìxiǎo) chí huà
 recursive (neural) network | 递归(神经)网络 | 遞歸(神經)網絡 | dìguī (shénjīng) wǎngluò
 recurrent (neural) network | 循环(神经)网络 | 循環(神經)網絡 | xúnhuán (shénjīng) wǎngluò
 (bidirectional) LSTM | (双向)LSTM网络 | (双向)LSTM網絡 | (shuāngxiàng) LSTM wǎngluò
