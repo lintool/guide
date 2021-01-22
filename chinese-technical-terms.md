@@ -9,7 +9,7 @@ software | 软件 | 軟件 | ruǎnjiàn
 source code | 代码 | 代碼 | dàimǎ
 internet | 互联网 | 互聯網 | hùliánwǎng
 browser | 浏览器 | 瀏覽器 | liúlǎn qì
-search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng 
+search engine | 搜索引擎 | 搜索引擎 | sōusuǒ yǐnqíng
 recommender system | 推荐系统 | 推薦系統 | tuījiàn xìtǒng
 e-commerce | 电商 | 電商 | diàn shāng
 end-to-end | 端到端 | 端到端 | duān dào duān
@@ -30,7 +30,7 @@ multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
 reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí
 maximize | 最大化 | 最大化 | zuìdà huà
 minimize | 最小化 | 最小化 | zuìxiǎo huà
-similarity |相似度 | 相似度 | xiāngsì dù
+similarity | 相似度 | 相似度 | xiāngsì dù
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
@@ -49,13 +49,13 @@ validation set | 验证集 | 驗證集 | yànzhèng jí
 test set | 测试集 | 測試集 | cèshì jí
 gradient descent (method) | 梯度下降(法) | 梯度下降(法) | tīdù xiàjiàng fǎ
 stochastic gradient descent | 随机梯度下降 | 隨機梯度下降 | suíjī tīdù xiàjiàng
-step size | 步长 | 步長 | bùcháng 
+step size | 步长 | 步長 | bùcháng
 epoch | 轮 | 輪 | lún
 batch size | 批量样本数 | 批量樣本數 | pīliàng yàngběn shù
-learning rate | 学习率 | 學習率 | xuéxí lǜ 
-overfitting | 过拟合 | 過擬合 | guò nǐhé 
-under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé 
-feed (i.e., to feed into a model) | 餵 | 餵 | wèi
+learning rate | 学习率 | 學習率 | xuéxí lǜ
+overfitting | 过拟合 | 過擬合 | guò nǐhé
+under fitting | 欠拟合 | 欠擬合 | qiàn nǐhé
+feed (i.e., to feed into a model) | 喂 | 餵 | wèi
 
 [1] Literally, "to make excellent"
 
@@ -66,7 +66,7 @@ English | Chinese (simplified) | Chinese (traditional) | Pinyin
 natural language processing | 自然语言处理 | 自然語言處理 | zìrán yǔyán chǔlǐ
 information retrieval | 信息检索 | 信息檢索 | xìnxī jiǎnsuǒ
 unstructured text | 无结构文本 | 無結構文本 | wú jiégòu wénběn
-reading comprehension | 阅读理解 | 閱讀理解 | yuèdú lǐjiě 
+reading comprehension | 阅读理解 | 閱讀理解 | yuèdú lǐjiě
 intent  | 意图 | 意圖 | yìtú
 slot | 槽(位) | 槽(位) | cáowèi
 chatbot | 对话机器人 | 對話機器人 | duìhuà jīqìrén
@@ -88,10 +88,10 @@ perceptron | 感知器 | 感知器 | gǎnzhī qì
 multi-layer perceptron | 多层感知器 | 多層感知器 | duōcéng gǎnzhī qì
 word embedding | 单词嵌入 | 單詞嵌入 | dāncí qiànrù
 convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | juàn jī (shénjīng) wǎngluò
-feature map |
-convolutional filter |
-stride |
-(max/min) pooling |
+feature map | 特征图 | 特徵圖 | tèzhēng tú
+convolutional filter | 卷积滤波器 | 卷積過濾器 | juàn jī guòlǜqì
+stride | 步长 | 步長 | bùcháng
+(max/min) pooling | (最大/最小) 池化| (最大/最小) 池化 | (zuìdà / zuìxiǎo) chí huà
 recursive (neural) network | 递归(神经)网络 | 遞歸(神經)網絡 | dìguī (shénjīng) wǎngluò
 recurrent (neural) network | 循环(神经)网络 | 循環(神經)網絡 | xúnhuán (shénjīng) wǎngluò
 (bidirectional) LSTM | (双向)LSTM网络 | (双向)LSTM網絡 | (shuāngxiàng) LSTM wǎngluò
@@ -117,13 +117,13 @@ key-value store | 键值(数据)库 | 鍵值(數據)庫 | jiàn zhí (shùjù) k
 document store | 文档数据库 | 文檔數據庫 | wéndàng shùjùkù
 column store | 列(式)数据库 | 列(式)數據庫 | liè (shì) shùjùkù
 graph store | 图数据库 | 圖數據庫 | tú shùjùkù
-API |
-cluster |
-node |
-rack |
-index |
-query plan |
-logical plan |
-physical plan |
+API | 应用编程接口 | 應用編程接口 | yìngyòng biānchéng jiēkǒu
+cluster | 集群 | 集群 | jíqún
+node | 节点 | 節點 | jiédiǎn
+rack | 机架 | 機架 | jī jià
+index | 索引 | 索引 | suǒyǐn
+query plan | 查询计划 | 查詢計劃 | cháxún jìhuà
+logical plan | 逻辑计划 | 邏輯計劃 | luójí jìhuà
+physical plan | 物理计划 | 物理計劃 | wùlǐ jìhuà
 
 [1] Literally, non-relational
