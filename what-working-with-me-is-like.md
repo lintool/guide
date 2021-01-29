@@ -29,8 +29,8 @@ See my writeup on [what my personal schedule is like](what-my-personal-schedule-
 
 Additional useful links:
 
-+ [Why We Have to Go Back to a 40-Hour Work Week to Keep Our Sanity](https://www.alternet.org/story/154518/why_we_have_to_go_back_to_a_40-hour_work_week_to_keep_our_sanity): 150 years of research proves that long hours at work kill profits, productivity and employees.
-+ [Why Crunch Modes Doesn't Work: Six Lessons](http://www.igda.org/?page=crunchsixlessons): Workers can maintain productivity more or less indefinitely at 40 hours per five-day work week. When working longer hours, productivity begins to decline. Somewhere between four days and two months, the gains from additional hours of work are negated by the decline in hourly productivity.
++ [Why We Have to Go Back to a 40-Hour Work Week to Keep Our Sanity](https://www.alternet.org/2018/04/why-we-have-go-back-40-hour-work-week-keep-our-sanity/): 150 years of research proves that long hours at work kill profits, productivity and employees.
++ [Why Crunch Modes Doesn't Work: Six Lessons](https://igda.org/resources-archive/why-crunch-mode-doesnt-work-six-lessons-2005/): Workers can maintain productivity more or less indefinitely at 40 hours per five-day work week. When working longer hours, productivity begins to decline. Somewhere between four days and two months, the gains from additional hours of work are negated by the decline in hourly productivity.
 + [How Some Men Fake an 80-Hour Work week, and Why It Matters](http://www.nytimes.com/2015/05/05/upshot/how-some-men-fake-an-80-hour-workweek-and-why-it-matters.html)
 + [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) Elite professional organizations deliberately set out to identify and recruit "insecure overachievers".
 
