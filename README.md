@@ -54,7 +54,8 @@ Advice by others I've given to my students (and things that I haven't had time t
 + [Research Design Patterns](http://pgbovine.net/research-design-patterns.htm)
 + [Hanna Wallach's & Mark Dredze's How to Be a Successful PhD Student (in Computer Science (in NLP/ML)](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 + [Managing Your Advisor](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) by Nick Feamster
-
++ [Thoughts on Competition in Academia](https://shomir.net/competition.html) by Shomir Wilson
+ 
 ## Other Odds and Ends
 
 I've collected other non-related odds and ends in this repo:
