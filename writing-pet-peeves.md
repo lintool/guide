@@ -155,6 +155,8 @@ A few details:
 
   + It's `human--computer interaction`. Note that the [Wikipedia article](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) gets it right and [this incorrect URL](https://en.wikipedia.org/wiki/Human-computer_interaction) redirects to the correct article.
 
+  + It's one of my favorite obscure rules, but yes, there are cases when you mix an en-dash and a hyphen _in the same word_! See [this explanation](https://www.thepunctuationguide.com/en-dash.html). In things that we are likely to write, "pre--fine-tuning" is one such word.
+
 + Footnotes go after the punctuation, as in `End of sentence.\footnote{...}`. Note, there is _no_ space between punctuation and the footnote.
 
 + There is a difference between end-of-sentence spacing and intra-sentence spacing after a period. For example, `cat vs.\ dog` but `I like cats. She likes dogs.`
