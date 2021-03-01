@@ -1,6 +1,8 @@
 
 # Writing a Research Paper With Me
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">:<a href="https://twitter.com/squarecog?ref_src=twsrc%5Etfw">@squarecog</a> to me: dude, you&#39;re just a glorified technical writer.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/205133813330870272?ref_src=twsrc%5Etfw">May 23, 2012</a></blockquote>
+
 I can't stress this enough. Start early.
 
 ## Plan to Run Experiments Twice
