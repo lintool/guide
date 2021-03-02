@@ -141,6 +141,8 @@ A few details:
   + _Pointing_ to each word is critical, to make your eyes [saccade](https://en.wikipedia.org/wiki/Saccade) to it; otherwise your brain has a tendency to just interpolate and error-correct the typos.
   + To combat fatigue and learning effects, in each pass I vary the order in which I read sections: e.g., start with the intro, start from the conclusion, start from the experiments, etc.
 
++ Here's an interesting way to proofread: [say the text back to you](https://kmicinski.com/writing/2017/09/22/reading-text-back/).
+
 ## Latex
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">pro·fes·sor — noun<br>***the member of a research lab with the deepest intuitions about how LaTeX \vspace, page breaks, and figure placement work.***</p>&mdash; Zachary Lipton (@zacharylipton) <a href="https://twitter.com/zacharylipton/status/1282700969386684422?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote>
