@@ -134,6 +134,18 @@ have all of Thursday morning to devote to your paper" or "I have too
 many other deadlines. I'll write your introduction but otherwise you
 are on your own."
 
+## Meta-Writing
+
+I often do what I call "meta-writing", which is writing what you should write about&mdash;directly into your draft (e.g., on Overleaf).
+This often appears in red font, so it's difficult to miss.
+Examples of meta-writing include reorganization suggestions, e.g., "you should move the model description here to improve the flow",
+missing logical chains of reasoning, e.g., "here you're missing the argument that recall is the most important metric for this task",
+specific requests, e.g., "let's cherry pick a better example here", etc.
+When I do this, I leave the implementation of the suggestions up to you, i.e., to execute a suggestion into fluent prose that flows smoothly with the surrounding text.
+Often, my meta-writing is fragmentary, frequently not even complete sentences.
+Sometimes, my meta-writing might contain colorful language, like, "here you want to say, this is stupid", and "here, you want to brag about your results".
+Obviously, you should turn these suggestions into academically acceptable writing.
+
 ## After I've Done a Major Rewriting Pass
 
 ### Comparing Before and After
