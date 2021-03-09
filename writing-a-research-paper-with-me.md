@@ -3,7 +3,9 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">:<a href="https://twitter.com/squarecog?ref_src=twsrc%5Etfw">@squarecog</a> to me: dude, you&#39;re just a glorified technical writer.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/205133813330870272?ref_src=twsrc%5Etfw">May 23, 2012</a></blockquote>
 
-I can't stress this enough. Start early.
+I can't stress this enough.
+Start early.
+Most students grossly underestimate the time they take to write.
 
 ## Plan to Run Experiments Twice
 
@@ -24,6 +26,12 @@ if you can't it is likely that you don't understand the design or parameter spac
 Make sure your code is able to execute all the conditions through command-line parameters or an external config file.
 Preliminary exploration is okay, but if you intend for a set of results to make its way into a paper, _never_ run those experiments by code modifications (e.g., commenting out a line) &mdash; turn them into command-line options.
 Otherwise, it will be virtually impossible (especially over time) to keep track of which code led to which results.
+
+## Don't Procrastinate on Writing by More Coding
+
+Most students find it easier to build implementations (and run experiments, etc.) than to write papers.
+So, they put off writing the paper and continue coding, even when they've collected enough experimental results for their paper.
+Recognize that this happens (it's okay, I see it all the time), but resist the urge.
 
 ## Writing Order
 
@@ -175,9 +183,18 @@ after it, it is *your* research.
 
 ### Smoothing Pass
 
-After I've done a major rewriting of sections in your paper, you need to do what I call a "smoothing pass".
-That is, go back through the entire paper and make sure the writing is consistent.
-For example, if in the introduction I use a particular phrase to describe a technique, then make sure the phrasing is propagated forward in the results section.
+After I've worked on your paper, you usually need to do what I call a "smoothing pass".
+The amount of smoothing depends on how extensive my edits were and how much I changed.
+For example, if I rewrote a paragraph here, you'll need to make sure that the flow from the preceding to the following paragraph remains smooth; you might need to add a transition sentence.
+Sometimes I'm missing this because I focused on making local edits; you'll likely have a more accurate global view than I do.
+
+Note that often my edits trigger the need for changes to propagate non-locally to other parts of the paper.
+For example, if I tweak the story in the introduction, then we need to make sure the narrative in the rest of the paper is consistent.
+As an another example, if I change a particular phrasing, then we need to make sure the phrasing is propagated everywhere else.
+What is it that we're proposing?
+A model? Technique? Approach? Method?
+Whatever we decide (let's discuss), make it consistent.
+That is, don't say in the intro "We propose an approach to..." and then later say, "Our method does this..."
 See ["use consistent terminology"](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md).
 
 ## As the Deadline Approaches
