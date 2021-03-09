@@ -90,61 +90,32 @@ It is not unusual for these changes to happen in a few rounds before we finally 
 
 ## My Input
 
-If you're a junior student, I will usually write the introduction for you, because that's the hardest part to write (see above).
+If you're a junior student, I often write the introduction for you, because that's the hardest part to write (see above).
 As you gain experience, I expect you to be able to start telling your own story.
 This is the hardest skill to master.
 
-Typically, I will communicate with you about a rough time period where
-I will set aside time to help you with your paper. Help consists of
-two forms: (1) reading and giving feedback, and (2) substantially
-revising your paper.
+Typically, I will communicate with you about a rough time period where I will set aside time to help you with your paper.
+My input is usually in the form of one of the following: (1) reading and giving feedback, (2) substantially revising your paper directly, and (3) meta-writing.
 
-In many cases, especially if you are a junior student, I will probably
-end up completely rewriting your paper such that the final product may
-contain the same ideas, algorithms, models, results, but with a
-completely different expression. Realize that this is the most
-valuable part of your interactions with me: this is where you get my
-undivided attention working on *your* problem, helping you refine and
-improve your work. These interactions are also where you learn to
-write research papers. For example:
+In some cases, especially if you are a junior student, I may end up completely rewriting your paper such that the final product may contain the same ideas, algorithms, models, results, but with a completely different expression.
+Realize that this is the most valuable part of your interactions with me: this is where you get my undivided attention working on *your* problem, helping you refine and improve your work.
+These interactions are also where you learn to write research papers. For example:
 
-+ I help you explain your complex algorithm in the simplest possible
-way that helps the reader understand its underlying intuitions.
++ I help you explain your complex algorithm in the simplest possible way that helps the reader understand its underlying intuitions.
 
-+ I help you untangle your experimental results into a series of clear
-findings that reveals insights about your system or technique.
++ I help you untangle your experimental results into a series of clear findings that reveals insights about your system or technique.
 
-These cases focus on how to clearly articulate your ideas, so it is
-important that your draft already contains the "raw ingredients". For
-example, there should already be a rough attempt at explaining the
-algorithm or model in a sufficient level of detail. All the
-experimental results should be present for analysis. I call this the
-"fodder" that serves as the input to refined prose.
+These cases focus on how to clearly articulate your ideas, so it is important that your draft already contains the "raw ingredients". 
+For example, there should already be a rough attempt at explaining the algorithm or model in a sufficient level of detail.
+All the experimental results should be present for analysis.
+I call this the "fodder" that serves as the input to refined prose.
 
-An implication of this is that it is in your best interest to get
-everything in the draft before I start to work on it. While I'm
-working on it, also be available on Slack to answer questions on
-missing details. If there is "not enough" for me to work on or if you
-are not responsive, I will context switch and work on other things. I
-try to minimize my context switches so it might be a while until I
-return to your paper.
+An implication of this is that it is in your best interest to get everything in the draft before I start to work on it.
+While I'm working on it, also be available on Slack to answer questions on missing details.
+If there is "not enough" for me to work on or if you are not responsive, I will context switch and work on other things.
+I try to minimize my context switches so it might be a while until I return to your paper.
 
-The proportion of time I spend substantially revising your paper will
-decrease as you gain experience. For senior students, I might write
-the introduction and that's it. For students close to graduating and
-postdocs, I might only read a close-to-final draft to offer comments
-with no "hands-on-keyboard" work. For postdocs, I might not even be a
-co-author.
-
-If you are unclear what type of help you are going to get from me,
-**ask**! I will be clear and up front to you and say things like, "I'll
-have all of Thursday morning to devote to your paper" or "I have too
-many other deadlines. I'll write your introduction but otherwise you
-are on your own."
-
-## Meta-Writing
-
-I often do what I call "meta-writing", which is writing what you should write about&mdash;directly into your draft (e.g., on Overleaf).
+For more senior students, instead of actually editing your paper, I often do what I call "meta-writing", which is writing what you should write about&mdash;directly into your draft (e.g., on Overleaf).
 This often appears in red font, so it's difficult to miss.
 Examples of meta-writing include reorganization suggestions, e.g., "you should move the model description here to improve the flow",
 missing logical chains of reasoning, e.g., "here you're missing the argument that recall is the most important metric for this task",
@@ -153,6 +124,15 @@ When I do this, I leave the implementation of the suggestions up to you, i.e., t
 Often, my meta-writing is fragmentary, frequently not even complete sentences.
 Sometimes, my meta-writing might contain colorful language, like, "here you want to say, this is stupid", and "here, you want to brag about your results".
 Obviously, you should turn these suggestions into academically acceptable writing.
+
+The proportion of time I spend substantially revising your paper will decrease as you gain experience.
+For more senior students, I might mostly focus on meta-writing and leave the excecution to you.
+In these cases, I might edit your introduction and that's it.
+For students close to graduating and postdocs, I might only read a close-to-final draft to offer comments with no "hands-on-keyboard" work.
+For postdocs, I might not even be a co-author.
+
+If you are unclear what type of help you are going to get from me, **ask**!
+I will be clear and up front to you and say things like, "I'll have all of Thursday morning to devote to your paper" or "I have too many other deadlines. I'll write your introduction but otherwise you are on your own."
 
 ## After My Input
 
