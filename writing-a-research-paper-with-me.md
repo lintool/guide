@@ -154,7 +154,7 @@ Often, my meta-writing is fragmentary, frequently not even complete sentences.
 Sometimes, my meta-writing might contain colorful language, like, "here you want to say, this is stupid", and "here, you want to brag about your results".
 Obviously, you should turn these suggestions into academically acceptable writing.
 
-## After I've Done a Major Rewriting Pass
+## After My Input
 
 ### Comparing Before and After
 
