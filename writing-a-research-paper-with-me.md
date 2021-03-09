@@ -179,3 +179,18 @@ After I've done a major rewriting of sections in your paper, you need to do what
 That is, go back through the entire paper and make sure the writing is consistent.
 For example, if in the introduction I use a particular phrase to describe a technique, then make sure the phrasing is propagated forward in the results section.
 See ["use consistent terminology"](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md).
+
+## As the Deadline Approaches
+
+As the deadline approaches, the magnitude of changes should decrease, because the chances you'll make the paper worse increase.
+You've been working hard, haven't been getting enough sleep, you're tired, stressed out, etc. and this makes it likely you'll make a mistake.
+Say you've come up with a better way to tell your story, but it's two days before the deadline and it'll require major surgery on the paper (moving sections around, etc.).
+_Resist that urge._
+Chances are you'll leave out some major component accidentally (because you're not left with adequate time for proofreading) and end up making the narrative more confusing.
+
+The truth is that, close to the deadline, you're often agonizing over details that make epsilon difference with respect to acceptance probability.
+Do I add this sentence or take it out?
+Do I use this phrase in the intro or not?
+It likely doesn't matter: the effects of the decisions are far smaller than the variance due to reviewer assignment.
+So, don't stress over it.
+tl;dr &mdashl be careful not to make things worse.
