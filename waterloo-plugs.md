@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+March 31, 2021 - [10 exciting companies founded by UWaterloo alumni](https://blog.waterlooedc.ca/uwaterloo-alumni-founders)
+
 November 17, 2020 - [5 Charts: Waterloo vs. America's top emerging tech hubs](https://blog.waterlooedc.ca/5-charts-waterloo-vs-americas-top-emerging-tech-hubs)
 
 November 17, 2020 - [Canada, a destination for AI talent and innovation](https://www.cifar.ca/cifarnews/2020/11/17/a-look-toward-2030)
