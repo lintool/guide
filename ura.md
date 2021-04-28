@@ -97,7 +97,7 @@ I'm not going to police people's resumes (nor do I have time to).
 However, keep in mind that everything on your resume is subject to verification, so if an interviewer asks, "Oh, you worked with Prof. Lin, what did you work on?"
 You'd better have a good answer.
 (It's a small world, and there's a chance that the interviewer knows me personally, or is a former student, etc.)
-If the interviewer reaches out to me to check (less likely but still possible), I should have something meaningful to say.
+If the interviewer reaches out to me to check (this has happened before), I should have something meaningful to say.
 
 ## My Expectations
 
