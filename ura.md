@@ -52,14 +52,17 @@ Win-win, right?
 Along the way, feel free to improve the documentation, for example, clarify a confusing point.
 When you're done, [send a PR and add to the replication log](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md#replication-log).
 
-## Different Paths
+## Choose Your Path
 
-After the initial screen, you might be interested in different types of research that my students and I work on:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I present ugrads who want to work with me two character class options: data wrangler or muppet trainer. Most want to be the latter these days.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1387051481841373201?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote>
 
-+ [PyGaggle](http://pygaggle.ai/): Neural rankers on top of Pyserini.
-+ [Hedwig](https://github.com/castorini/hedwig): Document classification using neural networks.
-+ [DeeBERT](https://github.com/castorini/DeeBERT): Efficiency issues in transformer-based models, or how do I make inference go vroom!
-+ If you're more interested in the data engineering or systems-building side of my work, the next steps might be to play with [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
+After the initial screen, you can choose from two character classes:
+
++ **Muppet trainer.** You want to train neural networks, and in this specific context, you want to work on neural text ranking, QA, etc. If this is you, then take a look at [PyGaggle](http://pygaggle.ai/) as the next step.
++ **Data wrangler.** You want to work on systems-y and infrastructure related issues, e.g., scaling search systems (including neural inference) and munging large datasets with Spark. If this is you, then take a look at [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
+
+Sorry, "full-stack developer" is not an option here.
+Neither are hybrids, at least to start off.
 
 You can get a sense of how active each research project is by looking at the recent commits, issues, etc.
 Typically, I'll pass you off to one of my graduate students who's leading the project you're interested in, to serve as a mentor.
@@ -116,9 +119,10 @@ Note that, at least in the beginning, it may not be uncommon for me to assign th
 Because of the voluntary nature of URAs, it is hard for me gauge a student's level of interest, or when (if ever) something will be completed.
 Typically, I'll try to coordinate and reduce duplication on GitHub issues, but as tasks move on and off the critical path to my other projects, preemption is a possibility.
 
-## DL-fu
+## DL-fu and Muppet Trainer Character Development
 
-For those students interested in deep learning: in my mind, your mastery of deep learning skills progresses roughly along the following levels:
+Many students want to become muppet trainers, and I have a relatively well-developed character development progression path.
+Your mastery of deep learning skills progresses roughly along the following levels:
 
 + Level 1: You're able to run inference with an existing model.
 + Level 2: You're able to train a NN from scratch and get reasonable results (with existing code).
@@ -129,6 +133,12 @@ The tasks I assign to URAs also tend to follow along this progression.
 Levels 1 and 2 are mostly focused on replication, although replicating training runs is often more complex than just replicating inference runs.
 The beginning of level 3 is typically asking you to help us with experiments by making simple parametric changes, e.g., hyperparameter sweeps.
 This is usually followed by relatively simple model tweaks (e.g., change max to mean pooling), then followed by increasingly substantive model changes until level 4 is reached.
+
+In terms of concrete tasks, beyond the initial screen, do the following:
+
++ [Reproduce the MS MARCO passage subset results](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-passage-subset.md) - this unlocks Level 1 achievements.
++ Sign up for a [Compute Canada account](https://github.com/castorini/onboarding/blob/master/docs/cc-guide.md). Then, go through [this guide](https://github.com/capreolus-ir/capreolus/blob/feature/msmarco_psg/docs/reproduction/MS_MARCO.md) to fine-tune a monoBERT model on [MS MARCO passage dataset](https://github.com/microsoft/MSMARCO-Passage-Ranking) from scratch, using the [Capreolus](https://capreolus.ai/) toolkit. For Compute Canada, 
+you may need to set up the environment following [this guide](https://github.com/capreolus-ir/capreolus/blob/feature/msmarco_psg/docs/setup/setup-cc.md) - this unlocks Level 2 achievements.
 
 ## Transitioning from a URA to a Grad Student
 
