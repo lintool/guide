@@ -50,7 +50,6 @@ This serves two purposes:
 
 Win-win, right?
 Along the way, feel free to improve the documentation, for example, clarify a confusing point.
-When you're done, [send a PR and add to the reproduction log](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md).
 
 ## Choose Your Path
 
