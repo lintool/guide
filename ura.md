@@ -25,8 +25,8 @@ If you'd like to work with me, start with the following:
 + Poke around the [Anserini GitHub repo](http://anserini.io/) and its [Pyserini](http://pyserini.io/) companion (which provides Python bindings).
 + Take a look at the [Anserini and Pyserini online notebooks](https://github.com/castorini/anserini-notebooks) &mdash; spend time to understand what's going on.
 + For some general background, read the [Introduction](http://www.ir.uwaterloo.ca/book/01-introduction.pdf) of Büttcher et al's [IR textbook](http://www.ir.uwaterloo.ca/book/): in particular, 1.1, 1.2, and 1.4.
-+ For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to replicate the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-doc.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the replication log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
-+ Next, do a similar replication, but with Pyserini, [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-doc.md). Anserini is built on Lucene and thus runs on the JVM. Pyserini provides the Python bindings that interface with PyTorch, our deep learning toolkit of choice.
++ For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to reproduce the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-doc.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the reproduction log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
++ Next, do a similar reproduction, but with Pyserini, [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-doc.md). Anserini is built on Lucene and thus runs on the JVM. Pyserini provides the Python bindings that interface with PyTorch, our deep learning toolkit of choice.
 
 You can send me an email after you've done all of the above.
 In you email, mention the phrase "banana odyssey": this lets me know you've actually read this document.
@@ -35,14 +35,14 @@ In you email, mention the phrase "banana odyssey": this lets me know you've actu
 Think of the above as an "initial screen", which is necessary because I get many requests to work with me and don't have time to respond to them all in a customized manner.
 Those tasks shouldn't take more than a few hours, and it's an opportunity to see if you're truly interested in my work.
 
-## What's the Deal with All This Replication?
+## What's the Deal with All This Reproduction?
 
 I believe strongly in open science.
 To the extent that I can (keeping in mind that my students are actually the ones doing the work), I insist that _all_ research is backed by open-source code.
 But not just open-source code, _usable_ open-source code.
-We (try not to) just throw shit over the wall, but release code that allows anyone to _replicate_ our work, i.e., you can run our code and get the same results.
+We (try not to) just throw shit over the wall, but release code that allows anyone to _reproduce_ our work, i.e., you can run our code and get the same results.
 
-Almost always, the first tasks that I ask my URAs to do is to replicate some existing piece of work.
+Almost always, the first tasks that I ask my URAs to do is to reproduce some existing piece of work.
 This serves two purposes:
 
 + For you, it offers an entry into our research. See if you like it.
@@ -50,7 +50,7 @@ This serves two purposes:
 
 Win-win, right?
 Along the way, feel free to improve the documentation, for example, clarify a confusing point.
-When you're done, [send a PR and add to the replication log](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md#replication-log).
+When you're done, [send a PR and add to the reproduction log](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md).
 
 ## Choose Your Path
 
@@ -136,9 +136,9 @@ This is usually followed by relatively simple model tweaks (e.g., change max to 
 
 In terms of concrete tasks, beyond the initial screen, do the following:
 
-+ [Reproduce the MS MARCO passage subset results](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-passage-subset.md) - this unlocks Level 1 achievements.
++ [Reproduce the MS MARCO passage subset results](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-passage-subset.md). This task unlocks Level 1 achievements.
 + Sign up for a [Compute Canada account](https://github.com/castorini/onboarding/blob/master/docs/cc-guide.md). Then, go through [this guide](https://github.com/capreolus-ir/capreolus/blob/feature/msmarco_psg/docs/reproduction/MS_MARCO.md) to fine-tune a monoBERT model on [MS MARCO passage dataset](https://github.com/microsoft/MSMARCO-Passage-Ranking) from scratch, using the [Capreolus](https://capreolus.ai/) toolkit. For Compute Canada, 
-you may need to set up the environment following [this guide](https://github.com/capreolus-ir/capreolus/blob/feature/msmarco_psg/docs/setup/setup-cc.md) - this unlocks Level 2 achievements.
+you may need to set up the environment following [this guide](https://github.com/capreolus-ir/capreolus/blob/feature/msmarco_psg/docs/setup/setup-cc.md). This task unlocks Level 2 achievements.
 
 ## Transitioning from a URA to a Grad Student
 
