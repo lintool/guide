@@ -64,7 +64,7 @@ After the initial screen, you can choose from two character classes:
 Sorry, "full-stack developer" is not an option here.
 Neither are hybrids, at least to start off.
 
-You can get a sense of how active each research project is by looking at the recent commits, issues, etc.
+You can get a sense of what each of my research projects are up to by looking at the recent commits, issues, etc.
 Typically, I'll pass you off to one of my graduate students who's leading the project you're interested in, to serve as a mentor.
 
 Our job is to find you tasks that:
