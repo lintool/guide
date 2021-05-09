@@ -59,6 +59,7 @@ After the initial screen, you can choose from two character classes:
 
 + **Muppet trainer.** You want to train neural networks, and in this specific context, you want to work on neural text ranking, QA, etc. If this is you, then take a look at [PyGaggle](http://pygaggle.ai/) as the next step.
 + **Data wrangler.** You want to work on systems-y and infrastructure related issues, e.g., scaling search systems (including neural inference) and munging large datasets with Spark. If this is you, then take a look at [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
++ **Blocks stacker.** You want to work on end-to-end applications and interfaces, e.g., composing different building blocks into usable software like our [Covidex](http://covidex.ai/) project.
 
 Sorry, "full-stack developer" is not an option here.
 Neither are hybrids, at least to start off.
