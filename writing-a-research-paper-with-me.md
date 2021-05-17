@@ -190,4 +190,4 @@ Do I add this sentence or take it out?
 Do I use this phrase in the intro or not?
 It likely doesn't matter: the effects of the decisions are far smaller than the variance due to reviewer assignment.
 So, don't stress over it.
-tl;dr &mdashl be careful not to make things worse.
+tl;dr &mdash; be careful not to make things worse.
