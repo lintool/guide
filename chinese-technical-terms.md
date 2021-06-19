@@ -32,6 +32,9 @@ maximize | 最大化 | 最大化 | zuìdà huà
 minimize | 最小化 | 最小化 | zuìxiǎo huà
 similarity | 相似度 | 相似度 | xiāngsì dù
 linear algebra | 线性代数 | 線性代數 | xiànxìng dàishù
+vector | 向量 | 向量 | xiàngliàng
+sparse vector | 稀疏向量 | 稀疏向量 | xīshū xiàngliàng
+dense vector | 稠密向量 (also, 密集向量) | 稠密向量 | chóumì xiàngliàng (mìjí xiàngliàng)
 model | 模型 | 模型 | móxíng
 optimization | 优化 [1] | 優化 [1] | yōuhuà
 regression | 回归 | 回歸 | huíguī
@@ -65,6 +68,7 @@ English | Chinese (simplified) | Chinese (traditional) | Pinyin
 --------|:--|:--|:--
 natural language processing | 自然语言处理 | 自然語言處理 | zìrán yǔyán chǔlǐ
 information retrieval | 信息检索 | 信息檢索 | xìnxī jiǎnsuǒ
+passage retrieval | 段落检索 | 段落檢索 | duànluò jiǎnsuǒ
 unstructured text | 无结构文本 | 無結構文本 | wú jiégòu wénběn
 reading comprehension | 阅读理解 | 閱讀理解 | yuèdú lǐjiě
 intent  | 意图 | 意圖 | yìtú
@@ -86,6 +90,8 @@ feedforward (neural) network | 前馈(神经)网络 | 前饋(神經)網絡 | qi�
 fully-connected (layer) | 全连接(层) | 全連接(層) | quán liánjiē (céng)
 perceptron | 感知器 | 感知器 | gǎnzhī qì
 multi-layer perceptron | 多层感知器 | 多層感知器 | duōcéng gǎnzhī qì
+encoder | 编码器 | 編碼器 | biānmǎ qì
+decoder | 解码器 | 解碼器 | jiěmǎ qì
 word embedding | 单词嵌入 | 單詞嵌入 | dāncí qiànrù
 convolutional (neural) network | 卷积(神经)网络 | 卷積(神經)網絡 | juàn jī (shénjīng) wǎngluò
 feature map | 特征图 | 特徵圖 | tèzhēng tú
