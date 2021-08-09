@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+August 4, 20201 - [Velocity companies secure more than $2 billion in funding](https://uwaterloo.ca/news/media/velocity-companies-secure-more-2-billion-funding): Investments in software and services, deep-tech drive dramatic growth
+
 March 31, 2021 - [10 exciting companies founded by UWaterloo alumni](https://blog.waterlooedc.ca/uwaterloo-alumni-founders)
 
 November 17, 2020 - [5 Charts: Waterloo vs. America's top emerging tech hubs](https://blog.waterlooedc.ca/5-charts-waterloo-vs-americas-top-emerging-tech-hubs)
