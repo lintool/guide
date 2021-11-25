@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo well-represented on Deloitte Technology Fast 50 <a href="https://t.co/WkdTETb18I">https://t.co/WkdTETb18I</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1462757507236089858?ref_src=twsrc%5Etfw">November 22, 2021</a></blockquote>
+
+November 17, 2021 - [Waterloo well-represented on Deloitte Technology Fast 50](https://blog.waterlooedc.ca/waterloo-deloitte-technology-2021): Once again, Waterloo is home to some of Canada’s fastest-growing tech companies, according to a new ranking from Deloitte. The Deloitte Technology Fast 50 list ranks companies by revenue growth percentage over their last four years of operation. In past years, Waterloo has dominated the list, scoring the top three companies in 2019 and top two companies in 2020.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Which college’s alumni generate outsized returns for investors?<br><br>According to our new study based on markup rates, <a href="https://twitter.com/UW?ref_src=twsrc%5Etfw">@UW</a>, <a href="https://twitter.com/UWaterloo?ref_src=twsrc%5Etfw">@UWaterloo</a>, and <a href="https://twitter.com/BrownUniversity?ref_src=twsrc%5Etfw">@BrownUniversity</a> lead the way.<br><br>Read the full study here: <a href="https://t.co/941QYl0Zyy">https://t.co/941QYl0Zyy</a></p>&mdash; AngelList (@AngelList) <a href="https://twitter.com/AngelList/status/1425499724484861960?ref_src=twsrc%5Etfw">August 11, 2021</a></blockquote>
 
 August 11, 2021 - [How Does a Founder's Alma Mater Impact Their Startup's Markup Rate?](https://www.angellist.com/blog/founder-schools) Ranking colleges by the markup rate of their alumni’s startups.
