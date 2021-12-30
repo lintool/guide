@@ -7,6 +7,8 @@ Being an American, it pains me to add entries to this page...
 
 ---
 
+July 13, 2021 - [Woe, Canada: U.S. lawmakers lament skilled immigrants moving north](https://www.cbc.ca/news/world/us-immigration-canada-1.6101735): With reform efforts stalled, U.S. politicians look at Canadian policies
+
 September 10, 2020 - [Covid-19 Interrupts Flow of Foreign Students to U.S.](https://www.bloomberg.com/amp/opinion/articles/2020-09-10/covid-19-interrupts-flow-of-foreign-students-to-u-s-colleges): The question for colleges and universities is: Will they come back when the pandemic is over?
 
 August 6, 2020 - [The Trump administration’s no-blanks policy is the latest Kafkaesque plan designed to curb immigration](https://www.washingtonpost.com/opinions/the-trump-administration-imposes-yet-another-arbitrary-absurd-modification-to-the-immigration-system/2020/08/06/42de75ca-d811-11ea-930e-d88518c57dcc_story.html)
