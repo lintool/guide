@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2021, Waterloo Region welcomed new leaders at two of our most important tech institutions, <a href="https://twitter.com/Communitech?ref_src=twsrc%5Etfw">@Communitech</a> CEO <a href="https://twitter.com/chrisalbinson?ref_src=twsrc%5Etfw">@ChrisAlbinson</a> and the <a href="https://twitter.com/AC_Waterloo?ref_src=twsrc%5Etfw">@AC_Waterloo</a> CEO Jay Krishnan. Find out how they are bringing fresh perspectives to our innovation ecosystem. <a href="https://t.co/kN2STjZfhr">https://t.co/kN2STjZfhr</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1461405089218891782?ref_src=twsrc%5Etfw">November 18, 2021</a></blockquote>
+
+November 18, 2021 - [Waterloo’s new leaders on revitalizing our tech ecosystem](https://blog.waterlooedc.ca/new-leaders-waterloo-tech-ecosystem)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo well-represented on Deloitte Technology Fast 50 <a href="https://t.co/WkdTETb18I">https://t.co/WkdTETb18I</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1462757507236089858?ref_src=twsrc%5Etfw">November 22, 2021</a></blockquote>
 
 November 17, 2021 - [Waterloo well-represented on Deloitte Technology Fast 50](https://blog.waterlooedc.ca/waterloo-deloitte-technology-2021): Once again, Waterloo is home to some of Canada’s fastest-growing tech companies, according to a new ranking from Deloitte. The Deloitte Technology Fast 50 list ranks companies by revenue growth percentage over their last four years of operation. In past years, Waterloo has dominated the list, scoring the top three companies in 2019 and top two companies in 2020.
