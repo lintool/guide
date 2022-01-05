@@ -22,6 +22,8 @@ August 4, 20201 - [Velocity companies secure more than $2 billion in funding](ht
 
 March 31, 2021 - [10 exciting companies founded by UWaterloo alumni](https://blog.waterlooedc.ca/uwaterloo-alumni-founders)
 
+March 17, 2021 - [Canada is the world’s #1 destination for global talent](https://blog.waterlooedc.ca/canada-top-destination-global-talent) according to a report by the Boston Consulting Group.
+
 November 17, 2020 - [5 Charts: Waterloo vs. America's top emerging tech hubs](https://blog.waterlooedc.ca/5-charts-waterloo-vs-americas-top-emerging-tech-hubs)
 
 November 17, 2020 - [Canada, a destination for AI talent and innovation](https://www.cifar.ca/cifarnews/2020/11/17/a-look-toward-2030)
