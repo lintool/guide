@@ -55,7 +55,7 @@ Along the way, feel free to improve the documentation, for example, clarify a co
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I present ugrads who want to work with me two character class options: data wrangler or muppet trainer. Most want to be the latter these days.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1387051481841373201?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote>
 
-After the initial screen, you can choose from two character classes:
+After the initial screen, you can choose from three character classes (the two mentioned above, and another one added later):
 
 + **Muppet trainer.** You want to train neural networks, and in this specific context, you want to work on neural text ranking, QA, etc. If this is you, then take a look at [PyGaggle](http://pygaggle.ai/) as the next step.
 + **Data wrangler.** You want to work on systems-y and infrastructure related issues, e.g., scaling search systems (including neural inference) and munging large datasets with Spark. If this is you, then take a look at [Solr](https://github.com/castorini/anserini/blob/master/docs/solrini.md) and [Elasticsearch](https://github.com/castorini/anserini/blob/master/docs/elastirini.md) integrations with Anserini.
