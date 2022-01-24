@@ -14,7 +14,7 @@ I keep my research notebook in a private GitHub.
 The README.md contains entries in reverse chronological order (latest entries on top).
 
 At the very top of the notebook, I create a cheat sheet for myself containing all those mysterious command-line invocations that are necessary for setting up my environment.
-For example, those crytic conda commands I can never remember.
+For example, those cryptic conda commands I can never remember.
 
 So, I open up README.md in emacs, copy and paste into the shell, and I'm ready to go.
 As I'm working, I'm constantly copying things back and forth from my notebook into the shell and vice versa.
