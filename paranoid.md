@@ -51,7 +51,7 @@ But the downside is that you might get scooped.
 Hence the slogan.
 
 You're not in danger of getting scooped?
-That doesn't mean you're working on an interesting problem.
+That doesn't mean you're not working on an interesting problem.
 It may just mean that you're working on a problem no one cares about.
 
 Many of the remaining retorts I've heard could be characterize as _hubris_ (defined by [Merriam-Webster](https://www.merriam-webster.com/dictionary/hubris) as "exaggerated pride or self-confidence").
