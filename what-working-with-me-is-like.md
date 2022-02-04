@@ -1,5 +1,7 @@
 # What working with me is like
 
+tl;dr - see [Juggling Analogy](juggling.md).
+
 + Unlike most advisors, I don't have regular, fixed meetings with students.
 The rationale is that progress doesn't happen at an even pace.
 Sometimes you're churning out experimental results every two days and need my help interpreting them and formulating next steps&mdash;making you wait until our next weekly meeting reduces your productivity.
