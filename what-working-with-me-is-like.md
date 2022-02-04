@@ -63,3 +63,5 @@ New students have a lot of energy, but lack the experience of knowing what's _in
 + In the above case, after I let the student "spin their wheels" without getting anywhere for a while (for example, the first semester), I'll start nudging them towards more concrete ideas... the nudging becomes more forceful the longer I don't see demonstrable progress.
 + For Ph.D. students, I actually take the opposite approach: I will let students "wander in the wilderness" for a while to develop their own ideas, because that's an important part of the Ph.D. experience.
 
+I recently learned (Feb 2022) that [Austin Henley](https://austinhenley.com/) has a much more pithy way of saying this: ["lead or be led"](https://austinhenley.com/blog/lessonsfrommyphd.html).
+His lesson of "managers as input/output machines" is also quite complementary and consistent with what I've written here.
