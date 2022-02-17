@@ -24,13 +24,22 @@ For example, "neural seq2seq model", "seq2seq neural network", and "seq2seq neur
 If you mix these references, the reader might infer that you are trying to establish some contrast that is likely not your intention.
 
 + **Use parallel structure.**
-Use parallel structure throughout your paper to help your reader quickly grasp what you are trying to convey.
-For example, if you describe three models in your methods section, then make sure that in your results section, the tables or figures show results on those same three models, _in the same presentation order_, with _exactly_ the same name (see point about consistency above).
-If you organize your paper in terms of research questions (RQs), you'll present your RQs in the intro.
-Make sure in the results section that each RQ is answered, _in the same order_, clearly delineated (e.g., with subsections).
-If you claim four model innovations in your introduction, then your methods section should discuss each innovation _in the same order_; ideally, your experiments will show ablations for each of these innovations.
-It would be ideal if you can extend the parallel structure consistently throughout the entire paper, from abstract to conclusion.
-For example, abstract: this paper is about two innovations, A1 and A2; introduction: here is why A1 and A2 are important; related work: A1 is related to this, A2 is related to that; methods: see how A1 and A2 translate directly to M1 and M2; results/discussion: I'll show you that M1 and M2 empirically work and M1+M2 work even better; conclusion: you should now care about A1 and A2.
+Use parallel structure throughout your paper to help your reader quickly grasp what you are trying to convey. For example:
+
+  - If you describe three models in your methods section, then make sure that in your results section, the tables or figures show results on those same three models, _in the same presentation order_, with _exactly_ the same name (see point about consistency above).
+  - If you organize your paper in terms of research questions (RQs), you'll present your RQs in the intro.
+    Make sure in the results section that each RQ is answered, _in the same order_, clearly delineated (e.g., with subsections).
+  - If you claim four model innovations in your introduction, then your methods section should discuss each innovation _in the same order_; ideally, your experiments will show ablations for each of these innovations.
+
+  It would be ideal if you can extend the parallel structure consistently throughout the entire paper, from abstract to conclusion.
+  For example,
+  
+  - abstract: this paper is about two innovations, A1 and A2; 
+  - introduction: here is why A1 and A2 are important; 
+  - related work: A1 is related to this, A2 is related to that; 
+  - methods: see how A1 and A2 translate directly to M1 and M2; 
+  - results/discussion: I'll show you that M1 and M2 empirically work and M1+M2 work even better;
+  - conclusion: you should now care about A1 and A2.
 
 ## Grammar and Style
 
@@ -189,7 +198,7 @@ Either way, "deal with it"!
 + **Watch out for weird hyphenation.**
 Latex does weird hyphenation on line breaks sometimes. For example, analysis might get hyphenated as "anal-ysis", which just looks dirty. MapReduce gets hyphenated as "MapRe-duce", which bugs me. Insert in the preamble `\hyphenation{Map-Reduce}` to specify particular hyphenations you want, or use `\mbox{...}` to suppress hyphenation.
 
-### Cross-Paper Consistency
+## Cross-Paper Consistency
 
 + **Choose your name... wisely.**
 Choose the name you want to use professionally in your papers ("professional name") and make sure to stick to that form _exactly_, across all your publications.
