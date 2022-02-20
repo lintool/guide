@@ -52,7 +52,7 @@ As the noun phrase corresponding to the possessor increases in complexity, I fin
 For example, "state-of-the-art dense retrieval models' popularity" is grammatically correct but I find awkward.
 I would rephrase as "the popularity of state-of-the-art dense retrieval models".
 I encounter this issue frequently with native Mandarin speakers, likely because of 的-constructions, where the A in "A 的 B" can be arbitrarily complex.
-For example, the equivalent of "[ I want to go ] 的 place" (word for word gloss) is perfectly grammatical in Mandarin, whereas in English there is no grammatical counterpart using the possessive morpheme.
+For example, "[ I want to go ] 的 place" (word for word gloss) is perfectly grammatical in Mandarin, whereas in English there is no grammatical counterpart using the possessive morpheme.
 
 + **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refers to measures like latency, throughput, etc.
 NLP (and often IR) researchers, however, often use "performance" to refer to "output quality", which annoys me.
