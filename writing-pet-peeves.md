@@ -43,6 +43,17 @@ Use parallel structure throughout your paper to help your reader quickly grasp w
 
 ## Grammar and Style
 
++ **Possessives.**
+In English, "A's B" and "B of A" are both acceptable ways to indicate possession.
+This is mostly personal style, but I prefer "B of A" since it reads more natural to me.
+So, I would prefer "popularity of dense retrieval" over "dense retrieval's popularity".
+The issue in my mind is the scoping of the possessive morpheme: the actual syntactic structure of the latter is "[ dense retrieval ] 's popularity".
+As the noun phrase corresponding to the possessor increases in complexity, I find the possessive construction increasingly awkward.
+For example, "state-of-the-art dense retrieval models' popularity" is grammatically correct but I find awkward.
+I would rephrase as "the popularity of state-of-the-art dense retrieval models".
+I encounter this issue frequently with native Mandarin speakers, likely because of 的-constructions, where the A in "A 的 B" can be arbitrarily complex.
+For example, the equivalent of "[ I want to go ] 的 place" (word for word gloss) is perfectly grammatical in Mandarin, whereas in English there is no grammatical counterpart using the possessive morpheme.
+
 + **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refers to measures like latency, throughput, etc.
 NLP (and often IR) researchers, however, often use "performance" to refer to "output quality", which annoys me.
 This is especially annoying in papers that _actually_ discuss performance (for example, on model compression), because "better performance" is ambiguous between "faster" (e.g., lower inference latency) and "better" (e.g., higher prediction accuracy).
