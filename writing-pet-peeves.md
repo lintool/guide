@@ -51,18 +51,25 @@ The issue in my mind is the scoping of the possessive morpheme: the actual synta
 As the noun phrase corresponding to the possessor increases in complexity, I find the possessive construction increasingly awkward.
 For example, "state-of-the-art dense retrieval models' popularity" is grammatically correct but I find difficult to read.
 I would rephrase as "the popularity of state-of-the-art dense retrieval models".
-I encounter this issue frequently with native Mandarin speakers, likely because of 的-constructions, where the A in "A 的 B" can be arbitrarily complex.
+
+  I encounter this issue frequently with native Mandarin speakers, likely because of 的-constructions, where the A in "A 的 B" can be arbitrarily complex.
 For example, "[ I want to go ] 的 place" (word for word gloss; translation: "the place where I want to go") is perfectly grammatical in Mandarin, whereas in English there is no grammatical counterpart using the possessive morpheme.
 
 + **Use of the term "performance".** Treatments across different sub-disciplines of computer science differ, but "performance" generally refers to measures like latency, throughput, etc.
 NLP (and often IR) researchers, however, often use "performance" to refer to "output quality", which annoys me.
 This is especially annoying in papers that _actually_ discuss performance (for example, on model compression), because "better performance" is ambiguous between "faster" (e.g., lower inference latency) and "better" (e.g., higher prediction accuracy).
-I like to be as precise as possible.
-For IR papers, I typically use "effectiveness" to refer to output quality in the general sense;
-otherwise, I try to be as precise as possible with terms like "accuracy", "precision", "recall", "loss", "likelihood", "BLEU score", "perplexity", etc. as appropriate.
-In IR papers, I typically use "efficiency" to refer to what other sub-disciplines call "performance" (since IR folks routinely talk about effectiveness/efficiency tradeoffs; it's well-established parlance), but where ever possible I also like to be precise, e.g., lower query latency, higher query throughout, etc.
-As a corollary I tend to avoid phrases like "performs well".
+
+  I like to be as precise as possible.
+In IR papers, I typically use "effectiveness" to refer to output quality in the general sense.
+In NLP papers, I either use "effectiveness" ("our model is more effective") or "output quality" ("our model produces higher quality output").
+Unless the prose becomes awkward (e.g., when comparing many different metrics that measure different things), I try to be as precise as possible with terms like "accuracy", "precision", "recall", "loss", "likelihood", "BLEU score", "ROUGE score", "perplexity", etc. as appropriate.
+(Side note, writing something like "higher BLEU/ROUGE scores" makes a factual statement without getting into a debate on whether higher BLEU/ROUGE scores actually yield better translations/summaries.)
+
+  In all papers, I typically use "efficiency" to refer to what other sub-disciplines call "performance" (since IR folks routinely talk about effectiveness/efficiency tradeoffs; it's well-established parlance), but where ever possible I also like to be precise, e.g., lower query latency, higher query throughout, less training time, etc.
+
+  As a corollary, I tend to avoid phrases like "performs well".
 An exception, however, is the verb "to outperform", which I sometimes use, since in English there is no verbal form that conveys more precision, e.g., "to outprecise".
+So I might write "our model outperforms the baseline" to either mean "faster" or "better output quality"; often, the sense is clear from context.
 
 + **Use of superlatives and "hype phrases".** In short, use sparingly - things like "dramatically improves the user experience" - unless it's actually warranted. If you improve precision from 0.4 to 0.8, calling the improvements _dramatic_ might be warranted. A 5% improvement is not. I would let the results speak from themselves. Overuse of superlatives potentially turns off reviewers.
 
