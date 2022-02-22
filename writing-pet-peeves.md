@@ -2,17 +2,6 @@
 
 ## Organization
 
-+ **Explicit "roadmaps" in prose.**
-By this, I mean a paragraph like "In Section 2 we provide background... Section 3 describes our model... Experimental results are presented in Section 4."
-These are useless and an absolute waste of space.
-Why spend a paragraph describing what I already expect (i.e., all research papers share similar structure) and what I could figure out in two seconds (i.e., I could simply flip ahead and read your section titles).
-An exception to this rule is for theses, where it is common to write something like, "In Chapter 3, I present my model for..."
-However, what follows is typically a paragraph summary of the chapter, so all considered, a roadmap that spans several paragraphs (or often, a bulleted list) isn't that jarring.
-
-+ **Implicit narrative roadmaps.**
-Instead, let your prose implicitly lay out the structure of the paper for your reader.
-For example, if I say that my model has three novel features, then in the methods section there should be three subsections, each corresponding to each novel feature.
-
 + **Use consistent terminology.**
 Use the same words to describe your methods, contributions, etc. throughout the paper.
 Don't say "soft alignment between words in phrases in the question and answer" in one place and then talk about "soft semantic matching" if you mean for them to be the same thing.
@@ -40,6 +29,18 @@ Use parallel structure throughout your paper to help your reader quickly grasp w
   - methods: see how A1 and A2 translate directly to M1 and M2; 
   - results/discussion: I'll show you that M1 and M2 empirically work and M1+M2 work even better;
   - conclusion: you should now care about A1 and A2.
+
++ **Explicit "roadmaps" in prose.**
+By this, I mean a paragraph like "In Section 2 we provide background... Section 3 describes our model... Experimental results are presented in Section 4."
+These are useless and an absolute waste of space.
+Why spend a paragraph describing what I already expect (i.e., all research papers share similar structure) and what I could figure out in two seconds (i.e., I could simply flip ahead and read your section titles).
+An exception to this rule is for theses, where it is common to write something like, "In Chapter 3, I present my model for..."
+However, what follows is typically a paragraph summary of the chapter, so all considered, a roadmap that spans several paragraphs (or often, a bulleted list) isn't that jarring.
+
++ **Implicit narrative roadmaps.**
+Instead, let your prose implicitly lay out the structure of the paper for your reader.
+For example, if I say that my model has three novel features, then in the methods section there should be three subsections, each corresponding to each novel feature.
+This is merely an elaboration of the "use parallel structure" guidance above.
 
 ## Grammar and Style
 
