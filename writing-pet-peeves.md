@@ -30,6 +30,13 @@ Use parallel structure throughout your paper to help your reader quickly grasp w
   - results/discussion: I'll show you that M1 and M2 empirically work and M1+M2 work even better;
   - conclusion: you should now care about A1 and A2.
 
+  This same idea is articulated in [Mensh and Kording (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) as "Rule 4: Optimize your logical flow by avoiding zig-zag and using parallelism".
+
++ **Walk your reader through the results.**
+Don't just throw up a big table and lots of numbers and expect the reader to figure out what's going on.
+A common technique I use is to number the rows and to group semantically similar experimental conditions together, e.g., (1a) and (1b).
+Then, you can write something like "the baselines are shown in rows (1a) and (1b)... the effectiveness of our full model is shown in row (2a)... based on this, we can clearly see that our model yields significantly higher precision across all datasets."
+
 + **Explicit "roadmaps" in prose.**
 By this, I mean a paragraph like "In Section 2 we provide background... Section 3 describes our model... Experimental results are presented in Section 4."
 These are useless and an absolute waste of space.
