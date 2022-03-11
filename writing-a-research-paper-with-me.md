@@ -35,6 +35,8 @@ Recognize that this happens (it's okay, I see it all the time), but resist the u
 
 ## Writing Order
 
+### Start With Results
+
 Start writing your paper from the results section.
 In fact, start with the results figures or tables.
 Usually, we would have discussed the contribution claims of the paper well in advance.
@@ -47,6 +49,10 @@ Focus on the main results first.
 Even if you don't have all the experimental results yet, you can still set up the results tables (with missing entries) or put in a stub for a figure.
 As your experiments progress, it's a matter of filling in values in an empty table, or adding another line in a plot...
 Having these placeholder will allow you to proceed concurrently on the prose.
+
+See my tip on [this page](writing-pet-peeves.md) under "Walk your reader through the results".
+
+### "Middle Sections"
 
 Once you're done with the results section, write the experimental
 setup section. This includes things like what dataset you used, the
@@ -66,13 +72,7 @@ and Related Work", directly following the introduction.
 
 Save the introduction for last.
 
-## Different Sections of the Paper
-
-### Results
-
-See my tip on [this page](writing-pet-peeves.md) under "Walk your reader through the results".
-
-### The Story
+### Save "the Story" for Last
 
 The introduction is
 where you "tell the story" and attempt to convince the reviewer why
