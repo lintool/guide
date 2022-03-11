@@ -70,9 +70,7 @@ Save the introduction for last.
 
 ### Results
 
-Walk your reader through the results.
-Don't just throw up a big table and lots of numbers and expect the reader to figure out what's going on.
-For example, something like, "The baseline is shown in the top row... our technique is shown on the row below... based on this, we can clearly see that our model yields significantly higher precision across all datasets."
+See my tip on [this page](writing-pet-peeves.md) under "Walk your reader through the results".
 
 ### The Story
 
@@ -138,28 +136,23 @@ I will be clear and up front to you and say things like, "I'll have all of Thurs
 
 ### Comparing Before and After
 
-For any part of your paper that I have rewritten, it is important that
-you compare "before" and "after" (look at the `git` commit), for three
-reasons:
+For any part of your paper that I have rewritten, it is important that you compare "before" and "after", for three reasons:
 
-1. I might have messed up your text. For example, I might have
-described your algorithm wrong.
+1. I might have messed up your text. For example, I might have described your algorithm wrong.
 
-2. Comparing "before" and "after" is critical to your learning
-experience. This is a case study approach: you will see how I have
-better re-expressed your ideas, and over time, your own ability to do
-so will improve. If you have questions about why I have expressed
-something in a certain manner, ask and I will be happy to explain.
+2. Comparing "before" and "after" is critical to your learning experience and an important component of my mentoring.
+This is a case study approach: you will see how I have better re-expressed your ideas, and over time, your own ability to do so will improve.
+If you have questions about why I have expressed something in a certain manner, ask and I will be happy to explain.
 
-3. I may not have actually improved the writing. Senior students come
-up with better ways of "telling the story" than I do. I will engage
-with you and vigorously debate the merits of alternative approaches. I
-will certainly concede if your approach is superior, and I will most
-likely defer to your own judgment if there are pros and cons to
-alternative approaches. I very much welcome these debates and they are
-satisfying, because it means that I have trained you well. I am not
-surprised that you can tell your story better than I can, because,
-after it, it is *your* research.
+3. I may not have actually improved the writing. 
+Senior students come up with better ways of "telling the story" than I do.
+I will engage with you and vigorously debate the merits of alternative approaches.
+I will certainly concede if your approach is superior, and I will most likely defer to your own judgment if there are pros and cons to alternative approaches.
+I very much welcome these debates and they are satisfying, because it means that I have trained you well. 
+I am not surprised that you can tell your story better than I can, because, after it, it is *your* research.
+
+Operationally, I typically turn on track changes in Overleaf.
+You can signal that you've gone over my edits by accepting the changes.
 
 ### Smoothing Pass
 
