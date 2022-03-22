@@ -23,6 +23,8 @@ Fine with me.
 (For some time, a student actually did this.)
 The only caveat is that you might want to have some overlap with my schedule for meetings, discussions, etc.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We asked our employees where they want to work:<br>7% want to go to the office full time<br>31% want an office-remote hybrid<br>62% want to work only from home<br><br>So I told them: sounds great. Do whatever you want. As a CEO, what do I care? If you get your work done, that&#39;s all that matters</p>&mdash; Dan Price (@DanPriceSeattle) <a href="https://twitter.com/DanPriceSeattle/status/1503765177279426574?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote>
+
 ## How much should I work?
 
 For reference, I estimate that I work around 40–50 hours a week.
