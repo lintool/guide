@@ -184,3 +184,24 @@ Do I use this phrase in the intro or not?
 It likely doesn't matter: the effects of the decisions are far smaller than the variance due to reviewer assignment.
 So, don't stress over it.
 tl;dr &mdash; be careful not to make things worse.
+
+## After the Deadline
+
+Take a break and decompress!
+
+Retire technical debt.
+In the run up to the deadline, it is likely you took a bunch of shortcuts, wrote janky code, etc.
+Fix these issues as soon as possible, as technical debt carries with it a high interest rate.
+Otherwise:
+
+**Don't work on the paper any more!**
+Resist the urge to run more experiments, tweak the model, etc.
+The rationale for this is that you'll end up second guessing yourself needlessly about decisions you _could_ have made in writing the paper.
+E.g., "if I had only been able to run this experiment and included it in the paper, it would have a better chance of acceptance!"
+Don't to this!
+You'll just end up stressing yourself out needlessly.
+The paper is done; it's out of your hands.
+Wait for the review process to take its course, and when the notification comes, _then_ think about next steps.
+
+Thus, I advise my students to have multiple projects: once you've submitted the paper, context switch to the other project.
+
