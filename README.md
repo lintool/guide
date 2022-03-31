@@ -45,7 +45,7 @@ Of course, YMMV, and take everything with the usual grain of [NaCl](https://en.w
 Advice by others I've given to my students (and things that I haven't had time to write about):
 
 + [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM): everything you learned about writing in school is wrong!
-+ [Writing advice from the Kording Lab](http://kordinglab.com/2016/01/14/paper101.html), including [the idea of joint writing sessions](http://kordinglab.com/2016/01/13/writing-together.html)
++ [Writing advice from the Kording Lab](http://kordinglab.com/2016/01/14/writing-guide.html), including [the idea of joint writing sessions](http://kordinglab.com/2016/01/13/writing-together.html)
 + [Jordan Boyd-Graber's writing style guide](http://umiacs.umd.edu/~jbg/static/style.html)
 + [Dealing with Rejection](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/) by Niklas Elmqvist
 + [Coping with Rejection](https://www.loom.com/share/89bfb10668d94595b265a156126474a5) by Aditya Parameswaran
