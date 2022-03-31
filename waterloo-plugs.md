@@ -24,6 +24,10 @@ March 31, 2021 - [10 exciting companies founded by UWaterloo alumni](https://blo
 
 March 17, 2021 - [Canada is the world’s #1 destination for global talent](https://blog.waterlooedc.ca/canada-top-destination-global-talent) according to a report by the Boston Consulting Group.
 
+March 4, 2021 - [US Falls Behind Canada as a Work Destination](https://www.bcg.com/press/4march2021-us-falls-behind-canada-work-destination-pandemic-lowers-mobility-global-workforce-study) according to a Survey of 209,000 People in 190 Countries by Boston Consulting. [[PDF](https://web-assets.bcg.com/cf/76/00bdede345b09397d1269119e6f1/bcg-decoding-global-talent-onsite-and-virtual-mar-2021-rr.pdf)]
+
+![Canadian Destination](images/bcg-2021-destinations.png)
+
 November 17, 2020 - [5 Charts: Waterloo vs. America's top emerging tech hubs](https://blog.waterlooedc.ca/5-charts-waterloo-vs-americas-top-emerging-tech-hubs)
 
 November 17, 2020 - [Canada, a destination for AI talent and innovation](https://www.cifar.ca/cifarnews/2020/11/17/a-look-toward-2030)
