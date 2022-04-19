@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+March 21, 2022 - [Toronto, the Quietly Booming Tech Town](https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html): For all the excitement around places like Austin and Miami, the biggest tech expansion has been in Canada’s largest city. ([IA copy](https://web.archive.org/web/20220321070516/https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html))
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2021, Waterloo Region welcomed new leaders at two of our most important tech institutions, <a href="https://twitter.com/Communitech?ref_src=twsrc%5Etfw">@Communitech</a> CEO <a href="https://twitter.com/chrisalbinson?ref_src=twsrc%5Etfw">@ChrisAlbinson</a> and the <a href="https://twitter.com/AC_Waterloo?ref_src=twsrc%5Etfw">@AC_Waterloo</a> CEO Jay Krishnan. Find out how they are bringing fresh perspectives to our innovation ecosystem. <a href="https://t.co/kN2STjZfhr">https://t.co/kN2STjZfhr</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1461405089218891782?ref_src=twsrc%5Etfw">November 18, 2021</a></blockquote>
 
 November 18, 2021 - [Waterloo’s new leaders on revitalizing our tech ecosystem](https://blog.waterlooedc.ca/new-leaders-waterloo-tech-ecosystem)
