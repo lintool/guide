@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nine startups with links to <a href="https://twitter.com/UWaterloo?ref_src=twsrc%5Etfw">@UWaterloo</a> were named in a recent report tracking Canadian companies on their way to $1 billion annual revenues, including four companies that grew out of <a href="https://twitter.com/hashtag/UWaterloo?src=hash&amp;ref_src=twsrc%5Etfw">#UWaterloo</a>’s startup incubator <a href="https://twitter.com/UWVelocity?ref_src=twsrc%5Etfw">@UWVelocity</a>.<br><br>Read this story: <a href="https://t.co/Uw1oa9ZHZ0">https://t.co/Uw1oa9ZHZ0</a> <a href="https://t.co/LfYxxvd6DC">pic.twitter.com/LfYxxvd6DC</a></p>&mdash; University of Waterloo (@UWaterloo) <a href="https://twitter.com/UWaterloo/status/1550485088407896064?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote>
+
+July 21, 2022 - [Waterloo-linked startups on track for billion-dollar annual revenues](https://uwaterloo.ca/news/waterloo-linked-startups-track-billion-dollar-annual): Communitech report highlights Canadian companies with impressive growth.
+
 June 14, 2022 - [Startup Genome report highlights Toronto-Waterloo growth](https://blog.waterlooedc.ca/toronto-waterloo-startup-genome-2022): top tech ecosystem in Canada, #8 in North America and #17 globally.
 
 March 21, 2022 - [Toronto, the Quietly Booming Tech Town](https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html): For all the excitement around places like Austin and Miami, the biggest tech expansion has been in Canada’s largest city. ([IA copy](https://web.archive.org/web/20220321070516/https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html))
