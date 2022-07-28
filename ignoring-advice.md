@@ -58,13 +58,13 @@ Likely negative consequence: your audience is going to get annoyed.
 Advice along these lines isn't a "100% rule", but if you're going to ignore me, you'd better have good reasons [2].
 
 **"It's a good idea to..."** or **"You should..."**
-When I phrase advice positively, it usually means that I am telling you about best practices or preferred solutions.
+When I phrase advice positively, it usually means that I am telling you about best practices, norms, or preferred solutions.
 For example:
 
-+ "It's a good idea to have an explicit statement of contributions in your introduction."
-+ "You should add some ablation conditions here."
++ "It's a good idea to have an explicit statement of contributions in your introduction." (Many reviewers except such a statement, perhaps elevating it to a norm.)
++ "You should add some ablation conditions here." (Running ablations falls under "experimental best practices".)
 
-Advice along these lines should be interpreted as less assertive than above.
+Advice along these lines should be interpreted as less assertive than the "it's a bad idea" variants above.
 There are plenty of violations of best practices [3], but just remember that best practices exist for a reason, and if you wish to violate them, be deliberate in terms of what you hope to accomplish.
 
 **"You might want to..."** or **"You should think about..."** or **"Have you considered..."**
@@ -72,14 +72,14 @@ Take these as suggestions.
 For example:
 
 + "You might want to move that figure here."
-+ "You should think about adding this ablation condition."
++ "You should think about adding this feature to your model." [4]
 
-Often, these comments are made in the context of a discussion where I may not have "thought things through".
-In these cases, give my suggestions some thought, and if they don't make sense, feel free to ignore.
-However, if I bring it up again, it would be nice for you to demonstrate that you've at least considered my feedback, e.g., "Yes, I thought about moving that figure here, but that doesn't make sense because..."
+Often, these comments are made in the context of a discussion where I may not have "thought things through" (completely).
+In these cases, give my suggestions some thought, and if they don't make sense, feel free to ignore them.
+However, if I bring up the same issue again (at a later point in time), it would be nice for you to demonstrate that you've at least considered my feedback, e.g., "Yes, I thought about moving that figure here, but that doesn't make sense because..."
 
 **"... your call"** or **"... I don't feel strongly either way"** or **"I'm agnostic..."**
-This happens often after a discussion wherein multiple options are considered, all of which are reasonable choices.
+This happens often after a discussion wherein multiple options are considered, all of which represent reasonable choices or actions.
 For example:
 
 + "You could phrase it like this... or like that... your call."
@@ -95,4 +95,6 @@ I strive to communicate clearly and directly, but the bottom line is: If you don
 
 [2] Yes, there indeed cases (but relatively rare) where a student ignore my advice in the category, but ended up with a better outcome than would have occurred if my advice had been followed.
 
-[3] In fact, that's one key to progress.
+[3] In fact, violation of best practices is one approach to progress. Learning to rank using tree-based models constituted best practices before the "neural age". Of course, they've since been supplanted (or at the least, augmented) by neural networks.
+
+[4] Note the subtle difference between "you should..." and "you should think about/consider..."
