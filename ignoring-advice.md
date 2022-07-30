@@ -78,7 +78,7 @@ Often, these comments are made in the context of a discussion where I may not ha
 In these cases, give my suggestions some thought, and if they don't make sense, feel free to ignore them.
 However, if I bring up the same issue again (at a later point in time), it would be nice for you to demonstrate that you've at least considered my feedback, e.g., "Yes, I thought about moving that figure here, but that doesn't make sense because..."
 
-**"... your call"** or **"... I don't feel strongly either way"** or **"I'm agnostic..."**
+**"... your call"** or **"... I don't feel strongly either way"** or **"I'm agnostic..."** or 🤷.
 This happens often after a discussion wherein multiple options are considered, all of which represent reasonable choices or actions.
 For example:
 
