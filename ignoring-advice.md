@@ -1,4 +1,4 @@
-# Should You Follow My Advice?
+# Should You Take My Advice?
 
 I often say to my students, "I am your advisor, not your boss."
 As an advisor, I dispense advice, explaining the consequences of specific actions (both positive and negative), but I rarely tell you what to do.
