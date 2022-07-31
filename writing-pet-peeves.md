@@ -88,7 +88,11 @@ Also, don't forget the determiner in the nominal form, i.e., _the_ state of the 
 
 + **Use of training and test sets.** It's "training set", "validation test", and "test set". Not "testing set". I know, it's odd. I think the non-parallel construction is just idiosyncratic, since "train set" sounds odd.
 
-+ **"Plural" of words like "performance", "effectiveness", "evidence", etc.** The "performance of different models", _not_ "performances of different models". Same with "effectiveness" and "evidence". Mistake also appears in forms like "evidences from multiple experiments support our hypothesis".
++ **"Plural" of words like "performance", "effectiveness", "evidence", "setup", etc.** 
+The "performance of different models", _not_ "performances of different models".
+Same with "effectiveness" and "evidence".
+Mistake also appears in forms like "evidences from multiple experiments support our hypothesis" ("evidence" not "evidences").
+Also, it's "experimental setup" (i.e., singular), even if there are multiple experiments.
 
 + **Continuation of above... you probably don't mean "codes".** If you're talking about source code, the source code of two different programs is still "source code", not "source codes".
 Unless you mean something like "Huffman codes"...
@@ -103,6 +107,11 @@ In this specific case, I have a strong preference for the former, even if you're
 But what if you're analyzing two completely different hypotheses?
 For example, "In this analysis/these analyses we examine our proposed hypotheses..."
 I think both sound fine to me.
+
++ **Related work, or, yet another continuation of above.** "Related work", _not_ "related works". "Work" is a collective noun, like "staff". You don't write "research staffs". Wait, you ask: if this is indeed the case, why would you write ["DaVinci is the creator of several famous _works_ of art"](https://twitter.com/mmparker/status/991012314332545024)? Well, that's a completely different context: "work" in "related work" is intended to refer to a body of work collectively, as in "the literature". You don't write "related literatures" (well, except in a very narrow sense, something like "isolated silos of related literatures"). Note that "DaVinci's work" and "DaVinci's works" are both fine, but in different contexts. The first might refer to his body of work collectively; the second focuses on individual pieces. Also, be aware of subject-verb agreement.
+
++ **Mass vs. count nouns; yes, it's the same issue...**
+"Related work" is actually a specific instance of the mass/count dichotomy in English. What makes it confusing is that for many words, both count and mass interpretations are possible. For example, "Over the course of several internships, I have gained experience in deep learning" (_not_ "experiences"). But, "I love having new experiences when visiting different countries". We write, "Preceding sentences form the context of the dialogue" (_not_ "contexts"), but "In different contexts, people may act differently".
 
 + **Hyphenate compound adjectives.**
 "run" + "time" = ??? The answer is [this](https://homes.cs.washington.edu/~jrw12/runtime.html).
@@ -123,10 +132,6 @@ I think this is fine, but personally, I prefer past tense, e.g., "We applied our
 This makes a sequence like the following sound more natural, e.g., "We applied our models on three benchmark datasets. Based on preliminary experiments, a fourth dataset was discarded because..."
 In consistent present tense, the above sequence sounds really odd, "We apply our models on three benchmark datasets. Based on preliminary experiments, we discard a fourth dataset / a fourth dataset is discarded (?) because..."
 Writing about experiments in the past tense more accurately mirrors reality; you already ran those experiments, now you're just describing them.
-
-+ **Related work.** "Related work", _not_ "related works". "Work" is a collective noun, like "staff". You don't write "research staffs". Wait, you ask: if this is indeed the case, why would you write ["DaVinci is the creator of several famous _works_ of art"](https://twitter.com/mmparker/status/991012314332545024)? Well, that's a completely different context: "work" in "related work" is intended to refer to a body of work collectively, as in "the literature". You don't write "related literatures" (well, except in a very narrow sense, something like "isolated silos of related literatures"). Note that "DaVinci's work" and "DaVinci's works" are both fine, but in different contexts. The first might refer to his body of work collectively; the second focuses on individual pieces. Also, be aware of subject-verb agreement.
-
-+ **Mass vs. count nouns.** "Related work" is actually a specific instance of the mass/count dichotomy in English. What makes it confusing is that for many words, both count and mass interpretations are possible. For example, "Over the course of several internships, I have gained experience in deep learning" (_not_ "experiences"). But, "I love having new experiences when visiting different countries". We write, "Preceding sentences form the context of the dialogue" (_not_ "contexts"), but "In different contexts, people may act differently".
 
 + **Subject-verb agreement issues.** Common subject-verb (note that in Latex this would be an en-dash, see below) agreement issue: "number of sample increases", not "increase". The verb agrees with the head noun, which is number, singular in this case.
 
