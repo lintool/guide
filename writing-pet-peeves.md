@@ -137,6 +137,12 @@ Writing about experiments in the past tense more accurately mirrors reality; you
 
 + **Learn the difference between "that" and "which".** There are already lots of explanations available on the web, so there's no need for me to repeat them: [here's](https://blog.apastyle.org/apastyle/2012/01/that-versus-which.html) a good one.
 
++ **"E.g." and "i.e."**
+"E.g." refers to the Latin expression _exempli gratia_, which means "for example".
+"I.e." refers to the Latin expression _id est_, which means "that is".
+Both are always written with periods and are _always_ offset by a comma, both before and after.
+Correct usage: "I like simple and effective retrieval techniques, e.g., BM25."
+
 + **Always use the [Oxford Comma](https://en.wikipedia.org/wiki/Serial_comma)**.
 
 ## Appearance
