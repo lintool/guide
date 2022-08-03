@@ -208,7 +208,7 @@ A few details:
 
 + [Details matter!](https://twitter.com/aacooper/status/1109678683877310464)
 
-+ Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html).
++ Learn the difference between [an hyphen, en-dash, and em-dash](http://www.thepunctuationguide.com/hyphen-and-dashes.html); here's [another guide](https://style.mla.org/hyphens-and-en-dashes/).
 
   + It's `key--value` as in `key--value` store, not `key-value`.
 
