@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The region is home to some of the world’s most liveable cities, according to an index by the EIU. Explore the list</p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/1557641939750633473?ref_src=twsrc%5Etfw">August 11, 2022</a></blockquote>
+
+August 5, 2022: [The best places to live in North America](https://www.economist.com/graphic-detail/2022/08/05/the-best-places-to-live-in-north-america) &mdash; They’re in Canada.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nine startups with links to <a href="https://twitter.com/UWaterloo?ref_src=twsrc%5Etfw">@UWaterloo</a> were named in a recent report tracking Canadian companies on their way to $1 billion annual revenues, including four companies that grew out of <a href="https://twitter.com/hashtag/UWaterloo?src=hash&amp;ref_src=twsrc%5Etfw">#UWaterloo</a>’s startup incubator <a href="https://twitter.com/UWVelocity?ref_src=twsrc%5Etfw">@UWVelocity</a>.<br><br>Read this story: <a href="https://t.co/Uw1oa9ZHZ0">https://t.co/Uw1oa9ZHZ0</a> <a href="https://t.co/LfYxxvd6DC">pic.twitter.com/LfYxxvd6DC</a></p>&mdash; University of Waterloo (@UWaterloo) <a href="https://twitter.com/UWaterloo/status/1550485088407896064?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote>
 
 July 21, 2022 - [Waterloo-linked startups on track for billion-dollar annual revenues](https://uwaterloo.ca/news/waterloo-linked-startups-track-billion-dollar-annual): Communitech report highlights Canadian companies with impressive growth.
