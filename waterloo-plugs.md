@@ -6,17 +6,25 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo is on a winning streak. For the second year in a row, our region was named the #1 small tech talent market in North America by CBRE.” Find out why: <a href="https://t.co/d8wkuin6ev">https://t.co/d8wkuin6ev</a> <a href="https://t.co/XPi2dVd82d">pic.twitter.com/XPi2dVd82d</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1570371607901904896?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote>
+
+September 13, 2022 - [Waterloo: A CBRE Profile](https://blog.waterlooedc.ca/waterloo-cbre-ecosystem-profile-2022)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The region is home to some of the world’s most liveable cities, according to an index by the EIU. Explore the list</p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/1557641939750633473?ref_src=twsrc%5Etfw">August 11, 2022</a></blockquote>
 
-August 5, 2022: [The best places to live in North America](https://www.economist.com/graphic-detail/2022/08/05/the-best-places-to-live-in-north-america) &mdash; They’re in Canada.
+August 5, 2022 - [The best places to live in North America](https://www.economist.com/graphic-detail/2022/08/05/the-best-places-to-live-in-north-america) &mdash; They’re in Canada.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nine startups with links to <a href="https://twitter.com/UWaterloo?ref_src=twsrc%5Etfw">@UWaterloo</a> were named in a recent report tracking Canadian companies on their way to $1 billion annual revenues, including four companies that grew out of <a href="https://twitter.com/hashtag/UWaterloo?src=hash&amp;ref_src=twsrc%5Etfw">#UWaterloo</a>’s startup incubator <a href="https://twitter.com/UWVelocity?ref_src=twsrc%5Etfw">@UWVelocity</a>.<br><br>Read this story: <a href="https://t.co/Uw1oa9ZHZ0">https://t.co/Uw1oa9ZHZ0</a> <a href="https://t.co/LfYxxvd6DC">pic.twitter.com/LfYxxvd6DC</a></p>&mdash; University of Waterloo (@UWaterloo) <a href="https://twitter.com/UWaterloo/status/1550485088407896064?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote>
 
 July 21, 2022 - [Waterloo-linked startups on track for billion-dollar annual revenues](https://uwaterloo.ca/news/waterloo-linked-startups-track-billion-dollar-annual): Communitech report highlights Canadian companies with impressive growth.
 
+July 14, 2022 - [CBRE names Waterloo the #1 small tech talent market in North America](https://blog.waterlooedc.ca/cbre-scoring-tech-talent-2022): For the second consecutive year, CBRE has identified Waterloo as the #1 small tech talent market in North America. The report highlights Waterloo’s fast-growing graduate and millennial populations, high degree of tech worker concentration and significant cost advantages.
+
 July 4, 2022 - [Toronto-Waterloo Region Corridor highlighted in 2022 Startup Genome rankings](https://uwaterloo.ca/news/toronto-waterloo-innovation-corridor-rankings-2022): University of Waterloo support for startup community, vision and values reflected in GSER top-20 rank. [Key Insights from #GSER2022](https://startupgenome.com/report/gser2022)
 
 June 14, 2022 - [Startup Genome report highlights Toronto-Waterloo growth](https://blog.waterlooedc.ca/toronto-waterloo-startup-genome-2022): top tech ecosystem in Canada, #8 in North America and #17 globally.
+
+June 13, 2022 - [The world's best and biggest tech schools](https://blog.waterlooedc.ca/global-best-biggest-tech-universities): When quality is (almost) equal you have to move onto other measures. What matters most for a scaling tech company? Quantity. Well, wouldn’t you know it – the University of Waterloo is right there at the top.
 
 March 21, 2022 - [Toronto, the Quietly Booming Tech Town](https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html): For all the excitement around places like Austin and Miami, the biggest tech expansion has been in Canada’s largest city. ([IA copy](https://web.archive.org/web/20220321070516/https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html))
 
