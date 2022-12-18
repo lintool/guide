@@ -134,9 +134,14 @@ I will be clear and up front to you and say things like, "I'll have all of Thurs
 
 ## After My Input
 
-### Comparing Before and After
+### Accepting/Rejecting My Edits: Comparing Before and After
 
-For any part of your paper that I have rewritten, it is important that you compare "before" and "after", for three reasons:
+If I am editing your paper directly, I will use the track changes feature in Overleaf:
+
+**Don't just blindly accept my edits!!**
+
+Instead, _consider_ each edit deliberately before you accept... or reject!
+It is important that you compare "before" and "after", for three reasons:
 
 1. I might have messed up your text. For example, I might have described your algorithm wrong.
 
@@ -151,8 +156,8 @@ I will certainly concede if your approach is superior, and I will most likely de
 I very much welcome these debates and they are satisfying, because it means that I have trained you well. 
 I am not surprised that you can tell your story better than I can, because, after it, it is *your* research.
 
-Operationally, I typically turn on track changes in Overleaf.
-You can signal that you've gone over my edits by accepting the changes.
+When I say "do a cleanup pass", it's a shorthand for asking you to go through the draft and "process" all the tracked changes in manner described above.
+I often "batch up" my edits and will wait until you've done a cleanup before I proceed with more editing.
 
 ### Smoothing Pass
 
