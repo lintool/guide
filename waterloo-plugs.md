@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo is Canada’s 3rd Fastest-Growing Community according to Statistics Canada <a href="https://t.co/wrienZ3pFF">https://t.co/wrienZ3pFF</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1618659787343806476?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote>
+
+[Waterloo is Canada’s 3rd Fastest-Growing Community, Statistics Canada](https://blog.waterlooedc.ca/waterloo-fastest-growing-communities-canada-2023)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo is on a winning streak. For the second year in a row, our region was named the #1 small tech talent market in North America by CBRE.” Find out why: <a href="https://t.co/d8wkuin6ev">https://t.co/d8wkuin6ev</a> <a href="https://t.co/XPi2dVd82d">pic.twitter.com/XPi2dVd82d</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1570371607901904896?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote>
 
 September 13, 2022 - [Waterloo: A CBRE Profile](https://blog.waterlooedc.ca/waterloo-cbre-ecosystem-profile-2022)
