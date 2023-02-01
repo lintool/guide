@@ -6,6 +6,8 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+[The Unicorn League: where top start-up founders went to college](https://www.timeshighereducation.com/student/news/unicorn-league-where-top-start-founders-went-college) &mdash; Waterloo ranks at #11!
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo is Canada’s 3rd Fastest-Growing Community according to Statistics Canada <a href="https://t.co/wrienZ3pFF">https://t.co/wrienZ3pFF</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1618659787343806476?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote>
 
 [Waterloo is Canada’s 3rd Fastest-Growing Community, Statistics Canada](https://blog.waterlooedc.ca/waterloo-fastest-growing-communities-canada-2023)
