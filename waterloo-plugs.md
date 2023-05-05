@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo is like saying you went to Harvard Law&quot;. <a href="https://twitter.com/FT?ref_src=twsrc%5Etfw">@FT</a> highlights <a href="https://twitter.com/hashtag/UWaterloo?src=hash&amp;ref_src=twsrc%5Etfw">#UWaterloo</a> as a breeding-ground for world-class tech talent. <a href="https://t.co/bUuYiObgdu">https://t.co/bUuYiObgdu</a></p>&mdash; University of Waterloo (@UWaterloo) <a href="https://twitter.com/UWaterloo/status/1651965555748884482?ref_src=twsrc%5Etfw">April 28, 2023</a></blockquote>
+
+April 28, 2023 - [Toronto capitalises on tech success](https://www.ft.com/content/f9b97a19-631c-46f5-bb4b-0ca28c6cc16e): City’s start-up scene is maturing after years of dizzying growth
+
 [The Unicorn League: where top start-up founders went to college](https://www.timeshighereducation.com/student/news/unicorn-league-where-top-start-founders-went-college) &mdash; Waterloo ranks at #11!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo is Canada’s 3rd Fastest-Growing Community according to Statistics Canada <a href="https://t.co/wrienZ3pFF">https://t.co/wrienZ3pFF</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1618659787343806476?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote>
