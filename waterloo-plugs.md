@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo attracts companies that are developing highly sophisticated technology solutions and seeking a dynamic ecosystem that allows for collaboration and innovation,” said Waterloo EDC (<a href="https://twitter.com/WaterlooEDC?ref_src=twsrc%5Etfw">@WaterlooEDC</a>) Market Development Manager Cameron Branston. 1/2<a href="https://t.co/kJiHdDatHP">https://t.co/kJiHdDatHP</a> <a href="https://t.co/GHT4QpbLIQ">pic.twitter.com/GHT4QpbLIQ</a></p>&mdash; Waterloo&#39;s Cheriton School of Computer Science (@UWCheritonCS) <a href="https://twitter.com/UWCheritonCS/status/1678456151892008960?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote>
+
+July 7, 2023 - [University of Waterloo Recognized for World-Class Tech Talent Pipeline](https://techtalent.ca/university-waterloo-tech-talent-pipeline/)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo is like saying you went to Harvard Law&quot;. <a href="https://twitter.com/FT?ref_src=twsrc%5Etfw">@FT</a> highlights <a href="https://twitter.com/hashtag/UWaterloo?src=hash&amp;ref_src=twsrc%5Etfw">#UWaterloo</a> as a breeding-ground for world-class tech talent. <a href="https://t.co/bUuYiObgdu">https://t.co/bUuYiObgdu</a></p>&mdash; University of Waterloo (@UWaterloo) <a href="https://twitter.com/UWaterloo/status/1651965555748884482?ref_src=twsrc%5Etfw">April 28, 2023</a></blockquote>
 
 April 28, 2023 - [Toronto capitalises on tech success](https://www.ft.com/content/f9b97a19-631c-46f5-bb4b-0ca28c6cc16e): City’s start-up scene is maturing after years of dizzying growth
