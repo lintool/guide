@@ -23,10 +23,10 @@ And everything in between... one common outcome is that you start as an URA and 
 If you'd like to work with me, start with the following:
 
 + Poke around the [Anserini GitHub repo](http://anserini.io/) and its [Pyserini](http://pyserini.io/) companion (which provides Python bindings).
-+ Take a look at the [Anserini and Pyserini online notebooks](https://github.com/castorini/anserini-notebooks) &mdash; spend time to understand what's going on.
 + For some general background, read the [Introduction](https://plg.uwaterloo.ca/~ir/ir/book/01-introduction.pdf) of Büttcher et al's [IR textbook](https://plg.uwaterloo.ca/~ir/ir/book/): in particular, 1.1, 1.2, and 1.4.
-+ For an introduction to question answering, read [this paper](https://arxiv.org/pdf/1611.09268.pdf) and try to reproduce the experiments [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-doc.md). These results correspond to the BM25 baseline on the [MS MARCO Leaderboard](https://microsoft.github.io/msmarco/). If you've done this successfully, send a PR to add to the reproduction log at the bottom of the experiments page. In your PR describe your environment (and any issues you may have encountered).
-+ Next, do a similar reproduction, but with Pyserini, [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-passage.md) and [here](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-doc.md). Anserini is built on Lucene and thus runs on the JVM. Pyserini provides the Python bindings that interface with PyTorch, our deep learning toolkit of choice.
++ The onboarding path starts [here](https://github.com/castorini/anserini/blob/master/docs/start-here.md). Begin your journey.
++ Onboarding continues with [BM25 Baselines for MS MARCO Passage Ranking **in Anserini**](https://github.com/castorini/anserini/blob/master/docs/experiments-msmarco-passage.md).
++ Onboarding continues with [BM25 Baseline for MS MARCO Passage Ranking **in Pyserini**](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-passage.md).
 
 You can send me an email after you've done all of the above.
 In you email, mention the phrase "banana odyssey": this lets me know you've actually read this document.
