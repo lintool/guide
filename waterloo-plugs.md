@@ -6,6 +6,14 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+July 20, 2023 - [Waterloo is #1 Small Tech Talent Market for 3rd Year in a Row](https://www.waterlooedc.ca/blog/cbre-scoring-tech-talent-2023)
+
+[Scoring Tech Talent 2023](https://www.cbre.com/insights/books/scoring-tech-talent-2023)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Waterloo?src=hash&amp;ref_src=twsrc%5Etfw">#Waterloo</a> has once again been named the #1 small <a href="https://twitter.com/hashtag/techtalent?src=hash&amp;ref_src=twsrc%5Etfw">#techtalent</a> market in North America in the latest <a href="https://twitter.com/CBRE?ref_src=twsrc%5Etfw">@CBRE</a> Scoring Tech Talent report — marking the third year in a row the region has claimed the title.<br><br>Explore the key findings from the report: <a href="https://t.co/5zEPVKK8jp">https://t.co/5zEPVKK8jp</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1682089239641464865?ref_src=twsrc%5Etfw">July 20, 2023</a></blockquote>
+
+July 19, 2023 -[H-1B Visa Holder Applications Overwhelm Canada’s New Program](https://www.forbes.com/sites/stuartanderson/2023/07/19/h-1b-visa-holder-applications-overwhelm-canadas-new-program/)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Waterloo attracts companies that are developing highly sophisticated technology solutions and seeking a dynamic ecosystem that allows for collaboration and innovation,” said Waterloo EDC (<a href="https://twitter.com/WaterlooEDC?ref_src=twsrc%5Etfw">@WaterlooEDC</a>) Market Development Manager Cameron Branston. 1/2<a href="https://t.co/kJiHdDatHP">https://t.co/kJiHdDatHP</a> <a href="https://t.co/GHT4QpbLIQ">pic.twitter.com/GHT4QpbLIQ</a></p>&mdash; Waterloo&#39;s Cheriton School of Computer Science (@UWCheritonCS) <a href="https://twitter.com/UWCheritonCS/status/1678456151892008960?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote>
 
 July 7, 2023 - [University of Waterloo Recognized for World-Class Tech Talent Pipeline](https://techtalent.ca/university-waterloo-tech-talent-pipeline/)
