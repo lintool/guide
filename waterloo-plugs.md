@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+July 24, 2023 - [From Startups to Tech Titans: The 10 Biggest Tech Companies in Waterloo](https://www.waterlooedc.ca/blog/top-technology-companies-waterloo): Waterloo's tech ecosystem is one of the best in the world. Learn how some of the biggest tech companies got their start in Waterloo and how much they've grown since then.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10 of the largest tech companies thriving in <a href="https://twitter.com/hashtag/Waterloo?src=hash&amp;ref_src=twsrc%5Etfw">#Waterloo</a>: <a href="https://t.co/vk84Cx8xo0">https://t.co/vk84Cx8xo0</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1683523938578571267?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote>
+
 July 20, 2023 - [Waterloo is #1 Small Tech Talent Market for 3rd Year in a Row](https://www.waterlooedc.ca/blog/cbre-scoring-tech-talent-2023)
 
 [Scoring Tech Talent 2023](https://www.cbre.com/insights/books/scoring-tech-talent-2023)
