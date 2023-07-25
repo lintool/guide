@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+July 24, 2023 - [Constant Contact: amplifying digital marketing with AI and machine learning](https://www.investontario.ca/success-stories/constant-contact-amplifying-digital-marketing-ai-machine-learning)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;With the establishment of its new innovation lab in the <a href="https://twitter.com/hashtag/WaterlooRegion?src=hash&amp;ref_src=twsrc%5Etfw">#WaterlooRegion</a>, <a href="https://twitter.com/ConstantContact?ref_src=twsrc%5Etfw">@ConstantContact</a> is making the most of Ontario’s top <a href="https://twitter.com/hashtag/techtalent?src=hash&amp;ref_src=twsrc%5Etfw">#techtalent</a> to help it take its platform and features to new levels.&quot;<br><br>Learn more from <a href="https://twitter.com/investontario?ref_src=twsrc%5Etfw">@investontario</a>&#39;s spotlight: <a href="https://t.co/CAmtTnrJYU">https://t.co/CAmtTnrJYU</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1683567268897144834?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote>
+
 July 24, 2023 - [From Startups to Tech Titans: The 10 Biggest Tech Companies in Waterloo](https://www.waterlooedc.ca/blog/top-technology-companies-waterloo): Waterloo's tech ecosystem is one of the best in the world. Learn how some of the biggest tech companies got their start in Waterloo and how much they've grown since then.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">10 of the largest tech companies thriving in <a href="https://twitter.com/hashtag/Waterloo?src=hash&amp;ref_src=twsrc%5Etfw">#Waterloo</a>: <a href="https://t.co/vk84Cx8xo0">https://t.co/vk84Cx8xo0</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1683523938578571267?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote>
