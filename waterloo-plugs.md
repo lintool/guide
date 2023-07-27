@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+July 26, 2023 - [5 Tech Hubs, Incubators and Accelerators in Waterloo](https://www.waterlooedc.ca/blog/tech-hubs-incubators-accelerators-waterloo): It takes a dynamic community to grow renowned companies, and these active tech hubs, incubators and accelerators have contributed to Waterloo's success.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Startups?src=hash&amp;ref_src=twsrc%5Etfw">#Startups</a>, scale-ups, <a href="https://twitter.com/hashtag/unicorns?src=hash&amp;ref_src=twsrc%5Etfw">#unicorns</a>, global giants – you name it, our tech ecosystem has it. Here’s a list of five hubs, incubators and accelerators powering innovation in <a href="https://twitter.com/hashtag/Waterloo?src=hash&amp;ref_src=twsrc%5Etfw">#Waterloo</a>: <a href="https://t.co/nY0VGDdB9B">https://t.co/nY0VGDdB9B</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1684219541553836037?ref_src=twsrc%5Etfw">July 26, 2023</a></blockquote>
+
 July 24, 2023 - [Constant Contact: amplifying digital marketing with AI and machine learning](https://www.investontario.ca/success-stories/constant-contact-amplifying-digital-marketing-ai-machine-learning)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;With the establishment of its new innovation lab in the <a href="https://twitter.com/hashtag/WaterlooRegion?src=hash&amp;ref_src=twsrc%5Etfw">#WaterlooRegion</a>, <a href="https://twitter.com/ConstantContact?ref_src=twsrc%5Etfw">@ConstantContact</a> is making the most of Ontario’s top <a href="https://twitter.com/hashtag/techtalent?src=hash&amp;ref_src=twsrc%5Etfw">#techtalent</a> to help it take its platform and features to new levels.&quot;<br><br>Learn more from <a href="https://twitter.com/investontario?ref_src=twsrc%5Etfw">@investontario</a>&#39;s spotlight: <a href="https://t.co/CAmtTnrJYU">https://t.co/CAmtTnrJYU</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1683567268897144834?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote>
