@@ -5,6 +5,7 @@ Every time I come across a media mention of the burgeoning tech scene in Waterlo
 I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with a big grain of [NaCl](https://en.wikipedia.org/wiki/Salt).
 
 ---
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/UWaterloo?ref_src=twsrc%5Etfw">@UWaterloo</a>&#39;s world ranking of #22 for <a href="https://twitter.com/hashtag/ComputerScience?src=hash&amp;ref_src=twsrc%5Etfw">#ComputerScience</a> puts it ahead of well-known American tech schools like Columbia University (#23), California Institute of Technology (#36) and the University of Texas at Austin (#36).<br><br>Read more: <a href="https://t.co/3DDkpV5PdZ">https://t.co/3DDkpV5PdZ</a></p>&mdash; Waterloo EDC (@WaterlooEDC) <a href="https://twitter.com/WaterlooEDC/status/1686059898730168354?ref_src=twsrc%5Etfw">July 31, 2023</a></blockquote>
 
 July 26, 2023 - [5 Tech Hubs, Incubators and Accelerators in Waterloo](https://www.waterlooedc.ca/blog/tech-hubs-incubators-accelerators-waterloo): It takes a dynamic community to grow renowned companies, and these active tech hubs, incubators and accelerators have contributed to Waterloo's success.
 
