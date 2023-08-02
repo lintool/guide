@@ -34,7 +34,7 @@ July 7, 2023 - [University of Waterloo Recognized for World-Class Tech Talent Pi
 
 April 28, 2023 - [Toronto capitalises on tech success](https://www.ft.com/content/f9b97a19-631c-46f5-bb4b-0ca28c6cc16e): City’s start-up scene is maturing after years of dizzying growth
 
-[The Unicorn League: where top start-up founders went to college](https://www.timeshighereducation.com/student/news/unicorn-league-where-top-start-founders-went-college) &mdash; Waterloo ranks at #11!
+March 24, 2023 - [Report: UWaterloo is One of the World’s Best Tech Universities](https://www.waterlooedc.ca/blog/uwaterloo-qs-rankings-2023): The University of Waterloo has been ranked in the top-25 tech universities in the world. Find out how it stacks up against other well-known schools.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waterloo is Canada’s 3rd Fastest-Growing Community according to Statistics Canada <a href="https://t.co/wrienZ3pFF">https://t.co/wrienZ3pFF</a></p>&mdash; R+T PARK (@RTPARKUW) <a href="https://twitter.com/RTPARKUW/status/1618659787343806476?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote>
 
@@ -181,6 +181,8 @@ October 19, 2017 - [Shopify to expand in Waterloo, no fear of Amazon, VP says](h
 October 5, 2017 - [Canada becoming an in-demand destination for foreign tech talent](https://beta.theglobeandmail.com/report-on-business/careers/management/canada-becoming-an-in-demand-destination-for-foreign-tech-talent/article36499942/)
 
 September 16, 2017 - [Increasingly, foreign students are choosing Canada over US](http://www.bostonglobe.com/metro/2017/09/16/increasingly-foreign-students-choose-canada-over/khkot6AYt9lakpIFLTNGvM/story.html)
+
+January 24, 2017 - [The Unicorn League: where top start-up founders went to college](https://www.timeshighereducation.com/student/news/unicorn-league-where-top-start-founders-went-college) &mdash; Waterloo ranks at #11!
 
 August 31, 2017 - [4 reasons startups should consider moving to Toronto](http://www.geektime.com/2017/08/31/4-reasons-startups-should-consider-moving-to-toronto/)
 
