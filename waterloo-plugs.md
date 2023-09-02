@@ -6,6 +6,10 @@ I'll admit, some of these reports are a bit "flaky" and hype-ish... so take with
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/GoC?src=hash&amp;ref_src=twsrc%5Etfw">#GoC</a> supports Canada’s research ecosystem.<br><br>Yesterday, we announced support for over 4,700 researchers and projects across Canada through grants, scholarships and programs. <br><br>Learn more: <a href="https://t.co/ATKb7HhoCD">https://t.co/ATKb7HhoCD</a> <a href="https://t.co/sM0pwHyyWu">pic.twitter.com/sM0pwHyyWu</a></p>&mdash; Canadian Science (@CDNScience) <a href="https://twitter.com/CDNScience/status/1696959308527714319?ref_src=twsrc%5Etfw">August 30, 2023</a></blockquote>
+
+August 29, 2023 - [Government of Canada invests in over 4,700 researchers across the country](https://www.canada.ca/en/innovation-science-economic-development/news/2023/08/government-of-canada-invests-in-over-4700-researchers-across-the-country.html)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to a report from <a href="https://twitter.com/TechCouncils?ref_src=twsrc%5Etfw">@TechCouncils</a>, Canada welcomed over 32,000 tech workers in past 12 months. Learn more about their findings -&gt;<a href="https://t.co/iiyBMNDjHe">https://t.co/iiyBMNDjHe</a> <a href="https://t.co/NdjHToXgMr">pic.twitter.com/NdjHToXgMr</a></p>&mdash; Communitech (@Communitech) <a href="https://twitter.com/Communitech/status/1697293520237645983?ref_src=twsrc%5Etfw">August 31, 2023</a></blockquote>
 
 July 11, 2023 - [Canada welcomed over 32,000 tech workers in past 12 months](https://communitech.ca/media-release/canada-welcomed-more-than-32000-tech-workers-over-past-12-months.html)
