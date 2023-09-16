@@ -46,3 +46,6 @@ To be an exception requires, I think, incredible inner drive to continue publish
 How to maintain this "fire" and "hunger" in the presence of pressure to ship products, organizational politics, as well as competing demands outside of work (e.g., family) is challenging.
 This is why I say working in industry is a one-way street out of academia.
 
+(Update, 2023/09/16): [Russ Salakhutdinov](https://en.wikipedia.org/wiki/Russ_Salakhutdinov) basically says the same thing... "Going into industry is usually a one-way street".
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I get asked a lot: why stay in academia, all the excitement in AI is happening in industry with massive compute. And I am seeing some profs leaving academia, but also seeing lots of researchers in industry looking to go back to academia, especially those who don’t work on LLMs.…</p>&mdash; Russ Salakhutdinov (@rsalakhu) <a href="https://twitter.com/rsalakhu/status/1702702142640042386?ref_src=twsrc%5Etfw">September 15, 2023</a></blockquote>
