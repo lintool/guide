@@ -170,9 +170,17 @@ Rewrite the text slightly so this doesn't happen.
 + **A citation is not a noun phrase.** For example, "... is shown in [5]" is bad; should be "... is shown by Smith et al. [5]". However, I break this rule myself sometimes, especially if I'm trying to save a bit of space.
 
 + **Name your proceedings volumes consistently in the bibliography.**
-I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", "SIGIR'12", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography.
+I hate seeing "SIGIR 2015", "Proceedings of SIGIR 2014", "SIGIR'12", and "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval" all in the same bibliography. (More below.)
 The fact that NAACL can't even consistently name its conferences from year to year drives me nuts: it's [NAACL HLT 2018](http://naacl2018.org/) (with a space), before it was [NAACL-HLT 2012](http://mirror.aclweb.org/hlt-naacl12/) (with a dash); back to a space with [NAACL HLT 2010](https://naaclhlt2010.isi.edu/), back to a dash with [NAACL-HLT 2007](http://mirror.aclweb.org/hlt-naacl07/); oh, let's swap the order now with [HLT-NAACL 2006](https://nlp.cs.nyu.edu/hlt-naacl06/), and for good measure let's use a slash in [HLT/NAACL 2004](http://mirror.aclweb.org/hlt-naacl04/); wait, we really wanted a dash in the beginning, with [HLT-NAACL 2003](http://mirror.aclweb.org/hlt-naacl03/).
 So the choice as an author referencing papers is inconsistent citations vs. regularizing the name (which is citing a proceedings volume that never existed).
+
++ **Maddeningly inconsistent volume names... continued...** [SIGIR](https://dl.acm.org/conference/ir/proceedings) can't seem to agree on what to call itself either.
+Up until 2008, it was "Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval" - for some reason, capital "R" but lowercase everything else except for "ACM SIGIR". Okay...?
+But then, SIGIR 2009 became "Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval".
+Still weird cpaitalization, but note the dropping of "annual".
+Starting 2015, we finally arrived at "Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval".
+Guess someone (_finally_) noticed the wierd capitalization?
+(Thankfully, it's been consistent until today.)
 
 ## Polish
 
