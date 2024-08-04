@@ -96,6 +96,21 @@ I end this essay noting, with great relish, that even Albert Einstein [was nearl
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Be Paranoid! Someone is working on your idea right now!&quot; was controversial <a href="https://twitter.com/hashtag/nlproc?src=hash&amp;ref_src=twsrc%5Etfw">#nlproc</a> <a href="https://t.co/xyECGcMCch">https://t.co/xyECGcMCch</a> I submit as further evidence: two papers, both accepted to <a href="https://twitter.com/hashtag/acl2020nlp?src=hash&amp;ref_src=twsrc%5Etfw">#acl2020nlp</a> on same basic idea (BERT early exits). Ours: <a href="https://t.co/junzZZybZw">https://t.co/junzZZybZw</a> Theirs: <a href="https://t.co/W8jVfpKp4b">https://t.co/W8jVfpKp4b</a></p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1262387041641345024?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote>
 
+**Update (2024/08/04):** Documenting another "real-life scoopage" related to work from my group, ["LLMs Can Patch Up Missing Relevance Judgments in Evaluation"](https://arxiv.org/abs/2405.04727), by Upadhyay et al., posted on arXiv May 8. Reaction:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s great to see more work in this area, but don&#39;t we already know that (less powerful) LLMs can produce (soft) graded relevance labels on even less data <a href="https://twitter.com/ehsk0?ref_src=twsrc%5Etfw">@ehsk0</a> <a href="https://twitter.com/lintool?ref_src=twsrc%5Etfw">@lintool</a>?<a href="https://t.co/6lthbvBX1B">https://t.co/6lthbvBX1B</a> <a href="https://t.co/r3m7im3MBr">https://t.co/r3m7im3MBr</a> <a href="https://t.co/NNQCk1aDLo">pic.twitter.com/NNQCk1aDLo</a></p>&mdash; Sean MacAvaney (@macavaney) <a href="https://twitter.com/macavaney/status/1788496219095855390?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote>
+
+To which I responded:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well, the short honest answer is... we got scooped by you et al. This thread of work had been languishing for a long time here - finally was able to push it out.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1788570230857334956?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote>
+
+And, just a day later, a similar paper was posted on arXiv:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Same happened to us. Our arXiv will be out soon 😂</p>&mdash; Mohammad Aliannejadi (@maliannejadi) <a href="https://twitter.com/maliannejadi/status/1788647166858211770?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote>
+
+The paper ["Can We Use Large Language Models to Fill Relevance Judgment Holes?"](https://arxiv.org/abs/2405.05600) by Abbasiantaeb et al. was posted on arXiv May 9.
+Yup, that's a difference of _one day_.
+
 ## Footnotes
 
 [<a name="footnote1">1</a>] I put "statistical" in quotes because that was the term of art back then, but "statistical" is better characterized as "data-driven" in today's parlance.
