@@ -182,6 +182,17 @@ Starting 2015, we finally arrived at "Proceedings of the 38th International ACM 
 Guess someone (_finally_) noticed the wierd capitalization?
 (Thankfully, it's been consistent until today.)
 
++ **Details really matter.**
+Take care to ensure the quality of the bibliography, i.e., make sure you get every citation "right".
+Why is this important?
+I see this as a sign of respect: messing up a citation to me is like messing up someone's name.
+When you meet someone face-to-face for the first time, do you try to learn the correct pronunciation of the person's name?
+Well, this is just like that.
+Whenever I read a paper that cites a work I'm involved in, I get really annoyed if the authors have misspelled a name or otherwise mangled the citation (for example, adding an author that doesn't exist).
+Yes, this happens, especially if the authors just download bibtex references from some third-party source without bothering to check their accuracy.
+Common issues include inconsistent treatment of middle names (middle initial or no? middle initial with a dot or not?) and not capitalizing parts of titles that should be capitalized (e.g., "llm" instead of "`\mbox{LLM}`").
+Please get it right.
+
 ## Polish
 
 + **Fixed-point reading.** This is a technique that I've found to be time consuming but effective in catching typos and final polishing (e.g., for camera-ready submissions).
